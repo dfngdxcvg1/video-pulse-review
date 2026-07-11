@@ -263,5 +263,71 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "tool restoration"
+  },
+  {
+    "id": "Gb4UBK53sGQ",
+    "slug": "the-insane-engineering-of-the-p-38-lightning-what-viewers-should-notice-",
+    "category": "inventions",
+    "title": "The Insane Engineering Of The P-38 Lightning: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": "The Insane Engineering of the P-38 Lightning",
+    "channel": "Real Engineering",
+    "publishedAt": "2025-06-28T16:30:14Z",
+    "viewsLabel": "3,235,225 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Amazing Engineering Build search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "amazing engineering build"
+  },
+  {
+    "id": "0kh9CJUVU60",
+    "slug": "abandoned-monster-truck-chevy-2500hd-first-wash-in-12-what-viewers-shoul",
+    "category": "restoration",
+    "title": "Abandoned Monster Truck Chevy 2500hd First Wash In 12: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Abandoned MONSTER Truck: Chevy 2500HD | First Wash in 12 Years! | Car Detailing Restoration",
+    "channel": "WD Detailing",
+    "publishedAt": "2024-02-03T14:00:01Z",
+    "viewsLabel": "2,497,428 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Abandoned Car Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "abandoned car restoration"
+  },
+  {
+    "id": "DBnfhXnLUmU",
+    "slug": "crocs-slipper-manufacturing-process-start-to-finish-factory-tour-what-vi",
+    "category": "inventions",
+    "title": "Crocs Slipper Manufacturing Process Start To Finish Factory Tour: What Viewers Should Notice in This factory process Video",
+    "sourceTitle": "Crocs Slipper Manufacturing Process – Start to Finish (Factory Tour)",
+    "channel": "Tastie",
+    "publishedAt": "2025-03-05T03:58:36Z",
+    "viewsLabel": "2,497,393 views at review",
+    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Factory Manufacturing Process search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "factory manufacturing process"
   }
 ];
