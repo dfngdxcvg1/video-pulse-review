@@ -461,5 +461,71 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "h89TFhFtQJU",
+    "slug": "restoration-abandoned-bmw-m3-restoration-and-rebuild-bmw-m3-what-viewers",
+    "category": "restoration",
+    "title": "Restoration Abandoned Bmw M3 Restoration And Rebuild Bmw M3: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": "Restoration Abandoned BMW M3 | Restoration and Rebuild BMW M3 Competition",
+    "channel": "RESTORATION KAMASUTRA",
+    "publishedAt": "2024-03-28T17:58:23Z",
+    "viewsLabel": "23,233,346 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Abandoned Car Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "abandoned car restoration"
+  },
+  {
+    "id": "iFJ_hkwQzD0",
+    "slug": "restoration-abandoned-mercedes-benz-actros-semi-trailer-truck-what-viewe",
+    "category": "restoration",
+    "title": "Restoration Abandoned Mercedes-benz Actros Semi Trailer Truck: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Restoration Abandoned Mercedes-Benz Actros Semi Trailer Truck",
+    "channel": "RESTORATION KAMASUTRA",
+    "publishedAt": "2025-03-21T18:51:18Z",
+    "viewsLabel": "21,836,504 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Abandoned Car Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "abandoned car restoration"
+  },
+  {
+    "id": "bADc8TYDvlQ",
+    "slug": "restoring-completely-burned-frank-from-cars-500-deal-full-what-viewers-s",
+    "category": "restoration",
+    "title": "Restoring Completely Burned Frank From Cars 500 Deal Full: What Viewers Should Notice in This factory process Video",
+    "sourceTitle": "Restoring Completely Burned FRANK from Cars ($500 DEAL) | FULL ASMR PROCESS",
+    "channel": "Abandoned Cars TV",
+    "publishedAt": "2026-03-17T14:28:27Z",
+    "viewsLabel": "6,801,460 views at review",
+    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Abandoned Car Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "abandoned car restoration"
   }
 ];
