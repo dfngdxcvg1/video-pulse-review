@@ -329,5 +329,71 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "factory manufacturing process"
+  },
+  {
+    "id": "sx6sHvPDZC8",
+    "slug": "don-t-throw-away-your-old-lawnmower-build-this-what-viewers-should-notic",
+    "category": "inventions",
+    "title": "Don T Throw Away Your Old Lawnmower Build This: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": " ⭐ Don’t Throw Away Your Old Lawnmower — Build THIS Instead ",
+    "channel": "Homemade Inventions",
+    "publishedAt": "2025-11-11T11:48:25Z",
+    "viewsLabel": "1,546,062 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Homemade Inventions search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "homemade inventions"
+  },
+  {
+    "id": "hNNpvvmvyCU",
+    "slug": "21-amazing-mechanical-concepts-explained-and-animated-what-viewers-shoul",
+    "category": "inventions",
+    "title": "21 Amazing Mechanical Concepts Explained And Animated: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": "21 Amazing Mechanical Concepts Explained And Animated!",
+    "channel": "Know Art",
+    "publishedAt": "2024-05-15T14:04:46Z",
+    "viewsLabel": "1,511,976 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Amazing Engineering Build search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "amazing engineering build"
+  },
+  {
+    "id": "dxWb1Vd9aq8",
+    "slug": "20-inventions-that-will-change-the-world-what-viewers-should-notice-in-t",
+    "category": "inventions",
+    "title": "20 Inventions That Will Change The World: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": "20 INVENTIONS THAT WILL CHANGE THE WORLD",
+    "channel": "TechZone",
+    "publishedAt": "2024-07-14T13:00:56Z",
+    "viewsLabel": "1,511,023 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Homemade Inventions search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "homemade inventions"
   }
 ];
