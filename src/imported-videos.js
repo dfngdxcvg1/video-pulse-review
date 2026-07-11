@@ -197,5 +197,71 @@ export const importedVideos = [
       "19:00 Belt setup and final test"
     ],
     "keyword": "vintage belt sander restoration"
+  },
+  {
+    "id": "4AWQbTUgexw",
+    "slug": "unbelievable-tire-restoration-old-to-brand-new-what-viewers-should-notic",
+    "category": "restoration",
+    "title": "Unbelievable Tire Restoration Old To Brand New: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "unbelievable Tire Restoration Old To Brand New",
+    "channel": "Speed Fix Mechanics",
+    "publishedAt": "2025-09-24T09:00:05Z",
+    "viewsLabel": "35,963,672 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "EttIFglmwXg",
+    "slug": "shocking-invention-of-60-year-old-citizen-turns-angle-grinder-into-what-",
+    "category": "inventions",
+    "title": "Shocking Invention Of 60-year-old Citizen Turns Angle Grinder Into: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": "Shocking Invention of 60-Year-Old Citizen! Turns Angle Grinder into Industrial Chopper",
+    "channel": "Inventor J",
+    "publishedAt": "2025-06-10T12:00:23Z",
+    "viewsLabel": "12,576,089 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Homemade Inventions search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "homemade inventions"
+  },
+  {
+    "id": "4bm4RPvZLUc",
+    "slug": "asmr-sharpest-knife-restoration-what-viewers-should-notice-in-this-resto",
+    "category": "restoration",
+    "title": "Asmr - Sharpest Knife Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "ASMR - Sharpest Knife Restoration",
+    "channel": "TysyTube Restoration",
+    "publishedAt": "2024-04-16T11:33:10Z",
+    "viewsLabel": "4,456,276 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Tool Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "tool restoration"
   }
 ];

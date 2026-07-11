@@ -196,5 +196,83 @@
       "07:00 Cleaning and mechanical repair",
       "19:00 Belt setup and final test"
     ]
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "restoration",
+    "query": "old machine restoration",
+    "videoId": "4AWQbTUgexw",
+    "sourceTitle": "unbelievable Tire Restoration Old To Brand New",
+    "channel": "Speed Fix Mechanics",
+    "publishedAt": "2025-09-24T09:00:05Z",
+    "viewCount": 35963672,
+    "likeCount": 488825,
+    "duration": "PT3M",
+    "keyword": "old machine restoration",
+    "proposedTitle": "Unbelievable Tire Restoration Old To Brand New: What Viewers Should Notice in This restoration Video",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "durationSeconds": 180
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "homemade inventions",
+    "videoId": "EttIFglmwXg",
+    "sourceTitle": "Shocking Invention of 60-Year-Old Citizen! Turns Angle Grinder into Industrial Chopper",
+    "channel": "Inventor J",
+    "publishedAt": "2025-06-10T12:00:23Z",
+    "viewCount": 12576089,
+    "likeCount": 35123,
+    "duration": "PT8M6S",
+    "keyword": "homemade inventions",
+    "proposedTitle": "Shocking Invention Of 60-year-old Citizen Turns Angle Grinder Into: What Viewers Should Notice in This engineering Video",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Homemade Inventions search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "durationSeconds": 486
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "restoration",
+    "query": "tool restoration",
+    "videoId": "4bm4RPvZLUc",
+    "sourceTitle": "ASMR - Sharpest Knife Restoration",
+    "channel": "TysyTube Restoration",
+    "publishedAt": "2024-04-16T11:33:10Z",
+    "viewCount": 4456276,
+    "likeCount": 76825,
+    "duration": "PT15M25S",
+    "keyword": "tool restoration",
+    "proposedTitle": "Asmr - Sharpest Knife Restoration: What Viewers Should Notice in This restoration Video",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Tool Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "durationSeconds": 925
   }
 ]

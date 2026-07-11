@@ -1,5 +1,24 @@
 {
-  "added": 0,
-  "totalReviewed": 9,
-  "addedVideos": []
+  "added": 3,
+  "totalReviewed": 12,
+  "addedVideos": [
+    {
+      "videoId": "4AWQbTUgexw",
+      "title": "unbelievable Tire Restoration Old To Brand New",
+      "category": "restoration",
+      "viewCount": 35963672
+    },
+    {
+      "videoId": "EttIFglmwXg",
+      "title": "Shocking Invention of 60-Year-Old Citizen! Turns Angle Grinder into Industrial Chopper",
+      "category": "inventions",
+      "viewCount": 12576089
+    },
+    {
+      "videoId": "4bm4RPvZLUc",
+      "title": "ASMR - Sharpest Knife Restoration",
+      "category": "restoration",
+      "viewCount": 4456276
+    }
+  ]
 }
