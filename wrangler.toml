@@ -1,0 +1,4 @@
+name = "123"
+compatibility_date = "2026-07-11"
+assets = { directory = "outputs/video-pulse" }
+preview_urls = false

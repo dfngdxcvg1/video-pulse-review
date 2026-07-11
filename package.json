@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "auto:update": "node src/fetch-youtube-candidates.mjs && node src/auto-update-videos.mjs && node src/import-reviewed-videos.mjs && node src/build.mjs",
+    "deploy:supabase": "node src/deploy-supabase-storage.mjs",
+    "fetch:candidates": "node src/fetch-youtube-candidates.mjs",
+    "import:reviewed": "node src/import-reviewed-videos.mjs",
+    "serve": "node src/serve.mjs"
+  }
+}

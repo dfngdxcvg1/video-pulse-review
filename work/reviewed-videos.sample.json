@@ -1,0 +1,24 @@
+[
+  {
+    "reviewStatus": "approved",
+    "category": "restoration",
+    "videoId": "ScMzIvxBSi4",
+    "sourceTitle": "Sample restoration source title",
+    "channel": "YouTube Creator",
+    "publishedAt": "2024-04-12T08:00:00Z",
+    "viewCount": 1200000,
+    "keyword": "old machine restoration video",
+    "proposedTitle": "Old Machine Restoration: What Viewers Should Notice in the Repair Process",
+    "summary": "This reviewed sample shows the kind of editorial paragraph each approved video needs before it goes live. Write what happens in the clip, why the process is interesting, what the viewer should watch for, and why the source is worth including in the collection.",
+    "takeaways": [
+      "The page adds context instead of only embedding a player.",
+      "The title targets a specific search intent.",
+      "The source video remains clearly attributed."
+    ],
+    "timestamps": [
+      "00:42 Disassembly begins",
+      "03:16 Damage inspection",
+      "08:25 First restart attempt"
+    ]
+  }
+]

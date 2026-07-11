@@ -1,0 +1,8 @@
+.agents/
+.codex/
+.wrangler/
+node_modules/
+work/logs/
+outputs/*.zip
+outputs/blank-site/
+outputs/blank-site-cloudflare.zip
