@@ -27,6 +27,7 @@ function layout({ title, description, path, body, schema = "" }) {
   <meta property="og:url" content="${esc(url(path))}">
   <link rel="stylesheet" href="/assets/styles.css">
   <script type="module" src="/assets/app.js"></script>
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"d39547fa6ec34dfd99294422c7ff988d"}'></script>
   ${schema}
 </head>
 <body>
