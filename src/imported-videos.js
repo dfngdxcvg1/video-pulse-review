@@ -395,5 +395,71 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "homemade inventions"
+  },
+  {
+    "id": "ZVlv3r1KQyo",
+    "slug": "millions-don-t-know-that-waste-oil-is-a-what-viewers-should-notice-in-th",
+    "category": "inventions",
+    "title": "Millions Don T Know That Waste Oil Is A: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": "Millions Don’t Know That Waste Oil Is a Gold Mine! DIY 3-in-1 Heating Stove",
+    "channel": "Creative inventions LMTN",
+    "publishedAt": "2025-10-25T12:06:23Z",
+    "viewsLabel": "6,198,360 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Homemade Inventions search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "homemade inventions"
+  },
+  {
+    "id": "EWbEXCrdRYk",
+    "slug": "inside-factory-producing-world-s-largest-european-aircraft-what-viewers-",
+    "category": "inventions",
+    "title": "Inside Factory Producing World S Largest European Aircraft: What Viewers Should Notice in This factory process Video",
+    "sourceTitle": "Inside Factory Producing World's Largest European Aircraft",
+    "channel": "FRAME",
+    "publishedAt": "2025-08-02T21:11:01Z",
+    "viewsLabel": "3,865,524 views at review",
+    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Factory Manufacturing Process search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "factory manufacturing process"
+  },
+  {
+    "id": "Fb-FSnUdKWs",
+    "slug": "restoration-of-the-old-trench-gramophone-from-1939-restoration-what-view",
+    "category": "restoration",
+    "title": "Restoration Of The Old Trench Gramophone From 1939 Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "RESTORATION of the old trench GRAMOPHONE from 1939. Restoration of a RUSTY gramophone.",
+    "channel": "PSV Restoration",
+    "publishedAt": "2025-04-24T12:05:42Z",
+    "viewsLabel": "2,252,176 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
