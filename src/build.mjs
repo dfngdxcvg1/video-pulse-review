@@ -125,7 +125,7 @@ for (const v of videos) {
         ${adSlot("in-article")}
         <h2>What to Notice</h2><ul>${v.takeaways.map((t) => `<li>${esc(t)}</li>`).join("")}</ul>
         <h2>Key Moments</h2><ul>${v.timestamps.map((t) => `<li>${esc(t)}</li>`).join("")}</ul>
-        <h2>Source</h2><p>Original video: <a href="https://www.youtube.com/watch?v=${v.id}" rel="nofollow noopener" target="_blank">${esc(v.sourceTitle)}</a> by ${esc(v.channel)}. View data should be refreshed from the YouTube Data API before publication.</p>
+        <h2>Source</h2><p>Original video: <a href="https://www.youtube.com/watch?v=${v.id}" rel="nofollow noopener" target="_blank">${esc(v.sourceTitle)}</a> by ${esc(v.channel)}.</p>
       </article>
       <aside class="sidebar">${adSlot("sidebar")}<h2>Related</h2>${related.map(card).join("")}</aside>
     </main>`
