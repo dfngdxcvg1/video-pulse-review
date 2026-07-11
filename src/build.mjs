@@ -77,6 +77,7 @@ await rm(out, { recursive: true, force: true });
 await mkdir(join(out, "assets"), { recursive: true });
 await copyFile("src/styles.css", join(out, "assets/styles.css"));
 await copyFile("src/app.js", join(out, "assets/app.js"));
+await writeFile(join(out, "google4c9c5b5cfa7f7a88.html"), "google-site-verification: google4c9c5b5cfa7f7a88.html");
 
 await write("index.html", layout({
   title: `${site.name} - Curated YouTube Video Guides`,

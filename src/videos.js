@@ -1,6 +1,6 @@
 export const site = {
   name: "Video Pulse Review",
-  origin: "https://example.com",
+  origin: "https://pingdou123.uk",
   description: "Curated English notes on remarkable public YouTube videos, with context, timestamps, and source links."
 };
 

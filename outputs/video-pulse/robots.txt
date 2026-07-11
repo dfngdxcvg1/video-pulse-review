@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://example.com/sitemap.xml
-Sitemap: https://example.com/video-sitemap.xml
+Sitemap: https://pingdou123.uk/sitemap.xml
+Sitemap: https://pingdou123.uk/video-sitemap.xml
