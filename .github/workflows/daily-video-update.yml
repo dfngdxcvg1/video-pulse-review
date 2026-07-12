@@ -32,8 +32,8 @@ jobs:
       - name: Fetch and build conservative video updates
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          AUTO_APPROVE_LIMIT: "3"
-          YOUTUBE_MAX_RESULTS: "25"
+          AUTO_APPROVE_LIMIT: "5"
+          YOUTUBE_MAX_RESULTS: "40"
           YOUTUBE_REGION: "US"
         run: |
           node src/fetch-youtube-candidates.mjs
