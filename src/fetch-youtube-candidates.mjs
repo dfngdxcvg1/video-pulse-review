@@ -4,7 +4,8 @@ const key = process.env.YOUTUBE_API_KEY;
 if (!key) throw new Error("Set YOUTUBE_API_KEY before running this script.");
 
 const region = process.env.YOUTUBE_REGION || "US";
-const maxPerQuery = process.env.YOUTUBE_MAX_RESULTS || "12";
+const maxPerRequest = Math.min(Number(process.env.YOUTUBE_MAX_RESULTS || 25), 50);
+const targetCandidates = Number(process.env.YOUTUBE_TARGET_CANDIDATES || maxPerRequest * 8);
 const queries = [
   ["restoration", "old machine restoration"],
   ["restoration", "abandoned car restoration"],
@@ -28,21 +29,28 @@ async function request(path, params) {
 
 const searchResults = [];
 for (const [category, q] of queries) {
-  const data = await request("search", {
-    part: "snippet",
-    q,
-    type: "video",
-    videoEmbeddable: "true",
-    videoSyndicated: "true",
-    safeSearch: "strict",
-    relevanceLanguage: "en",
-    regionCode: region,
-    order: "relevance",
-    publishedAfter: "2024-01-01T00:00:00Z",
-    maxResults: maxPerQuery
-  });
-  for (const item of data.items || []) {
-    searchResults.push({ category, query: q, videoId: item.id.videoId, snippet: item.snippet });
+  let pageToken = "";
+  while (searchResults.length < targetCandidates) {
+    const data = await request("search", {
+      part: "snippet",
+      q,
+      type: "video",
+      videoEmbeddable: "true",
+      videoSyndicated: "true",
+      safeSearch: "strict",
+      relevanceLanguage: "en",
+      regionCode: region,
+      order: "relevance",
+      publishedAfter: "2024-01-01T00:00:00Z",
+      maxResults: String(maxPerRequest),
+      ...(pageToken ? { pageToken } : {})
+    });
+    for (const item of data.items || []) {
+      searchResults.push({ category, query: q, videoId: item.id.videoId, snippet: item.snippet });
+    }
+    pageToken = data.nextPageToken || "";
+    if (!pageToken) break;
+    await sleep(180);
   }
   await sleep(180);
 }
