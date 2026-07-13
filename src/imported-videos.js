@@ -813,5 +813,115 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "JN050Q6qAaw",
+    "slug": "restoration-of-a-vintage-wood-numbering-machine-restoration-vintage-what",
+    "category": "restoration",
+    "title": "Restoration Of A Vintage Wood Numbering Machine Restoration Vintage: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Restoration of a Vintage Wood Numbering Machine #restoration #vintage #woodworking #repair",
+    "channel": "Fixing History",
+    "publishedAt": "2026-05-01T03:39:03Z",
+    "viewsLabel": "696,286 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "peOPpcWjblw",
+    "slug": "1928-s-ideal-welding-machine-restoration-the-bizarre-what-viewers-should",
+    "category": "restoration",
+    "title": "1928 S Ideal Welding Machine Restoration - The Bizarre: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "1928's \"Ideal\" Welding Machine Restoration - The BIZARRE Machine That Welds Sawblades?",
+    "channel": "Rusty Shades Restoration",
+    "publishedAt": "2025-09-05T18:01:23Z",
+    "viewsLabel": "647,695 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "eUcXlSjy_dY",
+    "slug": "my-most-satisfying-watch-restoration-vintage-eberhard-co-what-viewers-sh",
+    "category": "restoration",
+    "title": "My Most Satisfying Watch Restoration - Vintage Eberhard Co: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "My Most Satisfying Watch Restoration - Vintage Eberhard & Co Chronograph from 1943",
+    "channel": "Red Dead Restoration",
+    "publishedAt": "2025-07-18T09:58:09Z",
+    "viewsLabel": "566,262 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "Ab02a_EKtcg",
+    "slug": "111-years-old-antique-toaster-restoration-what-viewers-should-notice-in-",
+    "category": "restoration",
+    "title": "111 Years Old Antique Toaster Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "111 Years Old Antique Toaster Restoration",
+    "channel": "Odd Tinkering",
+    "publishedAt": "2025-09-27T18:27:42Z",
+    "viewsLabel": "523,857 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "VHZCBgQ7Xws",
+    "slug": "how-old-pinball-machines-are-professionally-restored-restoration-what-vi",
+    "category": "restoration",
+    "title": "How Old Pinball Machines Are Professionally Restored Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "How Old Pinball Machines Are Professionally Restored | Restoration",
+    "channel": "Masters Of Craft",
+    "publishedAt": "2024-03-02T14:00:17Z",
+    "viewsLabel": "464,352 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
