@@ -1,24 +1,36 @@
 {
-  "added": 3,
-  "totalReviewed": 27,
+  "added": 5,
+  "totalReviewed": 32,
   "addedVideos": [
     {
-      "videoId": "yOWar-Oxlrg",
-      "title": "Antique Villiers Engine Restoration - Will it Ever Run Again?",
+      "videoId": "_uBXMfndo0A",
+      "title": "Restoration of a 1920s horse racing game GeeWIZ",
       "category": "restoration",
-      "viewCount": 1836302
+      "viewCount": 10020381
     },
     {
-      "videoId": "KnRKufcw4-o",
-      "title": "35 EASY SCIENCE EXPERIMENTS TO DO AT HOME by inventor 101",
-      "category": "inventions",
-      "viewCount": 1470329
+      "videoId": "idkVPySLf5Y",
+      "title": "Restoring a 75-year-old drill press   #vintagemachinery #diy",
+      "category": "restoration",
+      "viewCount": 8017305
     },
     {
-      "videoId": "q2aXaCnYaVU",
-      "title": "How Giant Steel Cables Are Made In Massive Production Line | Over 10,000 Feet In Length",
-      "category": "inventions",
-      "viewCount": 727721
+      "videoId": "urItapix3ew",
+      "title": "1929's Live Steam Naumann Machine Restoration - Will It Ever Work Again?",
+      "category": "restoration",
+      "viewCount": 2594686
+    },
+    {
+      "videoId": "3jtk1cCTJSc",
+      "title": "RESTORATION OF a very old RUSTY ALARM CLOCK built in 1950  Amazing clock recovery",
+      "category": "restoration",
+      "viewCount": 1723254
+    },
+    {
+      "videoId": "P0ZGmjkaebw",
+      "title": "Grundig 1958 | One of the Most Beautiful Radios Ever Made",
+      "category": "restoration",
+      "viewCount": 1272105
     }
   ]
 }

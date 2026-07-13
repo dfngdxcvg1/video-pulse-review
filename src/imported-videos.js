@@ -593,5 +593,115 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "factory manufacturing process"
+  },
+  {
+    "id": "_uBXMfndo0A",
+    "slug": "restoration-of-a-1920s-horse-racing-game-geewiz-what-viewers-should-noti",
+    "category": "restoration",
+    "title": "Restoration Of A 1920s Horse Racing Game Geewiz: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Restoration of a 1920s horse racing game GeeWIZ",
+    "channel": "MW Restoration",
+    "publishedAt": "2024-11-29T13:00:53Z",
+    "viewsLabel": "10,020,381 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "idkVPySLf5Y",
+    "slug": "restoring-a-75-year-old-drill-press-vintagemachinery-diy-what-viewers-sh",
+    "category": "restoration",
+    "title": "Restoring A 75-year-old Drill Press Vintagemachinery Diy: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Restoring a 75-year-old drill press   #vintagemachinery #diy",
+    "channel": "Pacific Northwest Hillbilly",
+    "publishedAt": "2025-07-22T20:29:36Z",
+    "viewsLabel": "8,017,305 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "urItapix3ew",
+    "slug": "1929-s-live-steam-naumann-machine-restoration-will-what-viewers-should-n",
+    "category": "restoration",
+    "title": "1929 S Live Steam Naumann Machine Restoration - Will: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "1929's Live Steam Naumann Machine Restoration - Will It Ever Work Again?",
+    "channel": "Rusty Shades Restoration",
+    "publishedAt": "2024-07-25T17:57:01Z",
+    "viewsLabel": "2,594,686 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "3jtk1cCTJSc",
+    "slug": "restoration-of-a-very-old-rusty-alarm-clock-built-what-viewers-should-no",
+    "category": "restoration",
+    "title": "Restoration Of A Very Old Rusty Alarm Clock Built: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "RESTORATION OF a very old RUSTY ALARM CLOCK built in 1950  Amazing clock recovery",
+    "channel": "PSV Restoration",
+    "publishedAt": "2025-02-25T10:59:31Z",
+    "viewsLabel": "1,723,254 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "P0ZGmjkaebw",
+    "slug": "grundig-1958-one-of-the-most-beautiful-radios-ever-what-viewers-should-n",
+    "category": "restoration",
+    "title": "Grundig 1958 One Of The Most Beautiful Radios Ever: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Grundig 1958 | One of the Most Beautiful Radios Ever Made",
+    "channel": "Rusty Restore",
+    "publishedAt": "2025-04-16T14:00:40Z",
+    "viewsLabel": "1,272,105 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
