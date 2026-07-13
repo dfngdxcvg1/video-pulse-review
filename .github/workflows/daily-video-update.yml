@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: daily-video-update-main
+  cancel-in-progress: false
+
 jobs:
   update:
     if: github.actor != 'github-actions[bot]'
@@ -51,6 +55,7 @@ jobs:
             echo "No video updates to commit."
           else
             git commit -m "Update curated video pages"
+            git pull --rebase origin main
             git push
           fi
 
