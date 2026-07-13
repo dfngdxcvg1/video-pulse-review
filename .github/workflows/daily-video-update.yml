@@ -36,7 +36,7 @@ jobs:
       - name: Fetch and build conservative video updates
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          AUTO_APPROVE_LIMIT: "5"
+          AUTO_APPROVE_LIMIT: "8"
           YOUTUBE_MAX_RESULTS: "50"
           YOUTUBE_TARGET_CANDIDATES: "200"
           YOUTUBE_REGION: "US"
