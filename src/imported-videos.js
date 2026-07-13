@@ -703,5 +703,115 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "0NbZp6koXhs",
+    "slug": "three-men-clean-70-year-old-buried-house-and-give-it-what-viewers-should",
+    "category": "restoration",
+    "title": "Three Men Clean 70-year-old Buried House And Give It: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Three Men Clean 70-Year-Old Buried House and Give It a Second Life for Free | by @Cleantheoldhouse",
+    "channel": "Quantum Makers",
+    "publishedAt": "2024-08-02T16:00:01Z",
+    "viewsLabel": "24,655,226 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "nPzVXbrdpHY",
+    "slug": "reviving-a-big-50-year-old-dead-engine-nobody-what-viewers-should-notice",
+    "category": "restoration",
+    "title": "Reviving A Big 50 Year Old Dead Engine Nobody: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Reviving a big 50 Year Old dead Engine Nobody Thought Would Start Again!",
+    "channel": "Techno Fusion HD",
+    "publishedAt": "2025-08-04T07:33:31Z",
+    "viewsLabel": "5,236,509 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "ySo1TaGITZA",
+    "slug": "restoring-1830-40-s-sausage-stuffer-authentic-barn-find-what-viewers-sho",
+    "category": "restoration",
+    "title": "Restoring 1830-40 S Sausage Stuffer Authentic Barn Find: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "RESTORING 1830-40’s Sausage Stuffer ( Authentic Barn Find )",
+    "channel": "Cool Again Restoration",
+    "publishedAt": "2024-07-13T10:12:32Z",
+    "viewsLabel": "2,021,823 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "xRmh3JqXqXw",
+    "slug": "noodles-machine-restoration-we-are-making-homemade-noodles-what-viewers-",
+    "category": "restoration",
+    "title": "Noodles Machine Restoration - We Are Making Homemade Noodles: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Noodles Machine Restoration - We Are Making Homemade Noodles For You!",
+    "channel": "Rusty Shades Restoration",
+    "publishedAt": "2024-01-08T18:48:27Z",
+    "viewsLabel": "1,203,637 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "IZyp78Lr2Ps",
+    "slug": "restoration-shoe-polish-machine-complete-process-what-viewers-should-not",
+    "category": "restoration",
+    "title": "Restoration Shoe Polish Machine - Complete Process: What Viewers Should Notice in This factory process Video",
+    "sourceTitle": "Restoration Shoe Polish Machine - Complete Process",
+    "channel": "MrRescue",
+    "publishedAt": "2024-08-18T11:09:20Z",
+    "viewsLabel": "988,961 views at review",
+    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
