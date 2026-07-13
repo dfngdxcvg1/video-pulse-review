@@ -923,5 +923,181 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "0N68WgcPcws",
+    "slug": "restoration-of-rusty-cordless-drill-what-viewers-should-notice-in-this-r",
+    "category": "restoration",
+    "title": "Restoration Of Rusty Cordless Drill: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Restoration of Rusty Cordless Drill",
+    "channel": "Repair&Restoration",
+    "publishedAt": "2024-09-25T17:00:00Z",
+    "viewsLabel": "1,164,024 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "U4irOOYNFbs",
+    "slug": "the-world-still-needs-these-machines-what-viewers-should-notice-in-this-",
+    "category": "restoration",
+    "title": "The World Still Needs These Machines: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "The World Still Needs These Machines",
+    "channel": "Inheritance Machining",
+    "publishedAt": "2025-10-03T14:00:49Z",
+    "viewsLabel": "890,900 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "XFXqLmi2sdo",
+    "slug": "rusty-vintage-hand-press-juicer-machine-restoration-what-viewers-should-",
+    "category": "restoration",
+    "title": "Rusty Vintage Hand Press Juicer Machine Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Rusty Vintage Hand Press Juicer Machine Restoration",
+    "channel": "Ayaz Restoration",
+    "publishedAt": "2024-11-30T14:00:34Z",
+    "viewsLabel": "270,122 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "6HztWxBoCoU",
+    "slug": "still-works-after-100-years-rusty-antique-flour-mill-what-viewers-should",
+    "category": "restoration",
+    "title": "Still Works After 100 Years Rusty Antique Flour Mill: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Still Works After 100 Years? Rusty Antique Flour Mill Machine Restoration",
+    "channel": "AA Hands",
+    "publishedAt": "2025-07-09T12:59:06Z",
+    "viewsLabel": "265,085 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "oDoH1qg2GZI",
+    "slug": "abandoned-cat-machine-restoration-time-vs-power-what-viewers-should-noti",
+    "category": "restoration",
+    "title": "Abandoned Cat Machine Restoration Time Vs Power: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Abandoned CAT Machine Restoration – Time vs Power",
+    "channel": "Mr Restore",
+    "publishedAt": "2025-10-18T12:01:37Z",
+    "viewsLabel": "245,643 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "P_3r8-vWIBg",
+    "slug": "in-this-video-i-m-restoring-a-very-big-what-viewers-should-notice-in-thi",
+    "category": "restoration",
+    "title": "In This Video I M Restoring A Very Big: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "In this video I'm restoring a very big cleaver. #microservo.   Welcome to Rust To Shine,",
+    "channel": "Rust To Shine",
+    "publishedAt": "2026-07-11T09:00:29Z",
+    "viewsLabel": "204,720 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "o1qZ5UrcWc0",
+    "slug": "1941-singer-sewing-machine-restoration-29k73-what-viewers-should-notice-",
+    "category": "restoration",
+    "title": "1941 Singer Sewing Machine Restoration - 29k73: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "1941 SINGER Sewing Machine Restoration - 29K73",
+    "channel": "NATRA",
+    "publishedAt": "2026-06-05T23:50:56Z",
+    "viewsLabel": "184,919 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "fQBIBCFHRgA",
+    "slug": "i-restored-a-milling-machine-for-my-birthday-it-what-viewers-should-noti",
+    "category": "restoration",
+    "title": "I Restored A Milling Machine For My Birthday It: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "I restored a milling machine for my birthday.  It went well, mostly.",
+    "channel": "Robert Adair",
+    "publishedAt": "2026-01-09T04:58:51Z",
+    "viewsLabel": "169,502 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];

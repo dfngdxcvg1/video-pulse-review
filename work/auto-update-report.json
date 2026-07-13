@@ -1,36 +1,54 @@
 {
-  "added": 5,
-  "totalReviewed": 42,
+  "added": 8,
+  "totalReviewed": 50,
   "addedVideos": [
     {
-      "videoId": "JN050Q6qAaw",
-      "title": "Restoration of a Vintage Wood Numbering Machine #restoration #vintage #woodworking #repair",
+      "videoId": "0N68WgcPcws",
+      "title": "Restoration of Rusty Cordless Drill",
       "category": "restoration",
-      "viewCount": 696286
+      "viewCount": 1164024
     },
     {
-      "videoId": "peOPpcWjblw",
-      "title": "1928's \"Ideal\" Welding Machine Restoration - The BIZARRE Machine That Welds Sawblades?",
+      "videoId": "U4irOOYNFbs",
+      "title": "The World Still Needs These Machines",
       "category": "restoration",
-      "viewCount": 647695
+      "viewCount": 890900
     },
     {
-      "videoId": "eUcXlSjy_dY",
-      "title": "My Most Satisfying Watch Restoration - Vintage Eberhard & Co Chronograph from 1943",
+      "videoId": "XFXqLmi2sdo",
+      "title": "Rusty Vintage Hand Press Juicer Machine Restoration",
       "category": "restoration",
-      "viewCount": 566262
+      "viewCount": 270122
     },
     {
-      "videoId": "Ab02a_EKtcg",
-      "title": "111 Years Old Antique Toaster Restoration",
+      "videoId": "6HztWxBoCoU",
+      "title": "Still Works After 100 Years? Rusty Antique Flour Mill Machine Restoration",
       "category": "restoration",
-      "viewCount": 523857
+      "viewCount": 265085
     },
     {
-      "videoId": "VHZCBgQ7Xws",
-      "title": "How Old Pinball Machines Are Professionally Restored | Restoration",
+      "videoId": "oDoH1qg2GZI",
+      "title": "Abandoned CAT Machine Restoration – Time vs Power",
       "category": "restoration",
-      "viewCount": 464352
+      "viewCount": 245643
+    },
+    {
+      "videoId": "P_3r8-vWIBg",
+      "title": "In this video I'm restoring a very big cleaver. #microservo.   Welcome to Rust To Shine,",
+      "category": "restoration",
+      "viewCount": 204720
+    },
+    {
+      "videoId": "o1qZ5UrcWc0",
+      "title": "1941 SINGER Sewing Machine Restoration - 29K73",
+      "category": "restoration",
+      "viewCount": 184919
+    },
+    {
+      "videoId": "fQBIBCFHRgA",
+      "title": "I restored a milling machine for my birthday.  It went well, mostly.",
+      "category": "restoration",
+      "viewCount": 169502
     }
   ]
 }
