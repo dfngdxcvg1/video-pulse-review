@@ -1099,5 +1099,159 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "PRjt8-67-Gs",
+    "slug": "cordless-drill-restoration-restore-makita-electric-brushless-what-viewer",
+    "category": "restoration",
+    "title": "Cordless Drill Restoration Restore Makita Electric Brushless: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Cordless Drill Restoration // Restore MAKITA Electric Brushless",
+    "channel": "WT Creative",
+    "publishedAt": "2024-06-14T00:15:01Z",
+    "viewsLabel": "955,967 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "jPDksAigBzM",
+    "slug": "ep-141-antique-sewing-machine-restoration-what-viewers-should-notice-in-",
+    "category": "restoration",
+    "title": "Ep 141 Antique Sewing Machine Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Ep. 141 Antique SEWING Machine RESTORATION ",
+    "channel": "Mad City Modern",
+    "publishedAt": "2025-09-12T00:28:40Z",
+    "viewsLabel": "121,917 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "7U3htAn6Kj4",
+    "slug": "the-ultimate-espresso-machine-restoration-what-viewers-should-notice-in-",
+    "category": "restoration",
+    "title": "The Ultimate Espresso Machine Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "The Ultimate Espresso Machine Restoration",
+    "channel": "Lance Hedrick",
+    "publishedAt": "2024-10-24T15:34:44Z",
+    "viewsLabel": "106,671 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "_EC4yidfPuw",
+    "slug": "restoring-an-old-stone-crusher-machine-father-son-engineering-what-viewe",
+    "category": "restoration",
+    "title": "Restoring An Old Stone Crusher Machine Father Son Engineering: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": "Restoring an Old Stone Crusher Machine | Father & Son Engineering Work",
+    "channel": "Torque Garage ",
+    "publishedAt": "2026-07-12T09:12:49Z",
+    "viewsLabel": "69,570 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "_EC4yidfPuw",
+    "slug": "restoring-an-old-stone-crusher-machine-father-son-engineering-what-viewe",
+    "category": "restoration",
+    "title": "Restoring An Old Stone Crusher Machine Father Son Engineering: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": "Restoring an Old Stone Crusher Machine | Father & Son Engineering Work",
+    "channel": "Torque Garage ",
+    "publishedAt": "2026-07-12T09:12:49Z",
+    "viewsLabel": "69,570 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "hp4KxwYyxTI",
+    "slug": "how-to-rescue-an-old-sewing-machine-what-viewers-should-notice-in-this-r",
+    "category": "restoration",
+    "title": "How To Rescue An Old Sewing Machine: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "How to Rescue an Old Sewing Machine",
+    "channel": "Cornelius Quiring",
+    "publishedAt": "2024-05-19T11:00:29Z",
+    "viewsLabel": "65,367 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "zb66R_Ah0vU",
+    "slug": "unbelievable-restoration-rusty-antique-sharpening-machine-restoration-wh",
+    "category": "restoration",
+    "title": "Unbelievable Restoration Rusty Antique Sharpening Machine Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Unbelievable Restoration! Rusty Antique Sharpening Machine Restoration",
+    "channel": "AA Hands",
+    "publishedAt": "2025-03-01T14:59:51Z",
+    "viewsLabel": "58,849 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
