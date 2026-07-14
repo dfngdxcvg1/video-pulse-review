@@ -1253,5 +1253,93 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "sLRdeamcyTU",
+    "slug": "washing-machines-last-no-time-these-days-3-years-what-viewers-should-not",
+    "category": "restoration",
+    "title": "Washing Machines Last No Time These Days 3 Years: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Washing machines last no time these days. 3 years old , second bearing change. #scrap #machine #diy",
+    "channel": "Dean Doherty",
+    "publishedAt": "2026-07-10T17:08:43Z",
+    "viewsLabel": "1,372,675 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "Bd7NC3vFl_g",
+    "slug": "rusty-leather-press-restoration-what-viewers-should-notice-in-this-resto",
+    "category": "restoration",
+    "title": "Rusty Leather Press Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Rusty Leather Press Restoration",
+    "channel": "LADB Restoration",
+    "publishedAt": "2025-09-24T20:06:42Z",
+    "viewsLabel": "203,109 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "p1doVGlrkn4",
+    "slug": "antique-rusty-finger-fries-cutter-machine-restoration-what-viewers-shoul",
+    "category": "restoration",
+    "title": "Antique Rusty Finger Fries Cutter Machine Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Antique Rusty 'Finger Fries Cutter' Machine Restoration",
+    "channel": "AA Hands",
+    "publishedAt": "2024-09-28T15:01:00Z",
+    "viewsLabel": "169,598 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "lo8ruOnx5mM",
+    "slug": "rusty-hand-press-juicer-machine-restoration-what-viewers-should-notice-i",
+    "category": "restoration",
+    "title": "Rusty Hand Press Juicer Machine - Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Rusty Hand Press Juicer Machine - Restoration",
+    "channel": "Ayaz Restoration",
+    "publishedAt": "2024-03-17T14:00:36Z",
+    "viewsLabel": "97,585 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];

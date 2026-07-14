@@ -1,5 +1,30 @@
 {
-  "added": 0,
-  "totalReviewed": 57,
-  "addedVideos": []
+  "added": 4,
+  "totalReviewed": 61,
+  "addedVideos": [
+    {
+      "videoId": "sLRdeamcyTU",
+      "title": "Washing machines last no time these days. 3 years old , second bearing change. #scrap #machine #diy",
+      "category": "restoration",
+      "viewCount": 1372675
+    },
+    {
+      "videoId": "Bd7NC3vFl_g",
+      "title": "Rusty Leather Press Restoration",
+      "category": "restoration",
+      "viewCount": 203109
+    },
+    {
+      "videoId": "p1doVGlrkn4",
+      "title": "Antique Rusty 'Finger Fries Cutter' Machine Restoration",
+      "category": "restoration",
+      "viewCount": 169598
+    },
+    {
+      "videoId": "lo8ruOnx5mM",
+      "title": "Rusty Hand Press Juicer Machine - Restoration",
+      "category": "restoration",
+      "viewCount": 97585
+    }
+  ]
 }
