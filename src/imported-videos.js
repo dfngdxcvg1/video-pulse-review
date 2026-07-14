@@ -1341,5 +1341,181 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "1c8KHflPvPM",
+    "slug": "unbelievable-truck-transformation-restoration-abandoned-pickup-truck-for",
+    "category": "restoration",
+    "title": "Unbelievable Truck Transformation Restoration Abandoned Pickup Truck Ford F-150: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "UNBELIEVABLE Truck Transformation! Restoration Abandoned Pickup Truck Ford F-150",
+    "channel": "RESTORATION KAMASUTRA",
+    "publishedAt": "2025-10-25T19:23:20Z",
+    "viewsLabel": "6,991,137 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Abandoned Car Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "abandoned car restoration"
+  },
+  {
+    "id": "0KhwygVFbCg",
+    "slug": "restoration-abandoned-ford-mustang-shelby-gt500-muscle-car-restoration-w",
+    "category": "restoration",
+    "title": "Restoration Abandoned Ford Mustang Shelby Gt500 Muscle Car Restoration: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": "Restoration Abandoned Ford Mustang Shelby GT500 | Muscle Car Restoration and Rebuild",
+    "channel": "RESTORATION KAMASUTRA",
+    "publishedAt": "2024-07-08T18:27:29Z",
+    "viewsLabel": "6,537,104 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Abandoned Car Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "abandoned car restoration"
+  },
+  {
+    "id": "eGuAC0_E3YE",
+    "slug": "restoration-abandoned-bus-scania-passenger-bus-restoration-what-viewers-",
+    "category": "restoration",
+    "title": "Restoration Abandoned Bus - Scania Passenger Bus Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Restoration Abandoned BUS - Scania Passenger Bus Restoration",
+    "channel": "Restoration",
+    "publishedAt": "2024-10-20T11:36:50Z",
+    "viewsLabel": "6,020,786 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Abandoned Car Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "abandoned car restoration"
+  },
+  {
+    "id": "Ytg_c5JVMUI",
+    "slug": "unbelievable-hypercar-transformation-restoration-abandoned-lamborghini-s",
+    "category": "restoration",
+    "title": "Unbelievable Hypercar Transformation Restoration Abandoned Lamborghini Sian: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "UNBELIEVABLE HYPERCAR Transformation! Restoration Abandoned Lamborghini Sian",
+    "channel": "RESTORATION KAMASUTRA",
+    "publishedAt": "2025-12-20T21:30:39Z",
+    "viewsLabel": "5,753,920 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Abandoned Car Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "abandoned car restoration"
+  },
+  {
+    "id": "A_UV5kdh8hU",
+    "slug": "restoration-abandoned-bmw-m3-restoration-and-rebuild-sport-car-what-view",
+    "category": "restoration",
+    "title": "Restoration Abandoned Bmw M3 Restoration And Rebuild Sport Car: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": "Restoration Abandoned BMW M3 | Restoration and Rebuild Sport Car",
+    "channel": "RESTORATION KAMASUTRA",
+    "publishedAt": "2025-02-13T19:51:14Z",
+    "viewsLabel": "4,453,693 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Abandoned Car Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "abandoned car restoration"
+  },
+  {
+    "id": "A_UV5kdh8hU",
+    "slug": "restoration-abandoned-bmw-m3-restoration-and-rebuild-sport-car-what-view",
+    "category": "restoration",
+    "title": "Restoration Abandoned Bmw M3 Restoration And Rebuild Sport Car: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": "Restoration Abandoned BMW M3 | Restoration and Rebuild Sport Car",
+    "channel": "RESTORATION KAMASUTRA",
+    "publishedAt": "2025-02-13T19:51:14Z",
+    "viewsLabel": "4,453,693 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Abandoned Car Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "abandoned car restoration"
+  },
+  {
+    "id": "_C_OWVCeIZI",
+    "slug": "restoration-abandoned-volkswagen-golf-unbelievable-transformation-what-v",
+    "category": "restoration",
+    "title": "Restoration Abandoned Volkswagen Golf Unbelievable Transformation: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Restoration Abandoned Volkswagen Golf | UNBELIEVABLE Transformation!",
+    "channel": "RESTORATION KAMASUTRA",
+    "publishedAt": "2026-05-07T19:29:04Z",
+    "viewsLabel": "4,259,625 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Abandoned Car Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "abandoned car restoration"
+  },
+  {
+    "id": "PtDo3PHO8rs",
+    "slug": "restoration-abandoned-1970-ford-mustang-restoration-and-rebuild-muscle-w",
+    "category": "restoration",
+    "title": "Restoration Abandoned 1970 Ford Mustang Restoration And Rebuild Muscle: What Viewers Should Notice in This engineering Video",
+    "sourceTitle": "Restoration Abandoned 1970 Ford Mustang | Restoration and Rebuild Muscle Car",
+    "channel": "RESTORATION KAMASUTRA",
+    "publishedAt": "2025-01-11T19:16:57Z",
+    "viewsLabel": "3,894,375 views at review",
+    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Abandoned Car Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "abandoned car restoration"
   }
 ];
