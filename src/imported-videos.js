@@ -1517,5 +1517,49 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "abandoned car restoration"
+  },
+  {
+    "id": "xBesOWuFV5s",
+    "slug": "old-angle-grinder-full-restoration-process-what-viewers-should-notice-in",
+    "category": "restoration",
+    "title": "Old Angle Grinder Full Restoration Process: What Viewers Should Notice in This factory process Video",
+    "sourceTitle": "Old Angle Grinder Full Restoration Process",
+    "channel": "ai. beauty with me",
+    "publishedAt": "2026-07-05T12:12:31Z",
+    "viewsLabel": "6,146,823 views at review",
+    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "pvHHMfX2YAg",
+    "slug": "full-restoration-40-years-old-ruined-of-caterpillar-d8k-what-viewers-sho",
+    "category": "restoration",
+    "title": "Full Restoration 40 Years Old Ruined Of Caterpillar D8k: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Full Restoration 40 Years Old Ruined of Caterpillar D8K 1973 Abandoned Condition Under the seabed",
+    "channel": "Bulldozer Jobs",
+    "publishedAt": "2026-01-27T07:48:58Z",
+    "viewsLabel": "639,194 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
