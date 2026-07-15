@@ -1,18 +1,12 @@
 {
-  "added": 2,
-  "totalReviewed": 71,
+  "added": 1,
+  "totalReviewed": 72,
   "addedVideos": [
     {
-      "videoId": "xBesOWuFV5s",
-      "title": "Old Angle Grinder Full Restoration Process",
+      "videoId": "WaODfQ6UnJQ",
+      "title": "Inside a CPU: Full Teardown of AMD EPYC Processor",
       "category": "restoration",
-      "viewCount": 6146823
-    },
-    {
-      "videoId": "pvHHMfX2YAg",
-      "title": "Full Restoration 40 Years Old Ruined of Caterpillar D8K 1973 Abandoned Condition Under the seabed",
-      "category": "restoration",
-      "viewCount": 639194
+      "viewCount": 1156072
     }
   ]
 }
