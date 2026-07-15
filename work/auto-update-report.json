@@ -1,12 +1,5 @@
 {
-  "added": 1,
+  "added": 0,
   "totalReviewed": 72,
-  "addedVideos": [
-    {
-      "videoId": "WaODfQ6UnJQ",
-      "title": "Inside a CPU: Full Teardown of AMD EPYC Processor",
-      "category": "restoration",
-      "viewCount": 1156072
-    }
-  ]
+  "addedVideos": []
 }
