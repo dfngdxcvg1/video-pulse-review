@@ -12,6 +12,7 @@ if (!existsSync(candidatesPath)) {
 const candidates = JSON.parse(await readFile(candidatesPath, "utf8"));
 const reviewed = existsSync(reviewedPath) ? JSON.parse(await readFile(reviewedPath, "utf8")) : [];
 const existingIds = new Set(reviewed.map((item) => item.videoId));
+const selectedIds = new Set();
 
 const titleRisk = /shorts|#shorts|free energy|tiktok|compilation|crazy|craziest|impossible|secret|top\s*\d+|level\s*\d+|incredible|another level|abandoned car|dollar|worth it|surprise|shark|music|song|movie|film|full episode|challenge|prank|dangerous|gun|weapon|blood|accident|politic|celebrity|ronaldo|mr\. bean/i;
 const preferred = /restoration|restore|factory|manufacturing|process|engineering|machine|mechanical|invention|build|construction|tool|typewriter|vise|sander|grindstone|crayon/i;
@@ -58,6 +59,11 @@ function buildEditorial(item) {
 
 const selected = candidates
   .filter((item) => !existingIds.has(item.videoId))
+  .filter((item) => {
+    if (selectedIds.has(item.videoId)) return false;
+    selectedIds.add(item.videoId);
+    return true;
+  })
   .map((item) => ({ ...item, durationSeconds: durationSeconds(item.duration) }))
   .filter((item) => item.durationSeconds >= 120 && item.durationSeconds <= 1800)
   .filter((item) => item.viewCount >= 50000)

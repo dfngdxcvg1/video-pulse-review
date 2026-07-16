@@ -66,8 +66,14 @@ for (let i = 0; i < ids.length; i += 50) {
 }
 
 const detailById = new Map(details.map((item) => [item.id, item]));
+const seenCandidateIds = new Set();
 const candidates = searchResults
   .map((result) => ({ ...result, detail: detailById.get(result.videoId) }))
+  .filter((item) => {
+    if (seenCandidateIds.has(item.videoId)) return false;
+    seenCandidateIds.add(item.videoId);
+    return true;
+  })
   .filter((item) => item.detail?.status?.embeddable)
   .map((item) => ({
     reviewStatus: "pending",
