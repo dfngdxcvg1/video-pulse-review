@@ -1561,5 +1561,27 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "lUVt-1ZwC9g",
+    "slug": "jb-weld-steelstik-for-rust-holes-rustrepair-rustfix-jbweld-what-viewers-",
+    "category": "restoration",
+    "title": "Jb Weld Steelstik For Rust Holes Rustrepair Rustfix Jbweld: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "JB Weld SteelStik For RUST HOLES!! #rustRepair #rustFix #jbWeld",
+    "channel": "1ROAD",
+    "publishedAt": "2025-03-31T22:00:45Z",
+    "viewsLabel": "194,363 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
