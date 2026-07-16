@@ -1,5 +1,12 @@
 {
-  "added": 0,
-  "totalReviewed": 70,
-  "addedVideos": []
+  "added": 1,
+  "totalReviewed": 71,
+  "addedVideos": [
+    {
+      "videoId": "NvFOrKUDJFs",
+      "title": "Extreme Restoration of a Rusty Vintage Hair Clipper || Old & Rusty Hair Clipper Restoration ||",
+      "category": "restoration",
+      "viewCount": 263252
+    }
+  ]
 }

@@ -1539,5 +1539,27 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "NvFOrKUDJFs",
+    "slug": "extreme-restoration-of-a-rusty-vintage-hair-clipper-old-what-viewers-sho",
+    "category": "restoration",
+    "title": "Extreme Restoration Of A Rusty Vintage Hair Clipper Old: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Extreme Restoration of a Rusty Vintage Hair Clipper || Old & Rusty Hair Clipper Restoration ||",
+    "channel": "Ansar Restoration",
+    "publishedAt": "2025-12-23T12:32:59Z",
+    "viewsLabel": "263,252 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
