@@ -1583,5 +1583,27 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "7eQr4sKWq38",
+    "slug": "inside-my-vintage-audio-restoration-lab-what-viewers-should-notice-in-th",
+    "category": "restoration",
+    "title": "Inside My Vintage Audio Restoration Lab: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Inside My Vintage Audio Restoration Lab",
+    "channel": "Novalux Stereophonic",
+    "publishedAt": "2026-07-07T15:00:27Z",
+    "viewsLabel": "51,038 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];

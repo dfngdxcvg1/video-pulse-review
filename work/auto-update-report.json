@@ -1,5 +1,12 @@
 {
-  "added": 0,
-  "totalReviewed": 72,
-  "addedVideos": []
+  "added": 1,
+  "totalReviewed": 73,
+  "addedVideos": [
+    {
+      "videoId": "7eQr4sKWq38",
+      "title": "Inside My Vintage Audio Restoration Lab",
+      "category": "restoration",
+      "viewCount": 51038
+    }
+  ]
 }
