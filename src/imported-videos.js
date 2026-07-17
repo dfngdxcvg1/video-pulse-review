@@ -1759,5 +1759,181 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "00BTzBCqCrc",
+    "slug": "foundation-crack-repair-easy-fix-diy-construction-tools-what-viewers-sho",
+    "category": "restoration",
+    "title": "Foundation Crack Repair Easy Fix Diy Construction Tools: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "FOUNDATION CRACK REPAIR! Easy Fix. #diy #construction #tools",
+    "channel": "WINNI",
+    "publishedAt": "2025-02-23T13:27:41Z",
+    "viewsLabel": "5,407,839 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "lmDlUZFjxmg",
+    "slug": "timelapse-restoration-jawa-motorcycle-1960-from-start-to-what-viewers-sh",
+    "category": "restoration",
+    "title": "Timelapse Restoration Jawa Motorcycle 1960 - From Start To: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Timelapse Restoration JAWA motorcycle 1960 - From Start to Finish",
+    "channel": "Classic Motor Gallery",
+    "publishedAt": "2024-03-19T11:45:15Z",
+    "viewsLabel": "2,852,065 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "gh0SV8aPnMU",
+    "slug": "why-did-they-stop-making-these-restoration-what-viewers-should-notice-in",
+    "category": "restoration",
+    "title": "Why Did They Stop Making These Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Why Did They Stop Making These? [Restoration]",
+    "channel": "Hand Tool Rescue",
+    "publishedAt": "2024-03-06T17:12:47Z",
+    "viewsLabel": "2,161,016 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "lfOeqLCvQp8",
+    "slug": "meat-saw-restoration-what-viewers-should-notice-in-this-restoration-vide",
+    "category": "restoration",
+    "title": "Meat Saw Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Meat Saw [Restoration]",
+    "channel": "Hand Tool Rescue",
+    "publishedAt": "2025-05-24T11:00:46Z",
+    "viewsLabel": "620,224 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "pSq3790Zsns",
+    "slug": "20-bluetooth-speaker-restoration-and-upgrade-repair-upgrade-diy-what-vie",
+    "category": "restoration",
+    "title": "20 Bluetooth Speaker Restoration And Upgrade Repair Upgrade Diy: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "₹20 Bluetooth Speaker Restoration and Upgrade🤯 #repair #upgrade #diy ",
+    "channel": "  ELECRAFT ",
+    "publishedAt": "2026-06-04T12:30:24Z",
+    "viewsLabel": "300,036 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "CGWts6YkMbs",
+    "slug": "bluetooth-speaker-restoration-and-upgrade-part-3-repair-upgrade-what-vie",
+    "category": "restoration",
+    "title": "Bluetooth Speaker Restoration And Upgrade Part 3 Repair Upgrade: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Bluetooth Speaker Restoration and Upgrade🤯 part 3 #repair #upgrade #diy ",
+    "channel": "  ELECRAFT ",
+    "publishedAt": "2026-06-24T15:35:35Z",
+    "viewsLabel": "167,497 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "lDoswSQd-8E",
+    "slug": "painting-rusty-old-farm-equipment-what-viewers-should-notice-in-this-res",
+    "category": "restoration",
+    "title": "Painting Rusty Old Farm Equipment: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Painting Rusty Old Farm Equipment",
+    "channel": "Rockhill farm ",
+    "publishedAt": "2024-01-02T13:00:38Z",
+    "viewsLabel": "118,484 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "CDWJdJAq5LA",
+    "slug": "bluetooth-speaker-restoration-and-upgrade-part-2-repair-upgrade-what-vie",
+    "category": "restoration",
+    "title": "Bluetooth Speaker Restoration And Upgrade Part 2 Repair Upgrade: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": " Bluetooth Speaker Restoration and Upgrade🤯 part 2 #repair #upgrade #diy ",
+    "channel": "  ELECRAFT ",
+    "publishedAt": "2026-06-14T14:46:26Z",
+    "viewsLabel": "114,592 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
