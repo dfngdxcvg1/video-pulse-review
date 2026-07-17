@@ -1605,5 +1605,159 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "tZ7vUbj1NJU",
+    "slug": "rusty-vintage-blacksmithing-hammer-restoration-you-won-t-believe-what-vi",
+    "category": "restoration",
+    "title": "Rusty Vintage Blacksmithing Hammer Restoration You Won T Believe: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Rusty Vintage Blacksmithing Hammer Restoration | You Won't Believe The Before And After!",
+    "channel": "Archeon Restoration",
+    "publishedAt": "2025-07-18T14:37:01Z",
+    "viewsLabel": "2,963,810 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "w7Ss1uHdobk",
+    "slug": "fixing-and-driving-an-old-bobcat-skid-steer-out-what-viewers-should-noti",
+    "category": "restoration",
+    "title": "Fixing And Driving An Old Bobcat Skid Steer Out: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Fixing and Driving an old bobcat skid steer out of the woods",
+    "channel": "BradenBuildz",
+    "publishedAt": "2024-06-20T14:03:57Z",
+    "viewsLabel": "1,640,667 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "5NdG_OK6s9E",
+    "slug": "1930-french-cafe-gambling-machine-restoration-restoration-restorationvid",
+    "category": "restoration",
+    "title": "1930 French Cafe Gambling Machine Restoration Restoration Restorationvideo Antique: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "1930 French Cafe Gambling Machine Restoration🎰#restoration #restorationvideo #antique",
+    "channel": "Fixing History",
+    "publishedAt": "2026-06-06T03:44:41Z",
+    "viewsLabel": "667,522 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "qdklaPY5LKo",
+    "slug": "leather-cutting-machine-restoration-early-1900s-shoemakers-machine-what-",
+    "category": "restoration",
+    "title": "Leather Cutting Machine Restoration - Early 1900s Shoemakers Machine: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Leather Cutting Machine Restoration - Early 1900s Shoemakers Machine!",
+    "channel": "Rusty Shades Restoration",
+    "publishedAt": "2024-03-01T11:43:33Z",
+    "viewsLabel": "522,571 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "6WNTMKFLjZQ",
+    "slug": "cordless-drill-restoration-miwaukee-2701-brushless-drill-leather-custom-",
+    "category": "restoration",
+    "title": "Cordless Drill Restoration Miwaukee 2701 Brushless Drill Leather Custom: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Cordless Drill Restoration |  Miwaukee 2701 Brushless Drill Leather custom version",
+    "channel": "KJ",
+    "publishedAt": "2025-01-08T09:32:03Z",
+    "viewsLabel": "398,108 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "rBpF4PFvkB8",
+    "slug": "this-antique-press-was-not-restored-it-was-restomodded-what-viewers-shou",
+    "category": "restoration",
+    "title": "This Antique Press Was Not Restored It Was Restomodded: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "This Antique Press Was NOT Restored…It was Restomodded",
+    "channel": "Mister Patina",
+    "publishedAt": "2026-02-07T08:30:36Z",
+    "viewsLabel": "365,256 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "hNc6jHALIHw",
+    "slug": "sweet-treats-and-cool-restores-american-restoration-s1-history-what-view",
+    "category": "restoration",
+    "title": "Sweet Treats And Cool Restores American Restoration S1 History: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Sweet Treats and Cool Restores | American Restoration (S1) | History",
+    "channel": "HISTORY",
+    "publishedAt": "2025-10-08T20:00:35Z",
+    "viewsLabel": "234,795 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];

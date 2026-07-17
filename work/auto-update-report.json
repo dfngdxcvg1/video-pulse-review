@@ -1,12 +1,48 @@
 {
-  "added": 1,
-  "totalReviewed": 73,
+  "added": 7,
+  "totalReviewed": 80,
   "addedVideos": [
     {
-      "videoId": "7eQr4sKWq38",
-      "title": "Inside My Vintage Audio Restoration Lab",
+      "videoId": "tZ7vUbj1NJU",
+      "title": "Rusty Vintage Blacksmithing Hammer Restoration | You Won't Believe The Before And After!",
       "category": "restoration",
-      "viewCount": 51038
+      "viewCount": 2963810
+    },
+    {
+      "videoId": "w7Ss1uHdobk",
+      "title": "Fixing and Driving an old bobcat skid steer out of the woods",
+      "category": "restoration",
+      "viewCount": 1640667
+    },
+    {
+      "videoId": "5NdG_OK6s9E",
+      "title": "1930 French Cafe Gambling Machine Restoration🎰#restoration #restorationvideo #antique",
+      "category": "restoration",
+      "viewCount": 667522
+    },
+    {
+      "videoId": "qdklaPY5LKo",
+      "title": "Leather Cutting Machine Restoration - Early 1900s Shoemakers Machine!",
+      "category": "restoration",
+      "viewCount": 522571
+    },
+    {
+      "videoId": "6WNTMKFLjZQ",
+      "title": "Cordless Drill Restoration |  Miwaukee 2701 Brushless Drill Leather custom version",
+      "category": "restoration",
+      "viewCount": 398108
+    },
+    {
+      "videoId": "rBpF4PFvkB8",
+      "title": "This Antique Press Was NOT Restored…It was Restomodded",
+      "category": "restoration",
+      "viewCount": 365256
+    },
+    {
+      "videoId": "hNc6jHALIHw",
+      "title": "Sweet Treats and Cool Restores | American Restoration (S1) | History",
+      "category": "restoration",
+      "viewCount": 234795
     }
   ]
 }
