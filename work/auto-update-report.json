@@ -1,5 +1,12 @@
 {
-  "added": 0,
-  "totalReviewed": 90,
-  "addedVideos": []
+  "added": 1,
+  "totalReviewed": 91,
+  "addedVideos": [
+    {
+      "videoId": "zZC1TD71u8Y",
+      "title": "Cat Excavator Found In The Mire on a Rainy Day Restoration",
+      "category": "restoration",
+      "viewCount": 2515960
+    }
+  ]
 }
