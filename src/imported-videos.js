@@ -1935,5 +1935,49 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "VYS4xYdqY2w",
+    "slug": "professional-restoration-of-a-rare-vintage-pinball-machine-bally-what-vi",
+    "category": "restoration",
+    "title": "Professional Restoration Of A Rare Vintage Pinball Machine Bally: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Professional Restoration of a Rare Vintage Pinball Machine | Bally Bullfight Pinball Table",
+    "channel": "Masters Of Craft",
+    "publishedAt": "2024-10-12T13:00:36Z",
+    "viewsLabel": "632,420 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "drkZQzth6f8",
+    "slug": "lets-assemble-some-gears-victorian-radial-drilling-machine-what-viewers-",
+    "category": "restoration",
+    "title": "Lets Assemble Some Gears - Victorian Radial Drilling Machine: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Lets ASSEMBLE Some Gears! - Victorian Radial Drilling Machine Restoration - PART 12",
+    "channel": "Iron Jonesy",
+    "publishedAt": "2025-10-21T17:17:05Z",
+    "viewsLabel": "103,934 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
