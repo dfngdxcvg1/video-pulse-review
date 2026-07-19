@@ -1,12 +1,24 @@
 {
-  "added": 1,
-  "totalReviewed": 92,
+  "added": 3,
+  "totalReviewed": 95,
   "addedVideos": [
     {
-      "videoId": "pznTIqBjeAk",
-      "title": "Unusual Chaff Cutter Machine Restoration – How Old Do You Think This Machine Is?",
+      "videoId": "0_mCBhRmGKw",
+      "title": "Restoration Lathe Machine - Complete Process",
       "category": "restoration",
-      "viewCount": 201427
+      "viewCount": 507639
+    },
+    {
+      "videoId": "w6FgF4usxzU",
+      "title": "Antique Business Card Letterpress [Restoration]",
+      "category": "restoration",
+      "viewCount": 322971
+    },
+    {
+      "videoId": "AvaiJL72HTU",
+      "title": "100 year old sewing machine VS Brand new Singer Heavy Duty",
+      "category": "restoration",
+      "viewCount": 107920
     }
   ]
 }

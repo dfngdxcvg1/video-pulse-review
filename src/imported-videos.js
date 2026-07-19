@@ -2023,5 +2023,71 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "0_mCBhRmGKw",
+    "slug": "restoration-lathe-machine-complete-process-what-viewers-should-notice-in",
+    "category": "restoration",
+    "title": "Restoration Lathe Machine - Complete Process: What Viewers Should Notice in This factory process Video",
+    "sourceTitle": "Restoration Lathe Machine - Complete Process",
+    "channel": "MrRescue",
+    "publishedAt": "2024-10-12T09:53:04Z",
+    "viewsLabel": "507,639 views at review",
+    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "w6FgF4usxzU",
+    "slug": "antique-business-card-letterpress-restoration-what-viewers-should-notice",
+    "category": "restoration",
+    "title": "Antique Business Card Letterpress Restoration: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Antique Business Card Letterpress [Restoration]",
+    "channel": "Hand Tool Rescue",
+    "publishedAt": "2025-04-03T13:58:21Z",
+    "viewsLabel": "322,971 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "AvaiJL72HTU",
+    "slug": "100-year-old-sewing-machine-vs-brand-new-singer-what-viewers-should-noti",
+    "category": "restoration",
+    "title": "100 Year Old Sewing Machine Vs Brand New Singer: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "100 year old sewing machine VS Brand new Singer Heavy Duty",
+    "channel": "Hefesto Design",
+    "publishedAt": "2024-01-05T15:53:04Z",
+    "viewsLabel": "107,920 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
