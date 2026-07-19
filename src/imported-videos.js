@@ -2001,5 +2001,27 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "pznTIqBjeAk",
+    "slug": "unusual-chaff-cutter-machine-restoration-how-old-do-you-what-viewers-sho",
+    "category": "restoration",
+    "title": "Unusual Chaff Cutter Machine Restoration How Old Do You: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Unusual Chaff Cutter Machine Restoration – How Old Do You Think This Machine Is?",
+    "channel": "Rusty Shades Restoration",
+    "publishedAt": "2024-05-13T14:32:32Z",
+    "viewsLabel": "201,427 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
