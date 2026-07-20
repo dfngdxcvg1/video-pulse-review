@@ -2111,5 +2111,49 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "yATIhjCuJaQ",
+    "slug": "busted-redwing-1907-never-looked-better-restoration-shoerepair-what-view",
+    "category": "restoration",
+    "title": "Busted Redwing 1907 Never Looked Better Restoration Shoerepair: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "BUSTED REDWING 1907 NEVER LOOKED BETTER #restoration #shoerepair",
+    "channel": "Cobbler G",
+    "publishedAt": "2025-03-28T18:55:16Z",
+    "viewsLabel": "321,812 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
+  },
+  {
+    "id": "GlJLHvShfDs",
+    "slug": "watch-this-old-alternator-come-back-to-life-satisfying-what-viewers-shou",
+    "category": "restoration",
+    "title": "Watch This Old Alternator Come Back To Life Satisfying: What Viewers Should Notice in This factory process Video",
+    "sourceTitle": "Watch This Old Alternator Come Back to Life! | Satisfying Restoration Process",
+    "channel": "ai. beauty with me",
+    "publishedAt": "2026-07-18T14:37:12Z",
+    "viewsLabel": "53,485 views at review",
+    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];

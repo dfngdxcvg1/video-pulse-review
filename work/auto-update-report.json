@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 96,
+  "added": 2,
+  "totalReviewed": 98,
   "addedVideos": [
     {
-      "videoId": "E-E8Pz9AlQ8",
-      "title": "How To Make An Old 3 Jaw Chuck Accurate Again - Basic Machine Shop Maintenance",
+      "videoId": "yATIhjCuJaQ",
+      "title": "BUSTED REDWING 1907 NEVER LOOKED BETTER #restoration #shoerepair",
       "category": "restoration",
-      "viewCount": 562985
+      "viewCount": 321812
+    },
+    {
+      "videoId": "GlJLHvShfDs",
+      "title": "Watch This Old Alternator Come Back to Life! | Satisfying Restoration Process",
+      "category": "restoration",
+      "viewCount": 53485
     }
   ]
 }
