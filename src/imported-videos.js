@@ -2089,5 +2089,27 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "E-E8Pz9AlQ8",
+    "slug": "how-to-make-an-old-3-jaw-chuck-accurate-what-viewers-should-notice-in-th",
+    "category": "restoration",
+    "title": "How To Make An Old 3 Jaw Chuck Accurate: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "How To Make An Old 3 Jaw Chuck Accurate Again - Basic Machine Shop Maintenance",
+    "channel": "Topper Machine LLC",
+    "publishedAt": "2025-01-18T12:00:16Z",
+    "viewsLabel": "562,985 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];

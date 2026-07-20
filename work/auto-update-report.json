@@ -1,5 +1,12 @@
 {
-  "added": 0,
-  "totalReviewed": 95,
-  "addedVideos": []
+  "added": 1,
+  "totalReviewed": 96,
+  "addedVideos": [
+    {
+      "videoId": "E-E8Pz9AlQ8",
+      "title": "How To Make An Old 3 Jaw Chuck Accurate Again - Basic Machine Shop Maintenance",
+      "category": "restoration",
+      "viewCount": 562985
+    }
+  ]
 }
