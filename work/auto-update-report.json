@@ -1,5 +1,12 @@
 {
-  "added": 0,
-  "totalReviewed": 98,
-  "addedVideos": []
+  "added": 1,
+  "totalReviewed": 99,
+  "addedVideos": [
+    {
+      "videoId": "DUCogbe8PSM",
+      "title": "Cordless Impact Wrench Restoration DeWALT DCF 809",
+      "category": "restoration",
+      "viewCount": 820871
+    }
+  ]
 }

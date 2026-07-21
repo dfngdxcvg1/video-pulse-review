@@ -2510,5 +2510,31 @@
       "08:00 Final result or key comparison"
     ],
     "durationSeconds": 160
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "restoration",
+    "query": "old machine restoration",
+    "videoId": "DUCogbe8PSM",
+    "sourceTitle": "Cordless Impact Wrench Restoration DeWALT DCF 809",
+    "channel": "KJ",
+    "publishedAt": "2024-08-08T17:20:53Z",
+    "viewCount": 820871,
+    "likeCount": 10041,
+    "duration": "PT23M25S",
+    "keyword": "old machine restoration",
+    "proposedTitle": "Cordless Impact Wrench Restoration Dewalt Dcf 809: What Viewers Should Notice in This restoration Video",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "durationSeconds": 1405
   }
 ]
