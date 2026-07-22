@@ -2536,5 +2536,57 @@
       "08:00 Final result or key comparison"
     ],
     "durationSeconds": 1405
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "restoration",
+    "query": "old machine restoration",
+    "videoId": "xHJXGkFntuo",
+    "sourceTitle": "Restoration – 1950 American Looping Track Game",
+    "channel": "MW Restoration",
+    "publishedAt": "2025-11-08T15:01:30Z",
+    "viewCount": 1261850,
+    "likeCount": 17279,
+    "duration": "PT17M13S",
+    "keyword": "old machine restoration",
+    "proposedTitle": "Restoration 1950 American Looping Track Game: What Viewers Should Notice in This restoration Video",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "durationSeconds": 1033
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "restoration",
+    "query": "old machine restoration",
+    "videoId": "hfD0Cc_PsYY",
+    "sourceTitle": "This Rusty Tool Was Illegal to Use… 😳Can You Guess Why? ",
+    "channel": "Easy Restoration",
+    "publishedAt": "2026-02-18T13:01:22Z",
+    "viewCount": 105745,
+    "likeCount": 1729,
+    "duration": "PT26M8S",
+    "keyword": "old machine restoration",
+    "proposedTitle": "This Rusty Tool Was Illegal To Use Can You: What Viewers Should Notice in This restoration Video",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "durationSeconds": 1568
   }
 ]
