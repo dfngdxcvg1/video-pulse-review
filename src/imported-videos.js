@@ -2221,5 +2221,27 @@ export const importedVideos = [
       "08:00 Final result or key comparison"
     ],
     "keyword": "old machine restoration"
+  },
+  {
+    "id": "-zOLAOYkUUo",
+    "slug": "restoring-a-20-year-old-abandoned-ursus-c-360-tractor-what-viewers-shoul",
+    "category": "restoration",
+    "title": "Restoring A 20-year-old Abandoned Ursus C-360 Tractor: What Viewers Should Notice in This restoration Video",
+    "sourceTitle": "Restoring a 20-Year-Old Abandoned Ursus C-360 Tractor! 🚜✨",
+    "channel": "Classic Car ",
+    "publishedAt": "2026-06-02T14:00:25Z",
+    "viewsLabel": "66,779 views at review",
+    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "takeaways": [
+      "The topic fits a focused Old Machine Restoration search intent.",
+      "The page adds original context instead of only embedding the YouTube player.",
+      "The source remains clearly attributed and the video stays hosted by YouTube."
+    ],
+    "timestamps": [
+      "00:00 Opening condition or setup",
+      "03:00 Main process begins",
+      "08:00 Final result or key comparison"
+    ],
+    "keyword": "old machine restoration"
   }
 ];
