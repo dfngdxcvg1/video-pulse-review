@@ -1,5 +1,12 @@
 {
-  "added": 0,
-  "totalReviewed": 102,
-  "addedVideos": []
+  "added": 1,
+  "totalReviewed": 103,
+  "addedVideos": [
+    {
+      "videoId": "yqp5kEF0cj4",
+      "title": "1930 Peugeot Coffee Grinder Restoration ☕️ #restoration #restorationvideo #vintage #coffeegrinder",
+      "category": "restoration",
+      "viewCount": 3417976
+    }
+  ]
 }
