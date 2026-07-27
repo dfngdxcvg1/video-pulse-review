@@ -1,5 +1,18 @@
 {
-  "added": 0,
-  "totalReviewed": 104,
-  "addedVideos": []
+  "added": 2,
+  "totalReviewed": 106,
+  "addedVideos": [
+    {
+      "videoId": "O1k0rBj0rUI",
+      "title": "Expert Turns Old Ax into a MASTERPIECE- & It's a Work of Art!",
+      "category": "restoration",
+      "viewCount": 4436873
+    },
+    {
+      "videoId": "HRx_dZawN44",
+      "title": "The Hidden Engineering of Landfills",
+      "category": "inventions",
+      "viewCount": 11800366
+    }
+  ]
 }
