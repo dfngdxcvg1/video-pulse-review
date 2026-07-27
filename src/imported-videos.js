@@ -9,18 +9,23 @@ export const importedVideos = [
     "channel": "TysyTube Restoration",
     "publishedAt": "2026-06-12T11:05:29Z",
     "viewsLabel": "4,605,100 views at review",
-    "summary": "This restoration pick focuses on the slow transformation from a dull, damaged metal surface into a reflective finish. It is a strong fit for an evergreen restoration page because the process is visual, easy to understand without specialized language, and useful for viewers interested in sanding, polishing, surface prep, and patient repair work. The page should be framed around technique and result rather than simple spectacle.",
+    "summary": "A mirror finish is earned before the final polish. Use this guide to follow the surface from visible wear through preparation and refinement, then judge the result by consistency rather than one bright reflection.",
     "takeaways": [
-      "Surface preparation matters more than the final polishing step.",
-      "The appeal comes from comparing the worn starting point with the finished reflective surface.",
-      "This is a useful example of restoration content that can be explained without copying the source title."
+      "Compare the starting scratches, corrosion, and uneven areas before any abrasive work begins.",
+      "Watch for a deliberate progression from coarse correction to finer surface preparation.",
+      "Notice how edges, corners, and low spots reveal whether the finish is truly even.",
+      "Treat reflectivity as a surface result, not proof that structural damage has been repaired."
     ],
-    "timestamps": [
-      "00:00 Initial condition and setup",
-      "05:00 Cleaning and surface preparation",
-      "14:00 Polishing and finish reveal"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "tool polishing restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "tool polishing restoration"
+    "editorialMode": "editor-selected"
   },
   {
     "id": "t5MwlpayiS4",
@@ -31,18 +36,23 @@ export const importedVideos = [
     "channel": "Factora",
     "publishedAt": "2024-03-09T15:27:57Z",
     "viewsLabel": "3,367,408 views at review",
-    "summary": "This factory process video works well for search because the subject is familiar and the manufacturing steps are visually clear. A good article can explain the basic flow from raw material to molded crayon, why color consistency matters, and what makes mass production satisfying to watch. It is also a safer advertising fit than entertainment clips with unclear ownership or shock value.",
+    "summary": "Crayon production turns familiar materials into a repeatable color product. Follow the sequence from mixing and forming through cooling, labeling, and packing, with special attention to how the line keeps shape and color consistent.",
     "takeaways": [
-      "Everyday products can make strong evergreen video pages.",
-      "Manufacturing content should explain the sequence, not just show the machine.",
-      "The topic is accessible for English readers across countries."
+      "Identify when wax and pigment become a uniform mixture.",
+      "Watch how molds, cooling, and release timing affect the finished crayon shape.",
+      "Look for the point where labels and packaging become part of quality control.",
+      "Compare automated movement with the steps that still require a visual check."
     ],
-    "timestamps": [
-      "00:00 Product and factory introduction",
-      "02:00 Mixing, coloring, or forming stage",
-      "05:30 Finished product and packaging"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how crayons are made factory process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
-    "keyword": "how crayons are made factory process"
+    "editorialMode": "editor-selected"
   },
   {
     "id": "kugqGatwLDY",
@@ -53,18 +63,23 @@ export const importedVideos = [
     "channel": "Hand Tool Rescue",
     "publishedAt": "2024-11-20T12:14:10Z",
     "viewsLabel": "2,069,357 views at review",
-    "summary": "An antique safe restoration has a clear story arc: a heavy object with age, mystery, mechanical parts, and a visible before-and-after result. This page can explain what viewers should notice in the teardown, cleaning, hardware repair, and final reveal while clearly attributing the original YouTube source. The topic is specific enough for long-tail search and broad enough for casual viewers.",
+    "summary": "An 1890s safe combines heavy construction with a precise locking mechanism. The useful questions are whether original parts can be preserved, how corrosion affects movement, and whether the final door and lock operate reliably.",
     "takeaways": [
-      "Antique objects create natural curiosity before the restoration begins.",
-      "Mechanical details give the article more value than a plain embed page.",
-      "The title targets a specific object and era instead of a generic viral-video phrase."
+      "Start with the condition of the hinges, door fit, fasteners, and lock components.",
+      "Notice which parts are cleaned and preserved instead of automatically replaced.",
+      "Watch how paint and surface work are kept separate from the lock mechanism.",
+      "Use door alignment and lock operation as the most meaningful final checks."
     ],
-    "timestamps": [
-      "00:00 Safe condition and inspection",
-      "06:00 Disassembly and internal parts",
-      "15:00 Reassembly and final reveal"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "1890s safe restoration",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "1890s safe restoration"
+    "editorialMode": "editor-selected"
   },
   {
     "id": "YTZxirOPjgY",
@@ -75,18 +90,23 @@ export const importedVideos = [
     "channel": "Rebuilt & Restored",
     "publishedAt": "2024-09-11T13:03:08Z",
     "viewsLabel": "1,696,303 views at review",
-    "summary": "This workshop tool restoration is a useful page candidate because the problem is concrete: rust, seized movement, cleaning, repair, and functional testing. For readers searching restoration videos, the value is in understanding the steps that turn a locked-up vise into a usable tool again. The editorial page should focus on process, safety, and the satisfaction of returning a durable object to service.",
+    "summary": "A seized vise is only restored when it grips and travels correctly again. Follow the screw, slide, jaws, and mounting surfaces, then compare the mechanical result with the cosmetic finish.",
     "takeaways": [
-      "A seized tool provides a clear problem for the viewer to follow.",
-      "Functional testing at the end matters as much as cosmetic improvement.",
-      "Tool restoration is a strong niche for long-tail search traffic."
+      "Identify where corrosion or deformation prevents the moving jaw from traveling.",
+      "Watch how force is applied to stuck parts without damaging threads or castings.",
+      "Check jaw alignment, screw movement, and contact surfaces during reassembly.",
+      "Give more weight to the final clamping test than to fresh paint."
     ],
-    "timestamps": [
-      "00:00 Rusted vise overview",
-      "07:00 Loosening and cleaning seized parts",
-      "20:00 Paint, assembly, and final function test"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "rusted vise restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "rusted vise restoration"
+    "editorialMode": "editor-selected"
   },
   {
     "id": "JhFY1sUnMjA",
@@ -97,18 +117,23 @@ export const importedVideos = [
     "channel": "PSV Restoration",
     "publishedAt": "2025-03-12T12:26:20Z",
     "viewsLabel": "1,277,651 views at review",
-    "summary": "A typewriter restoration gives the page more editorial depth than a generic repair clip because the object has history, moving parts, design details, and a final usability test. This article can explain why the keyboard, carriage, springs, paint, and alignment all matter. The topic is also evergreen: people search for antique typewriter repair, restoration, and before-and-after transformations long after publication.",
+    "summary": "A 1949 Olympia typewriter depends on dozens of small mechanical relationships. Use this guide to follow the carriage, keys, linkages, springs, and platen, then judge the restoration by an actual typing and alignment test.",
     "takeaways": [
-      "Historic office machines combine repair value with design nostalgia.",
-      "Small mechanical parts make the process more interesting to explain.",
-      "A good page can target antique typewriter restoration instead of broad video keywords."
+      "Look for a parts layout that preserves the position of small springs, screws, and linkages.",
+      "Notice how the carriage and key mechanisms are cleaned without forcing delicate parts.",
+      "Watch for alignment, return movement, and ribbon-path checks during assembly.",
+      "Use consistent key action and typed characters as the final evidence of function."
     ],
-    "timestamps": [
-      "00:00 Rusty typewriter condition",
-      "08:00 Disassembly and cleaning",
-      "22:00 Reassembly and typing test"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique typewriter restoration",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "antique typewriter restoration"
+    "editorialMode": "editor-selected"
   },
   {
     "id": "IIwTCyu2wS4",
@@ -119,18 +144,23 @@ export const importedVideos = [
     "channel": "FluxBench",
     "publishedAt": "2025-07-24T23:13:06Z",
     "viewsLabel": "748,398 views at review",
-    "summary": "This engineering video is a good complement to restoration content because it explains the thinking behind making things, not only the finished object. A page around it can introduce problem framing, constraints, iteration, materials, and testing. That makes it useful for readers who enjoy invention videos but want a clearer explanation of why some builds work better than others.",
+    "summary": "Good engineering begins before tools touch material. This guide focuses on problem framing, constraints, iteration, and testing so the finished build can be judged by evidence rather than novelty.",
     "takeaways": [
-      "Engineering pages should explain decisions and tradeoffs.",
-      "This topic can connect invention videos with educational search intent.",
-      "Shorter explanatory videos can still support strong editorial pages."
+      "Define the problem and constraints before comparing possible solutions.",
+      "Separate a useful prototype from a polished object that has not been tested.",
+      "Look for iteration prompted by measurements, failed attempts, or new information.",
+      "Judge the result by repeatability and tradeoffs, not only the final demonstration."
     ],
-    "timestamps": [
-      "00:00 Core engineering mindset",
-      "02:30 Planning and constraints",
-      "05:00 Testing and iteration"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "learn to think like an engineer",
+    "topicType": "Engineering",
+    "difficulty": "Beginner-friendly concepts",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
-    "keyword": "learn to think like an engineer"
+    "editorialMode": "editor-selected"
   },
   {
     "id": "DJmp2XOXtXQ",
@@ -141,18 +171,23 @@ export const importedVideos = [
     "channel": "LADB Restoration",
     "publishedAt": "2026-03-13T17:00:07Z",
     "viewsLabel": "201,658 views at review",
-    "summary": "This restoration is a good niche page candidate because a grindstone is specific, visual, and connected to workshop history. The article can explain what makes corrosion, balance, bearings, and usability important during the repair. It is less competitive than broad restoration keywords and gives the site a focused long-tail page around an object viewers can understand quickly.",
+    "summary": "A grindstone restoration must balance preservation with safe operation. Follow the frame, bearings, wheel condition, and drive parts, then look for a controlled working test rather than assuming an old abrasive wheel is safe.",
     "takeaways": [
-      "Specific workshop tools are better SEO targets than generic restoration pages.",
-      "The final usability check helps prove the restoration is functional.",
-      "The article can add background on what a grindstone is used for."
+      "Inspect the wheel and supporting structure before focusing on appearance.",
+      "Notice how bearings, shafts, and alignment affect smooth rotation.",
+      "Look for conservative testing after reassembly.",
+      "Do not assume a restored abrasive wheel is safe without a proper condition assessment."
     ],
-    "timestamps": [
-      "00:00 Condition before restoration",
-      "05:00 Cleaning and rust removal",
-      "12:00 Assembly and working test"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "rusty grindstone restoration",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "rusty grindstone restoration"
+    "editorialMode": "editor-selected"
   },
   {
     "id": "ux5Ek0iXojE",
@@ -163,18 +198,23 @@ export const importedVideos = [
     "channel": "Old School Restoration",
     "publishedAt": "2024-07-27T09:00:48Z",
     "viewsLabel": "196,780 views at review",
-    "summary": "A Stanley plane restoration is ideal for a focused hand-tool page. The viewer can follow the blade, body, handle, sole, and final shaving test, while the article explains why flatness, sharpness, and alignment matter. This kind of content is practical, calm, and suitable for a restoration-focused English site that wants evergreen search traffic.",
+    "summary": "A hand plane is a compact test of restoration accuracy. Follow the sole, blade, chip breaker, frog, handles, and adjustments, then use the final shaving to judge sharpness and setup.",
     "takeaways": [
-      "Hand planes have clear parts that are easy to explain in text.",
-      "The final wood shaving test gives viewers a satisfying proof of repair.",
-      "Tool-specific titles are stronger than generic viral restoration titles."
+      "Compare rust removal with preservation of flat reference surfaces.",
+      "Watch how the blade and chip breaker are prepared and fitted together.",
+      "Notice whether adjustment parts move freely without excess play.",
+      "Use a continuous, controlled wood shaving as the final functional check."
     ],
-    "timestamps": [
-      "00:00 Tool condition and parts",
-      "03:00 Cleaning, flattening, and sharpening",
-      "07:00 Final assembly and shaving test"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "Stanley plane restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "Stanley plane restoration"
+    "editorialMode": "editor-selected"
   },
   {
     "id": "B-ZHAPLjHFU",
@@ -185,2107 +225,2587 @@ export const importedVideos = [
     "channel": "AA Hands",
     "publishedAt": "2025-03-11T14:21:29Z",
     "viewsLabel": "142,526 views at review",
-    "summary": "This old belt sander restoration adds variety to the tool category because it involves a powered workshop machine rather than a small hand tool. The page can discuss visible inspection, rust removal, moving parts, belt tracking, electrical caution, and the final working test. It is a useful long-tail topic for viewers who search for vintage machine restoration and workshop repair.",
+    "summary": "A vintage belt sander adds electrical and tracking questions to ordinary surface restoration. Follow the motor, bearings, platen, rollers, wiring, and belt path before judging the machine by its final running test.",
     "takeaways": [
-      "Powered tools need extra caution and a clear functional test.",
-      "The topic fits both restoration and workshop-machine search intent.",
-      "A specific machine page can attract better traffic than a broad video roundup."
+      "Inspect wiring and moving assemblies before power is applied.",
+      "Notice how bearings, rollers, and the platen affect belt movement.",
+      "Watch for tracking adjustments that keep the belt centered under load.",
+      "Treat guards, electrical condition, and a stable test run as part of the restoration result."
     ],
-    "timestamps": [
-      "00:00 Vintage belt sander inspection",
-      "07:00 Cleaning and mechanical repair",
-      "19:00 Belt setup and final test"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "vintage belt sander restoration",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "vintage belt sander restoration"
+    "editorialMode": "editor-selected"
   },
   {
     "id": "4AWQbTUgexw",
     "slug": "unbelievable-tire-restoration-old-to-brand-new-what-viewers-should-notic",
     "category": "restoration",
-    "title": "Unbelievable Tire Restoration Old To Brand New: What Viewers Should Notice in This restoration Video",
+    "title": "Tire Restoration Old To Brand New | Restoration Process Guide",
     "sourceTitle": "unbelievable Tire Restoration Old To Brand New",
     "channel": "Speed Fix Mechanics",
     "publishedAt": "2025-09-24T09:00:05Z",
     "viewsLabel": "35,963,672 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Tire Restoration Old To Brand New\" by Speed Fix Mechanics. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Tire Restoration Old To Brand New.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "EttIFglmwXg",
     "slug": "shocking-invention-of-60-year-old-citizen-turns-angle-grinder-into-what-",
     "category": "inventions",
-    "title": "Shocking Invention Of 60-year-old Citizen Turns Angle Grinder Into: What Viewers Should Notice in This engineering Video",
+    "title": "Invention of 60-Year-Old Citizen! Turns Angle Grinder into Industrial... | Engineering Breakdown",
     "sourceTitle": "Shocking Invention of 60-Year-Old Citizen! Turns Angle Grinder into Industrial Chopper",
     "channel": "Inventor J",
     "publishedAt": "2025-06-10T12:00:23Z",
     "viewsLabel": "12,576,089 views at review",
-    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Invention of 60-Year-Old Citizen! Turns Angle Grinder into Industrial Chopper\" by Inventor J. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
     "takeaways": [
-      "The topic fits a focused Homemade Inventions search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Define the practical problem or constraint behind Invention of 60-Year-Old Citizen! Turns Angle Grinder into Industrial Chopper before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "homemade inventions",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
-    "keyword": "homemade inventions"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "4bm4RPvZLUc",
     "slug": "asmr-sharpest-knife-restoration-what-viewers-should-notice-in-this-resto",
     "category": "restoration",
-    "title": "Asmr - Sharpest Knife Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "ASMR - Sharpest Knife Restoration | Restoration Process Guide",
     "sourceTitle": "ASMR - Sharpest Knife Restoration",
     "channel": "TysyTube Restoration",
     "publishedAt": "2024-04-16T11:33:10Z",
     "viewsLabel": "4,456,276 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"ASMR - Sharpest Knife Restoration\" by TysyTube Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Tool Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of ASMR - Sharpest Knife Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "tool restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "Gb4UBK53sGQ",
     "slug": "the-insane-engineering-of-the-p-38-lightning-what-viewers-should-notice-",
     "category": "inventions",
-    "title": "The Insane Engineering Of The P-38 Lightning: What Viewers Should Notice in This engineering Video",
+    "title": "The Insane Engineering of the P-38 Lightning | Engineering Breakdown",
     "sourceTitle": "The Insane Engineering of the P-38 Lightning",
     "channel": "Real Engineering",
     "publishedAt": "2025-06-28T16:30:14Z",
     "viewsLabel": "3,235,225 views at review",
-    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"The Insane Engineering of the P-38 Lightning\" by Real Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
     "takeaways": [
-      "The topic fits a focused Amazing Engineering Build search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Define the practical problem or constraint behind The Insane Engineering of the P-38 Lightning before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "amazing engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
-    "keyword": "amazing engineering build"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "0kh9CJUVU60",
     "slug": "abandoned-monster-truck-chevy-2500hd-first-wash-in-12-what-viewers-shoul",
     "category": "restoration",
-    "title": "Abandoned Monster Truck Chevy 2500hd First Wash In 12: What Viewers Should Notice in This restoration Video",
+    "title": "Abandoned MONSTER Truck: Chevy 2500HD | First Wash in 12 Years! | Car... | Restoration Process Guide",
     "sourceTitle": "Abandoned MONSTER Truck: Chevy 2500HD | First Wash in 12 Years! | Car Detailing Restoration",
     "channel": "WD Detailing",
     "publishedAt": "2024-02-03T14:00:01Z",
     "viewsLabel": "2,497,428 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Abandoned MONSTER Truck: Chevy 2500HD | First Wash in 12 Years! | Car Detailing Restoration\" by WD Detailing. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Abandoned Car Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Abandoned MONSTER Truck: Chevy 2500HD | First Wash in 12 Years! | Car Detailing Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "abandoned car restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "abandoned car restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "DBnfhXnLUmU",
     "slug": "crocs-slipper-manufacturing-process-start-to-finish-factory-tour-what-vi",
     "category": "inventions",
-    "title": "Crocs Slipper Manufacturing Process Start To Finish Factory Tour: What Viewers Should Notice in This factory process Video",
+    "title": "Crocs Slipper Manufacturing Process – Start to Finish (Factory Tour) | Factory Process Guide",
     "sourceTitle": "Crocs Slipper Manufacturing Process – Start to Finish (Factory Tour)",
     "channel": "Tastie",
     "publishedAt": "2025-03-05T03:58:36Z",
     "viewsLabel": "2,497,393 views at review",
-    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This guide accompanies \"Crocs Slipper Manufacturing Process – Start to Finish (Factory Tour)\" by Tastie and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
     "takeaways": [
-      "The topic fits a focused Factory Manufacturing Process search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Track the material or components entering the process shown in Crocs Slipper Manufacturing Process – Start to Finish (Factory Tour).",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
-    "keyword": "factory manufacturing process"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "sx6sHvPDZC8",
     "slug": "don-t-throw-away-your-old-lawnmower-build-this-what-viewers-should-notic",
     "category": "inventions",
-    "title": "Don T Throw Away Your Old Lawnmower Build This: What Viewers Should Notice in This engineering Video",
+    "title": "Don’t Throw Away Your Old Lawnmower — Build THIS Instead | Engineering Breakdown",
     "sourceTitle": " ⭐ Don’t Throw Away Your Old Lawnmower — Build THIS Instead ",
     "channel": "Homemade Inventions",
     "publishedAt": "2025-11-11T11:48:25Z",
     "viewsLabel": "1,546,062 views at review",
-    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Don’t Throw Away Your Old Lawnmower — Build THIS Instead\" by Homemade Inventions. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
     "takeaways": [
-      "The topic fits a focused Homemade Inventions search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Define the practical problem or constraint behind Don’t Throw Away Your Old Lawnmower — Build THIS Instead before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "homemade inventions",
+    "topicType": "Engineering",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
-    "keyword": "homemade inventions"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "hNNpvvmvyCU",
     "slug": "21-amazing-mechanical-concepts-explained-and-animated-what-viewers-shoul",
     "category": "inventions",
-    "title": "21 Amazing Mechanical Concepts Explained And Animated: What Viewers Should Notice in This engineering Video",
+    "title": "21 Amazing Mechanical Concepts Explained And Animated! | Engineering Breakdown",
     "sourceTitle": "21 Amazing Mechanical Concepts Explained And Animated!",
     "channel": "Know Art",
     "publishedAt": "2024-05-15T14:04:46Z",
     "viewsLabel": "1,511,976 views at review",
-    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"21 Amazing Mechanical Concepts Explained And Animated!\" by Know Art. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
     "takeaways": [
-      "The topic fits a focused Amazing Engineering Build search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Define the practical problem or constraint behind 21 Amazing Mechanical Concepts Explained And Animated! before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "amazing engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
-    "keyword": "amazing engineering build"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "dxWb1Vd9aq8",
     "slug": "20-inventions-that-will-change-the-world-what-viewers-should-notice-in-t",
     "category": "inventions",
-    "title": "20 Inventions That Will Change The World: What Viewers Should Notice in This engineering Video",
+    "title": "20 inventions that will change the world | Engineering Breakdown",
     "sourceTitle": "20 INVENTIONS THAT WILL CHANGE THE WORLD",
     "channel": "TechZone",
     "publishedAt": "2024-07-14T13:00:56Z",
     "viewsLabel": "1,511,023 views at review",
-    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"20 inventions that will change the world\" by TechZone. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
     "takeaways": [
-      "The topic fits a focused Homemade Inventions search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Define the practical problem or constraint behind 20 inventions that will change the world before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "homemade inventions",
+    "topicType": "Engineering",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
-    "keyword": "homemade inventions"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "ZVlv3r1KQyo",
     "slug": "millions-don-t-know-that-waste-oil-is-a-what-viewers-should-notice-in-th",
     "category": "inventions",
-    "title": "Millions Don T Know That Waste Oil Is A: What Viewers Should Notice in This engineering Video",
+    "title": "Millions Don’t Know That Waste Oil Is a Gold Mine! DIY 3-in-1 Heating... | Engineering Breakdown",
     "sourceTitle": "Millions Don’t Know That Waste Oil Is a Gold Mine! DIY 3-in-1 Heating Stove",
     "channel": "Creative inventions LMTN",
     "publishedAt": "2025-10-25T12:06:23Z",
     "viewsLabel": "6,198,360 views at review",
-    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Millions Don’t Know That Waste Oil Is a Gold Mine! DIY 3-in-1 Heating Stove\" by Creative inventions LMTN. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
     "takeaways": [
-      "The topic fits a focused Homemade Inventions search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Define the practical problem or constraint behind Millions Don’t Know That Waste Oil Is a Gold Mine! DIY 3-in-1 Heating Stove before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "homemade inventions",
+    "topicType": "Engineering",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
-    "keyword": "homemade inventions"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "EWbEXCrdRYk",
     "slug": "inside-factory-producing-world-s-largest-european-aircraft-what-viewers-",
     "category": "inventions",
-    "title": "Inside Factory Producing World S Largest European Aircraft: What Viewers Should Notice in This factory process Video",
+    "title": "Inside Factory Producing World's Largest European Aircraft | Factory Process Guide",
     "sourceTitle": "Inside Factory Producing World's Largest European Aircraft",
     "channel": "FRAME",
     "publishedAt": "2025-08-02T21:11:01Z",
     "viewsLabel": "3,865,524 views at review",
-    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This guide accompanies \"Inside Factory Producing World's Largest European Aircraft\" by FRAME and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
     "takeaways": [
-      "The topic fits a focused Factory Manufacturing Process search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Track the material or components entering the process shown in Inside Factory Producing World's Largest European Aircraft.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
-    "keyword": "factory manufacturing process"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "Fb-FSnUdKWs",
     "slug": "restoration-of-the-old-trench-gramophone-from-1939-restoration-what-view",
     "category": "restoration",
-    "title": "Restoration Of The Old Trench Gramophone From 1939 Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "RESTORATION of the old trench GRAMOPHONE from 1939. Restoration of a... | Restoration Process Guide",
     "sourceTitle": "RESTORATION of the old trench GRAMOPHONE from 1939. Restoration of a RUSTY gramophone.",
     "channel": "PSV Restoration",
     "publishedAt": "2025-04-24T12:05:42Z",
     "viewsLabel": "2,252,176 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"RESTORATION of the old trench GRAMOPHONE from 1939. Restoration of a RUSTY gramophone.\" by PSV Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of RESTORATION of the old trench GRAMOPHONE from 1939. Restoration of a RUSTY gramophone..",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "h89TFhFtQJU",
     "slug": "restoration-abandoned-bmw-m3-restoration-and-rebuild-bmw-m3-what-viewers",
     "category": "restoration",
-    "title": "Restoration Abandoned Bmw M3 Restoration And Rebuild Bmw M3: What Viewers Should Notice in This engineering Video",
+    "title": "Restoration Abandoned BMW M3 | Restoration and Rebuild BMW M3... | Restoration Process Guide",
     "sourceTitle": "Restoration Abandoned BMW M3 | Restoration and Rebuild BMW M3 Competition",
     "channel": "RESTORATION KAMASUTRA",
     "publishedAt": "2024-03-28T17:58:23Z",
     "viewsLabel": "23,233,346 views at review",
-    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration Abandoned BMW M3 | Restoration and Rebuild BMW M3 Competition\" by RESTORATION KAMASUTRA. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Abandoned Car Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration Abandoned BMW M3 | Restoration and Rebuild BMW M3 Competition.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "abandoned car restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "abandoned car restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "iFJ_hkwQzD0",
     "slug": "restoration-abandoned-mercedes-benz-actros-semi-trailer-truck-what-viewe",
     "category": "restoration",
-    "title": "Restoration Abandoned Mercedes-benz Actros Semi Trailer Truck: What Viewers Should Notice in This restoration Video",
+    "title": "Restoration Abandoned Mercedes-Benz Actros Semi Trailer Truck | Restoration Process Guide",
     "sourceTitle": "Restoration Abandoned Mercedes-Benz Actros Semi Trailer Truck",
     "channel": "RESTORATION KAMASUTRA",
     "publishedAt": "2025-03-21T18:51:18Z",
     "viewsLabel": "21,836,504 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration Abandoned Mercedes-Benz Actros Semi Trailer Truck\" by RESTORATION KAMASUTRA. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Abandoned Car Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration Abandoned Mercedes-Benz Actros Semi Trailer Truck.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "abandoned car restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "abandoned car restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "bADc8TYDvlQ",
     "slug": "restoring-completely-burned-frank-from-cars-500-deal-full-what-viewers-s",
     "category": "restoration",
-    "title": "Restoring Completely Burned Frank From Cars 500 Deal Full: What Viewers Should Notice in This factory process Video",
+    "title": "Restoring Completely Burned FRANK from Cars ($500 DEAL) | FULL ASMR... | Restoration Process Guide",
     "sourceTitle": "Restoring Completely Burned FRANK from Cars ($500 DEAL) | FULL ASMR PROCESS",
     "channel": "Abandoned Cars TV",
     "publishedAt": "2026-03-17T14:28:27Z",
     "viewsLabel": "6,801,460 views at review",
-    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoring Completely Burned FRANK from Cars ($500 DEAL) | FULL ASMR PROCESS\" by Abandoned Cars TV. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Abandoned Car Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoring Completely Burned FRANK from Cars ($500 DEAL) | FULL ASMR PROCESS.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "abandoned car restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "abandoned car restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "yOWar-Oxlrg",
     "slug": "antique-villiers-engine-restoration-will-it-ever-run-what-viewers-should",
     "category": "restoration",
-    "title": "Antique Villiers Engine Restoration - Will It Ever Run: What Viewers Should Notice in This restoration Video",
+    "title": "Antique Villiers Engine Restoration - Will it Ever Run Again? | Restoration Process Guide",
     "sourceTitle": "Antique Villiers Engine Restoration - Will it Ever Run Again?",
     "channel": "Machinery Restorer",
     "publishedAt": "2025-03-06T16:39:01Z",
     "viewsLabel": "1,836,302 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Antique Villiers Engine Restoration - Will it Ever Run Again?\" by Machinery Restorer. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Antique Villiers Engine Restoration - Will it Ever Run Again?.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "KnRKufcw4-o",
     "slug": "35-easy-science-experiments-to-do-at-home-by-what-viewers-should-notice-",
     "category": "inventions",
-    "title": "35 Easy Science Experiments To Do At Home By: What Viewers Should Notice in This engineering Video",
+    "title": "35 easy science experiments to do at home by inventor 101 | Engineering Breakdown",
     "sourceTitle": "35 EASY SCIENCE EXPERIMENTS TO DO AT HOME by inventor 101",
     "channel": "Inventor 101",
     "publishedAt": "2026-03-18T02:17:11Z",
     "viewsLabel": "1,470,329 views at review",
-    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"35 easy science experiments to do at home by inventor 101\" by Inventor 101. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
     "takeaways": [
-      "The topic fits a focused Homemade Inventions search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Define the practical problem or constraint behind 35 easy science experiments to do at home by inventor 101 before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "homemade inventions",
+    "topicType": "Engineering",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
-    "keyword": "homemade inventions"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "q2aXaCnYaVU",
     "slug": "how-giant-steel-cables-are-made-in-massive-production-what-viewers-shoul",
     "category": "inventions",
-    "title": "How Giant Steel Cables Are Made In Massive Production: What Viewers Should Notice in This factory process Video",
+    "title": "How Giant Steel Cables Are Made In Massive Production Line | Over 10,000... | Factory Process Guide",
     "sourceTitle": "How Giant Steel Cables Are Made In Massive Production Line | Over 10,000 Feet In Length",
     "channel": "The Factoran",
     "publishedAt": "2025-09-21T13:34:41Z",
     "viewsLabel": "727,721 views at review",
-    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This guide accompanies \"How Giant Steel Cables Are Made In Massive Production Line | Over 10,000 Feet In Length\" by The Factoran and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
     "takeaways": [
-      "The topic fits a focused Factory Manufacturing Process search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Track the material or components entering the process shown in How Giant Steel Cables Are Made In Massive Production Line | Over 10,000 Feet In Length.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
-    "keyword": "factory manufacturing process"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "_uBXMfndo0A",
     "slug": "restoration-of-a-1920s-horse-racing-game-geewiz-what-viewers-should-noti",
     "category": "restoration",
-    "title": "Restoration Of A 1920s Horse Racing Game Geewiz: What Viewers Should Notice in This restoration Video",
+    "title": "Restoration of a 1920s horse racing game GeeWIZ | Restoration Process Guide",
     "sourceTitle": "Restoration of a 1920s horse racing game GeeWIZ",
     "channel": "MW Restoration",
     "publishedAt": "2024-11-29T13:00:53Z",
     "viewsLabel": "10,020,381 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration of a 1920s horse racing game GeeWIZ\" by MW Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration of a 1920s horse racing game GeeWIZ.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "idkVPySLf5Y",
     "slug": "restoring-a-75-year-old-drill-press-vintagemachinery-diy-what-viewers-sh",
     "category": "restoration",
-    "title": "Restoring A 75-year-old Drill Press Vintagemachinery Diy: What Viewers Should Notice in This restoration Video",
+    "title": "Restoring a 75-year-old drill press | Restoration Process Guide",
     "sourceTitle": "Restoring a 75-year-old drill press   #vintagemachinery #diy",
     "channel": "Pacific Northwest Hillbilly",
     "publishedAt": "2025-07-22T20:29:36Z",
     "viewsLabel": "8,017,305 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoring a 75-year-old drill press\" by Pacific Northwest Hillbilly. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoring a 75-year-old drill press.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "urItapix3ew",
     "slug": "1929-s-live-steam-naumann-machine-restoration-will-what-viewers-should-n",
     "category": "restoration",
-    "title": "1929 S Live Steam Naumann Machine Restoration - Will: What Viewers Should Notice in This restoration Video",
+    "title": "1929's Live Steam Naumann Machine Restoration - Will It Ever Work Again? | Restoration Process Guide",
     "sourceTitle": "1929's Live Steam Naumann Machine Restoration - Will It Ever Work Again?",
     "channel": "Rusty Shades Restoration",
     "publishedAt": "2024-07-25T17:57:01Z",
     "viewsLabel": "2,594,686 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"1929's Live Steam Naumann Machine Restoration - Will It Ever Work Again?\" by Rusty Shades Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of 1929's Live Steam Naumann Machine Restoration - Will It Ever Work Again?.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "3jtk1cCTJSc",
     "slug": "restoration-of-a-very-old-rusty-alarm-clock-built-what-viewers-should-no",
     "category": "restoration",
-    "title": "Restoration Of A Very Old Rusty Alarm Clock Built: What Viewers Should Notice in This restoration Video",
+    "title": "RESTORATION OF a very old RUSTY ALARM CLOCK built in 1950 Amazing clock... | Restoration Process Guide",
     "sourceTitle": "RESTORATION OF a very old RUSTY ALARM CLOCK built in 1950  Amazing clock recovery",
     "channel": "PSV Restoration",
     "publishedAt": "2025-02-25T10:59:31Z",
     "viewsLabel": "1,723,254 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"RESTORATION OF a very old RUSTY ALARM CLOCK built in 1950 Amazing clock recovery\" by PSV Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of RESTORATION OF a very old RUSTY ALARM CLOCK built in 1950 Amazing clock recovery.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "P0ZGmjkaebw",
     "slug": "grundig-1958-one-of-the-most-beautiful-radios-ever-what-viewers-should-n",
     "category": "restoration",
-    "title": "Grundig 1958 One Of The Most Beautiful Radios Ever: What Viewers Should Notice in This restoration Video",
+    "title": "Grundig 1958 | One of the Most Beautiful Radios Ever Made | Restoration Process Guide",
     "sourceTitle": "Grundig 1958 | One of the Most Beautiful Radios Ever Made",
     "channel": "Rusty Restore",
     "publishedAt": "2025-04-16T14:00:40Z",
     "viewsLabel": "1,272,105 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Grundig 1958 | One of the Most Beautiful Radios Ever Made\" by Rusty Restore. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Grundig 1958 | One of the Most Beautiful Radios Ever Made.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "0NbZp6koXhs",
     "slug": "three-men-clean-70-year-old-buried-house-and-give-it-what-viewers-should",
     "category": "restoration",
-    "title": "Three Men Clean 70-year-old Buried House And Give It: What Viewers Should Notice in This restoration Video",
+    "title": "Three Men Clean 70-Year-Old Buried House and Give It a Second Life for... | Restoration Process Guide",
     "sourceTitle": "Three Men Clean 70-Year-Old Buried House and Give It a Second Life for Free | by @Cleantheoldhouse",
     "channel": "Quantum Makers",
     "publishedAt": "2024-08-02T16:00:01Z",
     "viewsLabel": "24,655,226 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Three Men Clean 70-Year-Old Buried House and Give It a Second Life for Free | by @Cleantheoldhouse\" by Quantum Makers. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Three Men Clean 70-Year-Old Buried House and Give It a Second Life for Free | by @Cleantheoldhouse.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "nPzVXbrdpHY",
     "slug": "reviving-a-big-50-year-old-dead-engine-nobody-what-viewers-should-notice",
     "category": "restoration",
-    "title": "Reviving A Big 50 Year Old Dead Engine Nobody: What Viewers Should Notice in This restoration Video",
+    "title": "Reviving a big 50 Year Old dead Engine Nobody Thought Would Start Again! | Restoration Process Guide",
     "sourceTitle": "Reviving a big 50 Year Old dead Engine Nobody Thought Would Start Again!",
     "channel": "Techno Fusion HD",
     "publishedAt": "2025-08-04T07:33:31Z",
     "viewsLabel": "5,236,509 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Reviving a big 50 Year Old dead Engine Nobody Thought Would Start Again!\" by Techno Fusion HD. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Reviving a big 50 Year Old dead Engine Nobody Thought Would Start Again!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "ySo1TaGITZA",
     "slug": "restoring-1830-40-s-sausage-stuffer-authentic-barn-find-what-viewers-sho",
     "category": "restoration",
-    "title": "Restoring 1830-40 S Sausage Stuffer Authentic Barn Find: What Viewers Should Notice in This restoration Video",
+    "title": "RESTORING 1830-40’s Sausage Stuffer ( Authentic Barn Find ) | Restoration Process Guide",
     "sourceTitle": "RESTORING 1830-40’s Sausage Stuffer ( Authentic Barn Find )",
     "channel": "Cool Again Restoration",
     "publishedAt": "2024-07-13T10:12:32Z",
     "viewsLabel": "2,021,823 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"RESTORING 1830-40’s Sausage Stuffer ( Authentic Barn Find )\" by Cool Again Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of RESTORING 1830-40’s Sausage Stuffer ( Authentic Barn Find ).",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "xRmh3JqXqXw",
     "slug": "noodles-machine-restoration-we-are-making-homemade-noodles-what-viewers-",
     "category": "restoration",
-    "title": "Noodles Machine Restoration - We Are Making Homemade Noodles: What Viewers Should Notice in This restoration Video",
+    "title": "Noodles Machine Restoration - We Are Making Homemade Noodles For You! | Restoration Process Guide",
     "sourceTitle": "Noodles Machine Restoration - We Are Making Homemade Noodles For You!",
     "channel": "Rusty Shades Restoration",
     "publishedAt": "2024-01-08T18:48:27Z",
     "viewsLabel": "1,203,637 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Noodles Machine Restoration - We Are Making Homemade Noodles For You!\" by Rusty Shades Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Noodles Machine Restoration - We Are Making Homemade Noodles For You!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "IZyp78Lr2Ps",
     "slug": "restoration-shoe-polish-machine-complete-process-what-viewers-should-not",
     "category": "restoration",
-    "title": "Restoration Shoe Polish Machine - Complete Process: What Viewers Should Notice in This factory process Video",
+    "title": "Restoration Shoe Polish Machine - Complete Process | Restoration Process Guide",
     "sourceTitle": "Restoration Shoe Polish Machine - Complete Process",
     "channel": "MrRescue",
     "publishedAt": "2024-08-18T11:09:20Z",
     "viewsLabel": "988,961 views at review",
-    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration Shoe Polish Machine - Complete Process\" by MrRescue. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration Shoe Polish Machine - Complete Process.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "JN050Q6qAaw",
     "slug": "restoration-of-a-vintage-wood-numbering-machine-restoration-vintage-what",
     "category": "restoration",
-    "title": "Restoration Of A Vintage Wood Numbering Machine Restoration Vintage: What Viewers Should Notice in This restoration Video",
+    "title": "Restoration of a Vintage Wood Numbering Machine | Restoration Process Guide",
     "sourceTitle": "Restoration of a Vintage Wood Numbering Machine #restoration #vintage #woodworking #repair",
     "channel": "Fixing History",
     "publishedAt": "2026-05-01T03:39:03Z",
     "viewsLabel": "696,286 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration of a Vintage Wood Numbering Machine\" by Fixing History. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration of a Vintage Wood Numbering Machine.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "peOPpcWjblw",
     "slug": "1928-s-ideal-welding-machine-restoration-the-bizarre-what-viewers-should",
     "category": "restoration",
-    "title": "1928 S Ideal Welding Machine Restoration - The Bizarre: What Viewers Should Notice in This restoration Video",
+    "title": "1928's \"Ideal\" Welding Machine Restoration - The BIZARRE Machine That... | Restoration Process Guide",
     "sourceTitle": "1928's \"Ideal\" Welding Machine Restoration - The BIZARRE Machine That Welds Sawblades?",
     "channel": "Rusty Shades Restoration",
     "publishedAt": "2025-09-05T18:01:23Z",
     "viewsLabel": "647,695 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"1928's \"Ideal\" Welding Machine Restoration - The BIZARRE Machine That Welds Sawblades?\" by Rusty Shades Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of 1928's \"Ideal\" Welding Machine Restoration - The BIZARRE Machine That Welds Sawblades?.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "eUcXlSjy_dY",
     "slug": "my-most-satisfying-watch-restoration-vintage-eberhard-co-what-viewers-sh",
     "category": "restoration",
-    "title": "My Most Satisfying Watch Restoration - Vintage Eberhard Co: What Viewers Should Notice in This restoration Video",
+    "title": "My Most Satisfying Watch Restoration - Vintage Eberhard & Co Chronograph... | Restoration Process Guide",
     "sourceTitle": "My Most Satisfying Watch Restoration - Vintage Eberhard & Co Chronograph from 1943",
     "channel": "Red Dead Restoration",
     "publishedAt": "2025-07-18T09:58:09Z",
     "viewsLabel": "566,262 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"My Most Satisfying Watch Restoration - Vintage Eberhard & Co Chronograph from 1943\" by Red Dead Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of My Most Satisfying Watch Restoration - Vintage Eberhard & Co Chronograph from 1943.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "Ab02a_EKtcg",
     "slug": "111-years-old-antique-toaster-restoration-what-viewers-should-notice-in-",
     "category": "restoration",
-    "title": "111 Years Old Antique Toaster Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "111 Years Old Antique Toaster Restoration | Restoration Process Guide",
     "sourceTitle": "111 Years Old Antique Toaster Restoration",
     "channel": "Odd Tinkering",
     "publishedAt": "2025-09-27T18:27:42Z",
     "viewsLabel": "523,857 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"111 Years Old Antique Toaster Restoration\" by Odd Tinkering. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of 111 Years Old Antique Toaster Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "VHZCBgQ7Xws",
     "slug": "how-old-pinball-machines-are-professionally-restored-restoration-what-vi",
     "category": "restoration",
-    "title": "How Old Pinball Machines Are Professionally Restored Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "How Old Pinball Machines Are Professionally Restored | Restoration | Restoration Process Guide",
     "sourceTitle": "How Old Pinball Machines Are Professionally Restored | Restoration",
     "channel": "Masters Of Craft",
     "publishedAt": "2024-03-02T14:00:17Z",
     "viewsLabel": "464,352 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"How Old Pinball Machines Are Professionally Restored | Restoration\" by Masters Of Craft. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of How Old Pinball Machines Are Professionally Restored | Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "0N68WgcPcws",
     "slug": "restoration-of-rusty-cordless-drill-what-viewers-should-notice-in-this-r",
     "category": "restoration",
-    "title": "Restoration Of Rusty Cordless Drill: What Viewers Should Notice in This restoration Video",
+    "title": "Restoration of Rusty Cordless Drill | Restoration Process Guide",
     "sourceTitle": "Restoration of Rusty Cordless Drill",
     "channel": "Repair&Restoration",
     "publishedAt": "2024-09-25T17:00:00Z",
     "viewsLabel": "1,164,024 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration of Rusty Cordless Drill\" by Repair&Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration of Rusty Cordless Drill.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "U4irOOYNFbs",
     "slug": "the-world-still-needs-these-machines-what-viewers-should-notice-in-this-",
     "category": "restoration",
-    "title": "The World Still Needs These Machines: What Viewers Should Notice in This restoration Video",
+    "title": "The World Still Needs These Machines | Restoration Process Guide",
     "sourceTitle": "The World Still Needs These Machines",
     "channel": "Inheritance Machining",
     "publishedAt": "2025-10-03T14:00:49Z",
     "viewsLabel": "890,900 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"The World Still Needs These Machines\" by Inheritance Machining. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of The World Still Needs These Machines.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "XFXqLmi2sdo",
     "slug": "rusty-vintage-hand-press-juicer-machine-restoration-what-viewers-should-",
     "category": "restoration",
-    "title": "Rusty Vintage Hand Press Juicer Machine Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "Rusty Vintage Hand Press Juicer Machine Restoration | Restoration Process Guide",
     "sourceTitle": "Rusty Vintage Hand Press Juicer Machine Restoration",
     "channel": "Ayaz Restoration",
     "publishedAt": "2024-11-30T14:00:34Z",
     "viewsLabel": "270,122 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Rusty Vintage Hand Press Juicer Machine Restoration\" by Ayaz Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Rusty Vintage Hand Press Juicer Machine Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "6HztWxBoCoU",
     "slug": "still-works-after-100-years-rusty-antique-flour-mill-what-viewers-should",
     "category": "restoration",
-    "title": "Still Works After 100 Years Rusty Antique Flour Mill: What Viewers Should Notice in This restoration Video",
+    "title": "Still Works After 100 Years? Rusty Antique Flour Mill Machine... | Restoration Process Guide",
     "sourceTitle": "Still Works After 100 Years? Rusty Antique Flour Mill Machine Restoration",
     "channel": "AA Hands",
     "publishedAt": "2025-07-09T12:59:06Z",
     "viewsLabel": "265,085 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Still Works After 100 Years? Rusty Antique Flour Mill Machine Restoration\" by AA Hands. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Still Works After 100 Years? Rusty Antique Flour Mill Machine Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "oDoH1qg2GZI",
     "slug": "abandoned-cat-machine-restoration-time-vs-power-what-viewers-should-noti",
     "category": "restoration",
-    "title": "Abandoned Cat Machine Restoration Time Vs Power: What Viewers Should Notice in This restoration Video",
+    "title": "Abandoned CAT Machine Restoration – Time vs Power | Restoration Process Guide",
     "sourceTitle": "Abandoned CAT Machine Restoration – Time vs Power",
     "channel": "Mr Restore",
     "publishedAt": "2025-10-18T12:01:37Z",
     "viewsLabel": "245,643 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Abandoned CAT Machine Restoration – Time vs Power\" by Mr Restore. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Abandoned CAT Machine Restoration – Time vs Power.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "P_3r8-vWIBg",
     "slug": "in-this-video-i-m-restoring-a-very-big-what-viewers-should-notice-in-thi",
     "category": "restoration",
-    "title": "In This Video I M Restoring A Very Big: What Viewers Should Notice in This restoration Video",
+    "title": "In this video I'm restoring a very big cleaver. Welcome to Rust To... | Restoration Process Guide",
     "sourceTitle": "In this video I'm restoring a very big cleaver. #microservo.   Welcome to Rust To Shine,",
     "channel": "Rust To Shine",
     "publishedAt": "2026-07-11T09:00:29Z",
     "viewsLabel": "204,720 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"In this video I'm restoring a very big cleaver. Welcome to Rust To Shine,\" by Rust To Shine. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of In this video I'm restoring a very big cleaver. Welcome to Rust To Shine,.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "o1qZ5UrcWc0",
     "slug": "1941-singer-sewing-machine-restoration-29k73-what-viewers-should-notice-",
     "category": "restoration",
-    "title": "1941 Singer Sewing Machine Restoration - 29k73: What Viewers Should Notice in This restoration Video",
+    "title": "1941 SINGER Sewing Machine Restoration - 29K73 | Restoration Process Guide",
     "sourceTitle": "1941 SINGER Sewing Machine Restoration - 29K73",
     "channel": "NATRA",
     "publishedAt": "2026-06-05T23:50:56Z",
     "viewsLabel": "184,919 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"1941 SINGER Sewing Machine Restoration - 29K73\" by NATRA. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of 1941 SINGER Sewing Machine Restoration - 29K73.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "fQBIBCFHRgA",
     "slug": "i-restored-a-milling-machine-for-my-birthday-it-what-viewers-should-noti",
     "category": "restoration",
-    "title": "I Restored A Milling Machine For My Birthday It: What Viewers Should Notice in This restoration Video",
+    "title": "I restored a milling machine for my birthday. It went well, mostly. | Restoration Process Guide",
     "sourceTitle": "I restored a milling machine for my birthday.  It went well, mostly.",
     "channel": "Robert Adair",
     "publishedAt": "2026-01-09T04:58:51Z",
     "viewsLabel": "169,502 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"I restored a milling machine for my birthday. It went well, mostly.\" by Robert Adair. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of I restored a milling machine for my birthday. It went well, mostly..",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "PRjt8-67-Gs",
     "slug": "cordless-drill-restoration-restore-makita-electric-brushless-what-viewer",
     "category": "restoration",
-    "title": "Cordless Drill Restoration Restore Makita Electric Brushless: What Viewers Should Notice in This restoration Video",
+    "title": "Cordless Drill Restoration // Restore MAKITA Electric Brushless | Restoration Process Guide",
     "sourceTitle": "Cordless Drill Restoration // Restore MAKITA Electric Brushless",
     "channel": "WT Creative",
     "publishedAt": "2024-06-14T00:15:01Z",
     "viewsLabel": "955,967 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Cordless Drill Restoration // Restore MAKITA Electric Brushless\" by WT Creative. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Cordless Drill Restoration // Restore MAKITA Electric Brushless.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "jPDksAigBzM",
     "slug": "ep-141-antique-sewing-machine-restoration-what-viewers-should-notice-in-",
     "category": "restoration",
-    "title": "Ep 141 Antique Sewing Machine Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "Ep. 141 Antique SEWING Machine RESTORATION | Restoration Process Guide",
     "sourceTitle": "Ep. 141 Antique SEWING Machine RESTORATION ",
     "channel": "Mad City Modern",
     "publishedAt": "2025-09-12T00:28:40Z",
     "viewsLabel": "121,917 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Ep. 141 Antique SEWING Machine RESTORATION\" by Mad City Modern. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Ep. 141 Antique SEWING Machine RESTORATION.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "7U3htAn6Kj4",
     "slug": "the-ultimate-espresso-machine-restoration-what-viewers-should-notice-in-",
     "category": "restoration",
-    "title": "The Ultimate Espresso Machine Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "The Ultimate Espresso Machine Restoration | Restoration Process Guide",
     "sourceTitle": "The Ultimate Espresso Machine Restoration",
     "channel": "Lance Hedrick",
     "publishedAt": "2024-10-24T15:34:44Z",
     "viewsLabel": "106,671 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"The Ultimate Espresso Machine Restoration\" by Lance Hedrick. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of The Ultimate Espresso Machine Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "_EC4yidfPuw",
     "slug": "restoring-an-old-stone-crusher-machine-father-son-engineering-what-viewe",
     "category": "restoration",
-    "title": "Restoring An Old Stone Crusher Machine Father Son Engineering: What Viewers Should Notice in This engineering Video",
+    "title": "Restoring an Old Stone Crusher Machine | Father & Son Engineering Work | Restoration Process Guide",
     "sourceTitle": "Restoring an Old Stone Crusher Machine | Father & Son Engineering Work",
     "channel": "Torque Garage ",
     "publishedAt": "2026-07-12T09:12:49Z",
     "viewsLabel": "69,570 views at review",
-    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoring an Old Stone Crusher Machine | Father & Son Engineering Work\" by Torque Garage. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoring an Old Stone Crusher Machine | Father & Son Engineering Work.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "hp4KxwYyxTI",
     "slug": "how-to-rescue-an-old-sewing-machine-what-viewers-should-notice-in-this-r",
     "category": "restoration",
-    "title": "How To Rescue An Old Sewing Machine: What Viewers Should Notice in This restoration Video",
+    "title": "How to Rescue an Old Sewing Machine | Restoration Process Guide",
     "sourceTitle": "How to Rescue an Old Sewing Machine",
     "channel": "Cornelius Quiring",
     "publishedAt": "2024-05-19T11:00:29Z",
     "viewsLabel": "65,367 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"How to Rescue an Old Sewing Machine\" by Cornelius Quiring. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of How to Rescue an Old Sewing Machine.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "zb66R_Ah0vU",
     "slug": "unbelievable-restoration-rusty-antique-sharpening-machine-restoration-wh",
     "category": "restoration",
-    "title": "Unbelievable Restoration Rusty Antique Sharpening Machine Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "Restoration! Rusty Antique Sharpening Machine Restoration | Restoration Process Guide",
     "sourceTitle": "Unbelievable Restoration! Rusty Antique Sharpening Machine Restoration",
     "channel": "AA Hands",
     "publishedAt": "2025-03-01T14:59:51Z",
     "viewsLabel": "58,849 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration! Rusty Antique Sharpening Machine Restoration\" by AA Hands. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration! Rusty Antique Sharpening Machine Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "sLRdeamcyTU",
     "slug": "washing-machines-last-no-time-these-days-3-years-what-viewers-should-not",
     "category": "restoration",
-    "title": "Washing Machines Last No Time These Days 3 Years: What Viewers Should Notice in This restoration Video",
+    "title": "Washing machines last no time these days. 3 years old , second bearing... | Restoration Process Guide",
     "sourceTitle": "Washing machines last no time these days. 3 years old , second bearing change. #scrap #machine #diy",
     "channel": "Dean Doherty",
     "publishedAt": "2026-07-10T17:08:43Z",
     "viewsLabel": "1,372,675 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Washing machines last no time these days. 3 years old , second bearing change.\" by Dean Doherty. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Washing machines last no time these days. 3 years old , second bearing change..",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "Bd7NC3vFl_g",
     "slug": "rusty-leather-press-restoration-what-viewers-should-notice-in-this-resto",
     "category": "restoration",
-    "title": "Rusty Leather Press Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "Rusty Leather Press Restoration | Restoration Process Guide",
     "sourceTitle": "Rusty Leather Press Restoration",
     "channel": "LADB Restoration",
     "publishedAt": "2025-09-24T20:06:42Z",
     "viewsLabel": "203,109 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Rusty Leather Press Restoration\" by LADB Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Rusty Leather Press Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "p1doVGlrkn4",
     "slug": "antique-rusty-finger-fries-cutter-machine-restoration-what-viewers-shoul",
     "category": "restoration",
-    "title": "Antique Rusty Finger Fries Cutter Machine Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "Antique Rusty 'Finger Fries Cutter' Machine Restoration | Restoration Process Guide",
     "sourceTitle": "Antique Rusty 'Finger Fries Cutter' Machine Restoration",
     "channel": "AA Hands",
     "publishedAt": "2024-09-28T15:01:00Z",
     "viewsLabel": "169,598 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Antique Rusty 'Finger Fries Cutter' Machine Restoration\" by AA Hands. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Antique Rusty 'Finger Fries Cutter' Machine Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "lo8ruOnx5mM",
     "slug": "rusty-hand-press-juicer-machine-restoration-what-viewers-should-notice-i",
     "category": "restoration",
-    "title": "Rusty Hand Press Juicer Machine - Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "Rusty Hand Press Juicer Machine - Restoration | Restoration Process Guide",
     "sourceTitle": "Rusty Hand Press Juicer Machine - Restoration",
     "channel": "Ayaz Restoration",
     "publishedAt": "2024-03-17T14:00:36Z",
     "viewsLabel": "97,585 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Rusty Hand Press Juicer Machine - Restoration\" by Ayaz Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Rusty Hand Press Juicer Machine - Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "1c8KHflPvPM",
     "slug": "unbelievable-truck-transformation-restoration-abandoned-pickup-truck-for",
     "category": "restoration",
-    "title": "Unbelievable Truck Transformation Restoration Abandoned Pickup Truck Ford F-150: What Viewers Should Notice in This restoration Video",
+    "title": "Truck Transformation! Restoration Abandoned Pickup Truck Ford F-150 | Restoration Process Guide",
     "sourceTitle": "UNBELIEVABLE Truck Transformation! Restoration Abandoned Pickup Truck Ford F-150",
     "channel": "RESTORATION KAMASUTRA",
     "publishedAt": "2025-10-25T19:23:20Z",
     "viewsLabel": "6,991,137 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Truck Transformation! Restoration Abandoned Pickup Truck Ford F-150\" by RESTORATION KAMASUTRA. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Abandoned Car Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Truck Transformation! Restoration Abandoned Pickup Truck Ford F-150.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "abandoned car restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "abandoned car restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "0KhwygVFbCg",
     "slug": "restoration-abandoned-ford-mustang-shelby-gt500-muscle-car-restoration-w",
     "category": "restoration",
-    "title": "Restoration Abandoned Ford Mustang Shelby Gt500 Muscle Car Restoration: What Viewers Should Notice in This engineering Video",
+    "title": "Restoration Abandoned Ford Mustang Shelby GT500 | Muscle Car Restoration... | Restoration Process Guide",
     "sourceTitle": "Restoration Abandoned Ford Mustang Shelby GT500 | Muscle Car Restoration and Rebuild",
     "channel": "RESTORATION KAMASUTRA",
     "publishedAt": "2024-07-08T18:27:29Z",
     "viewsLabel": "6,537,104 views at review",
-    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration Abandoned Ford Mustang Shelby GT500 | Muscle Car Restoration and Rebuild\" by RESTORATION KAMASUTRA. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Abandoned Car Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration Abandoned Ford Mustang Shelby GT500 | Muscle Car Restoration and Rebuild.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "abandoned car restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "abandoned car restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "eGuAC0_E3YE",
     "slug": "restoration-abandoned-bus-scania-passenger-bus-restoration-what-viewers-",
     "category": "restoration",
-    "title": "Restoration Abandoned Bus - Scania Passenger Bus Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "Restoration Abandoned BUS - Scania Passenger Bus Restoration | Restoration Process Guide",
     "sourceTitle": "Restoration Abandoned BUS - Scania Passenger Bus Restoration",
     "channel": "Restoration",
     "publishedAt": "2024-10-20T11:36:50Z",
     "viewsLabel": "6,020,786 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration Abandoned BUS - Scania Passenger Bus Restoration\" by Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Abandoned Car Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration Abandoned BUS - Scania Passenger Bus Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "abandoned car restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "abandoned car restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "Ytg_c5JVMUI",
     "slug": "unbelievable-hypercar-transformation-restoration-abandoned-lamborghini-s",
     "category": "restoration",
-    "title": "Unbelievable Hypercar Transformation Restoration Abandoned Lamborghini Sian: What Viewers Should Notice in This restoration Video",
+    "title": "HYPERCAR Transformation! Restoration Abandoned Lamborghini Sian | Restoration Process Guide",
     "sourceTitle": "UNBELIEVABLE HYPERCAR Transformation! Restoration Abandoned Lamborghini Sian",
     "channel": "RESTORATION KAMASUTRA",
     "publishedAt": "2025-12-20T21:30:39Z",
     "viewsLabel": "5,753,920 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"HYPERCAR Transformation! Restoration Abandoned Lamborghini Sian\" by RESTORATION KAMASUTRA. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Abandoned Car Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of HYPERCAR Transformation! Restoration Abandoned Lamborghini Sian.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "abandoned car restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "abandoned car restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "A_UV5kdh8hU",
     "slug": "restoration-abandoned-bmw-m3-restoration-and-rebuild-sport-car-what-view",
     "category": "restoration",
-    "title": "Restoration Abandoned Bmw M3 Restoration And Rebuild Sport Car: What Viewers Should Notice in This engineering Video",
+    "title": "Restoration Abandoned BMW M3 | Restoration and Rebuild Sport Car | Restoration Process Guide",
     "sourceTitle": "Restoration Abandoned BMW M3 | Restoration and Rebuild Sport Car",
     "channel": "RESTORATION KAMASUTRA",
     "publishedAt": "2025-02-13T19:51:14Z",
     "viewsLabel": "4,453,693 views at review",
-    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration Abandoned BMW M3 | Restoration and Rebuild Sport Car\" by RESTORATION KAMASUTRA. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Abandoned Car Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration Abandoned BMW M3 | Restoration and Rebuild Sport Car.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "abandoned car restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "abandoned car restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "_C_OWVCeIZI",
     "slug": "restoration-abandoned-volkswagen-golf-unbelievable-transformation-what-v",
     "category": "restoration",
-    "title": "Restoration Abandoned Volkswagen Golf Unbelievable Transformation: What Viewers Should Notice in This restoration Video",
+    "title": "Restoration Abandoned Volkswagen Golf | UNBELIEVABLE Transformation! | Restoration Process Guide",
     "sourceTitle": "Restoration Abandoned Volkswagen Golf | UNBELIEVABLE Transformation!",
     "channel": "RESTORATION KAMASUTRA",
     "publishedAt": "2026-05-07T19:29:04Z",
     "viewsLabel": "4,259,625 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration Abandoned Volkswagen Golf | UNBELIEVABLE Transformation!\" by RESTORATION KAMASUTRA. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Abandoned Car Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration Abandoned Volkswagen Golf | UNBELIEVABLE Transformation!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "abandoned car restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "abandoned car restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "PtDo3PHO8rs",
     "slug": "restoration-abandoned-1970-ford-mustang-restoration-and-rebuild-muscle-w",
     "category": "restoration",
-    "title": "Restoration Abandoned 1970 Ford Mustang Restoration And Rebuild Muscle: What Viewers Should Notice in This engineering Video",
+    "title": "Restoration Abandoned 1970 Ford Mustang | Restoration and Rebuild Muscle... | Restoration Process Guide",
     "sourceTitle": "Restoration Abandoned 1970 Ford Mustang | Restoration and Rebuild Muscle Car",
     "channel": "RESTORATION KAMASUTRA",
     "publishedAt": "2025-01-11T19:16:57Z",
     "viewsLabel": "3,894,375 views at review",
-    "summary": "This engineering video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration Abandoned 1970 Ford Mustang | Restoration and Rebuild Muscle Car\" by RESTORATION KAMASUTRA. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Abandoned Car Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration Abandoned 1970 Ford Mustang | Restoration and Rebuild Muscle Car.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "abandoned car restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "abandoned car restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "xBesOWuFV5s",
     "slug": "old-angle-grinder-full-restoration-process-what-viewers-should-notice-in",
     "category": "restoration",
-    "title": "Old Angle Grinder Full Restoration Process: What Viewers Should Notice in This factory process Video",
+    "title": "Old Angle Grinder Full Restoration Process | Restoration Process Guide",
     "sourceTitle": "Old Angle Grinder Full Restoration Process",
     "channel": "ai. beauty with me",
     "publishedAt": "2026-07-05T12:12:31Z",
     "viewsLabel": "6,146,823 views at review",
-    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Old Angle Grinder Full Restoration Process\" by ai. beauty with me. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Old Angle Grinder Full Restoration Process.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "pvHHMfX2YAg",
     "slug": "full-restoration-40-years-old-ruined-of-caterpillar-d8k-what-viewers-sho",
     "category": "restoration",
-    "title": "Full Restoration 40 Years Old Ruined Of Caterpillar D8k: What Viewers Should Notice in This restoration Video",
+    "title": "Full Restoration 40 Years Old Ruined of Caterpillar D8K 1973 Abandoned... | Restoration Process Guide",
     "sourceTitle": "Full Restoration 40 Years Old Ruined of Caterpillar D8K 1973 Abandoned Condition Under the seabed",
     "channel": "Bulldozer Jobs",
     "publishedAt": "2026-01-27T07:48:58Z",
     "viewsLabel": "639,194 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Full Restoration 40 Years Old Ruined of Caterpillar D8K 1973 Abandoned Condition Under the seabed\" by Bulldozer Jobs. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Full Restoration 40 Years Old Ruined of Caterpillar D8K 1973 Abandoned Condition Under the seabed.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "WaODfQ6UnJQ",
     "slug": "inside-a-cpu-full-teardown-of-amd-epyc-processor-what-viewers-should-not",
     "category": "restoration",
-    "title": "Inside A Cpu Full Teardown Of Amd Epyc Processor: What Viewers Should Notice in This factory process Video",
+    "title": "Inside a CPU: Full Teardown of AMD EPYC Processor | Restoration Process Guide",
     "sourceTitle": "Inside a CPU: Full Teardown of AMD EPYC Processor",
     "channel": "HACKINATOR - Shorts",
     "publishedAt": "2025-06-01T21:36:01Z",
     "viewsLabel": "1,156,072 views at review",
-    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Inside a CPU: Full Teardown of AMD EPYC Processor\" by HACKINATOR - Shorts. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Inside a CPU: Full Teardown of AMD EPYC Processor.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "NvFOrKUDJFs",
     "slug": "extreme-restoration-of-a-rusty-vintage-hair-clipper-old-what-viewers-sho",
     "category": "restoration",
-    "title": "Extreme Restoration Of A Rusty Vintage Hair Clipper Old: What Viewers Should Notice in This restoration Video",
+    "title": "Extreme Restoration of a Rusty Vintage Hair Clipper || Old & Rusty Hair... | Restoration Process Guide",
     "sourceTitle": "Extreme Restoration of a Rusty Vintage Hair Clipper || Old & Rusty Hair Clipper Restoration ||",
     "channel": "Ansar Restoration",
     "publishedAt": "2025-12-23T12:32:59Z",
     "viewsLabel": "263,252 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Extreme Restoration of a Rusty Vintage Hair Clipper || Old & Rusty Hair Clipper Restoration |\" by Ansar Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Extreme Restoration of a Rusty Vintage Hair Clipper || Old & Rusty Hair Clipper Restoration |.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "lUVt-1ZwC9g",
     "slug": "jb-weld-steelstik-for-rust-holes-rustrepair-rustfix-jbweld-what-viewers-",
     "category": "restoration",
-    "title": "Jb Weld Steelstik For Rust Holes Rustrepair Rustfix Jbweld: What Viewers Should Notice in This restoration Video",
+    "title": "JB Weld SteelStik For RUST HOLES!! | Restoration Process Guide",
     "sourceTitle": "JB Weld SteelStik For RUST HOLES!! #rustRepair #rustFix #jbWeld",
     "channel": "1ROAD",
     "publishedAt": "2025-03-31T22:00:45Z",
     "viewsLabel": "194,363 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"JB Weld SteelStik For RUST HOLES!!\" by 1ROAD. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of JB Weld SteelStik For RUST HOLES!!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "7eQr4sKWq38",
     "slug": "inside-my-vintage-audio-restoration-lab-what-viewers-should-notice-in-th",
     "category": "restoration",
-    "title": "Inside My Vintage Audio Restoration Lab: What Viewers Should Notice in This restoration Video",
+    "title": "Inside My Vintage Audio Restoration Lab | Restoration Process Guide",
     "sourceTitle": "Inside My Vintage Audio Restoration Lab",
     "channel": "Novalux Stereophonic",
     "publishedAt": "2026-07-07T15:00:27Z",
     "viewsLabel": "51,038 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Inside My Vintage Audio Restoration Lab\" by Novalux Stereophonic. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Inside My Vintage Audio Restoration Lab.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "tZ7vUbj1NJU",
     "slug": "rusty-vintage-blacksmithing-hammer-restoration-you-won-t-believe-what-vi",
     "category": "restoration",
-    "title": "Rusty Vintage Blacksmithing Hammer Restoration You Won T Believe: What Viewers Should Notice in This restoration Video",
+    "title": "Rusty Vintage Blacksmithing Hammer Restoration | You Won't Believe The... | Restoration Process Guide",
     "sourceTitle": "Rusty Vintage Blacksmithing Hammer Restoration | You Won't Believe The Before And After!",
     "channel": "Archeon Restoration",
     "publishedAt": "2025-07-18T14:37:01Z",
     "viewsLabel": "2,963,810 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Rusty Vintage Blacksmithing Hammer Restoration | You Won't Believe The Before And After!\" by Archeon Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Rusty Vintage Blacksmithing Hammer Restoration | You Won't Believe The Before And After!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "w7Ss1uHdobk",
     "slug": "fixing-and-driving-an-old-bobcat-skid-steer-out-what-viewers-should-noti",
     "category": "restoration",
-    "title": "Fixing And Driving An Old Bobcat Skid Steer Out: What Viewers Should Notice in This restoration Video",
+    "title": "Fixing and Driving an old bobcat skid steer out of the woods | Restoration Process Guide",
     "sourceTitle": "Fixing and Driving an old bobcat skid steer out of the woods",
     "channel": "BradenBuildz",
     "publishedAt": "2024-06-20T14:03:57Z",
     "viewsLabel": "1,640,667 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Fixing and Driving an old bobcat skid steer out of the woods\" by BradenBuildz. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Fixing and Driving an old bobcat skid steer out of the woods.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "5NdG_OK6s9E",
     "slug": "1930-french-cafe-gambling-machine-restoration-restoration-restorationvid",
     "category": "restoration",
-    "title": "1930 French Cafe Gambling Machine Restoration Restoration Restorationvideo Antique: What Viewers Should Notice in This restoration Video",
+    "title": "1930 French Cafe Gambling Machine Restoration | Restoration Process Guide",
     "sourceTitle": "1930 French Cafe Gambling Machine Restoration🎰#restoration #restorationvideo #antique",
     "channel": "Fixing History",
     "publishedAt": "2026-06-06T03:44:41Z",
     "viewsLabel": "667,522 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"1930 French Cafe Gambling Machine Restoration\" by Fixing History. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of 1930 French Cafe Gambling Machine Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "qdklaPY5LKo",
     "slug": "leather-cutting-machine-restoration-early-1900s-shoemakers-machine-what-",
     "category": "restoration",
-    "title": "Leather Cutting Machine Restoration - Early 1900s Shoemakers Machine: What Viewers Should Notice in This restoration Video",
+    "title": "Leather Cutting Machine Restoration - Early 1900s Shoemakers Machine! | Restoration Process Guide",
     "sourceTitle": "Leather Cutting Machine Restoration - Early 1900s Shoemakers Machine!",
     "channel": "Rusty Shades Restoration",
     "publishedAt": "2024-03-01T11:43:33Z",
     "viewsLabel": "522,571 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Leather Cutting Machine Restoration - Early 1900s Shoemakers Machine!\" by Rusty Shades Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Leather Cutting Machine Restoration - Early 1900s Shoemakers Machine!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "6WNTMKFLjZQ",
     "slug": "cordless-drill-restoration-miwaukee-2701-brushless-drill-leather-custom-",
     "category": "restoration",
-    "title": "Cordless Drill Restoration Miwaukee 2701 Brushless Drill Leather Custom: What Viewers Should Notice in This restoration Video",
+    "title": "Cordless Drill Restoration | Miwaukee 2701 Brushless Drill Leather... | Restoration Process Guide",
     "sourceTitle": "Cordless Drill Restoration |  Miwaukee 2701 Brushless Drill Leather custom version",
     "channel": "KJ",
     "publishedAt": "2025-01-08T09:32:03Z",
     "viewsLabel": "398,108 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Cordless Drill Restoration | Miwaukee 2701 Brushless Drill Leather custom version\" by KJ. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Cordless Drill Restoration | Miwaukee 2701 Brushless Drill Leather custom version.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "rBpF4PFvkB8",
     "slug": "this-antique-press-was-not-restored-it-was-restomodded-what-viewers-shou",
     "category": "restoration",
-    "title": "This Antique Press Was Not Restored It Was Restomodded: What Viewers Should Notice in This restoration Video",
+    "title": "This Antique Press Was NOT Restored…It was Restomodded | Restoration Process Guide",
     "sourceTitle": "This Antique Press Was NOT Restored…It was Restomodded",
     "channel": "Mister Patina",
     "publishedAt": "2026-02-07T08:30:36Z",
     "viewsLabel": "365,256 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"This Antique Press Was NOT Restored…It was Restomodded\" by Mister Patina. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of This Antique Press Was NOT Restored…It was Restomodded.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "hNc6jHALIHw",
     "slug": "sweet-treats-and-cool-restores-american-restoration-s1-history-what-view",
     "category": "restoration",
-    "title": "Sweet Treats And Cool Restores American Restoration S1 History: What Viewers Should Notice in This restoration Video",
+    "title": "Sweet Treats and Cool Restores | American Restoration (S1) | History | Restoration Process Guide",
     "sourceTitle": "Sweet Treats and Cool Restores | American Restoration (S1) | History",
     "channel": "HISTORY",
     "publishedAt": "2025-10-08T20:00:35Z",
     "viewsLabel": "234,795 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Sweet Treats and Cool Restores | American Restoration (S1) | History\" by HISTORY. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Sweet Treats and Cool Restores | American Restoration (S1) | History.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "00BTzBCqCrc",
     "slug": "foundation-crack-repair-easy-fix-diy-construction-tools-what-viewers-sho",
     "category": "restoration",
-    "title": "Foundation Crack Repair Easy Fix Diy Construction Tools: What Viewers Should Notice in This restoration Video",
+    "title": "Foundation crack repair! easy fix. | Restoration Process Guide",
     "sourceTitle": "FOUNDATION CRACK REPAIR! Easy Fix. #diy #construction #tools",
     "channel": "WINNI",
     "publishedAt": "2025-02-23T13:27:41Z",
     "viewsLabel": "5,407,839 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Foundation crack repair! easy fix.\" by WINNI. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Foundation crack repair! easy fix..",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "lmDlUZFjxmg",
     "slug": "timelapse-restoration-jawa-motorcycle-1960-from-start-to-what-viewers-sh",
     "category": "restoration",
-    "title": "Timelapse Restoration Jawa Motorcycle 1960 - From Start To: What Viewers Should Notice in This restoration Video",
+    "title": "Timelapse Restoration JAWA motorcycle 1960 - From Start to Finish | Restoration Process Guide",
     "sourceTitle": "Timelapse Restoration JAWA motorcycle 1960 - From Start to Finish",
     "channel": "Classic Motor Gallery",
     "publishedAt": "2024-03-19T11:45:15Z",
     "viewsLabel": "2,852,065 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Timelapse Restoration JAWA motorcycle 1960 - From Start to Finish\" by Classic Motor Gallery. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Timelapse Restoration JAWA motorcycle 1960 - From Start to Finish.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "gh0SV8aPnMU",
     "slug": "why-did-they-stop-making-these-restoration-what-viewers-should-notice-in",
     "category": "restoration",
-    "title": "Why Did They Stop Making These Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "Why Did They Stop Making These? [Restoration] | Restoration Process Guide",
     "sourceTitle": "Why Did They Stop Making These? [Restoration]",
     "channel": "Hand Tool Rescue",
     "publishedAt": "2024-03-06T17:12:47Z",
     "viewsLabel": "2,161,016 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Why Did They Stop Making These? [Restoration]\" by Hand Tool Rescue. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Why Did They Stop Making These? [Restoration].",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "lfOeqLCvQp8",
     "slug": "meat-saw-restoration-what-viewers-should-notice-in-this-restoration-vide",
     "category": "restoration",
-    "title": "Meat Saw Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "Meat Saw [Restoration] | Restoration Process Guide",
     "sourceTitle": "Meat Saw [Restoration]",
     "channel": "Hand Tool Rescue",
     "publishedAt": "2025-05-24T11:00:46Z",
     "viewsLabel": "620,224 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Meat Saw [Restoration]\" by Hand Tool Rescue. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Meat Saw [Restoration].",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "pSq3790Zsns",
     "slug": "20-bluetooth-speaker-restoration-and-upgrade-repair-upgrade-diy-what-vie",
     "category": "restoration",
-    "title": "20 Bluetooth Speaker Restoration And Upgrade Repair Upgrade Diy: What Viewers Should Notice in This restoration Video",
+    "title": "₹20 Bluetooth Speaker Restoration and Upgrade | Restoration Process Guide",
     "sourceTitle": "₹20 Bluetooth Speaker Restoration and Upgrade🤯 #repair #upgrade #diy ",
     "channel": "  ELECRAFT ",
     "publishedAt": "2026-06-04T12:30:24Z",
     "viewsLabel": "300,036 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"₹20 Bluetooth Speaker Restoration and Upgrade\" by ELECRAFT. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of ₹20 Bluetooth Speaker Restoration and Upgrade.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "CGWts6YkMbs",
     "slug": "bluetooth-speaker-restoration-and-upgrade-part-3-repair-upgrade-what-vie",
     "category": "restoration",
-    "title": "Bluetooth Speaker Restoration And Upgrade Part 3 Repair Upgrade: What Viewers Should Notice in This restoration Video",
+    "title": "Bluetooth Speaker Restoration and Upgrade part 3 | Restoration Process Guide",
     "sourceTitle": "Bluetooth Speaker Restoration and Upgrade🤯 part 3 #repair #upgrade #diy ",
     "channel": "  ELECRAFT ",
     "publishedAt": "2026-06-24T15:35:35Z",
     "viewsLabel": "167,497 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Bluetooth Speaker Restoration and Upgrade part 3\" by ELECRAFT. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Bluetooth Speaker Restoration and Upgrade part 3.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "lDoswSQd-8E",
     "slug": "painting-rusty-old-farm-equipment-what-viewers-should-notice-in-this-res",
     "category": "restoration",
-    "title": "Painting Rusty Old Farm Equipment: What Viewers Should Notice in This restoration Video",
+    "title": "Painting Rusty Old Farm Equipment | Restoration Process Guide",
     "sourceTitle": "Painting Rusty Old Farm Equipment",
     "channel": "Rockhill farm ",
     "publishedAt": "2024-01-02T13:00:38Z",
     "viewsLabel": "118,484 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Painting Rusty Old Farm Equipment\" by Rockhill farm. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Painting Rusty Old Farm Equipment.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "CDWJdJAq5LA",
     "slug": "bluetooth-speaker-restoration-and-upgrade-part-2-repair-upgrade-what-vie",
     "category": "restoration",
-    "title": "Bluetooth Speaker Restoration And Upgrade Part 2 Repair Upgrade: What Viewers Should Notice in This restoration Video",
+    "title": "Bluetooth Speaker Restoration and Upgrade part 2 | Restoration Process Guide",
     "sourceTitle": " Bluetooth Speaker Restoration and Upgrade🤯 part 2 #repair #upgrade #diy ",
     "channel": "  ELECRAFT ",
     "publishedAt": "2026-06-14T14:46:26Z",
     "viewsLabel": "114,592 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Bluetooth Speaker Restoration and Upgrade part 2\" by ELECRAFT. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Bluetooth Speaker Restoration and Upgrade part 2.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "VYS4xYdqY2w",
     "slug": "professional-restoration-of-a-rare-vintage-pinball-machine-bally-what-vi",
     "category": "restoration",
-    "title": "Professional Restoration Of A Rare Vintage Pinball Machine Bally: What Viewers Should Notice in This restoration Video",
+    "title": "Professional Restoration of a Rare Vintage Pinball Machine | Bally... | Restoration Process Guide",
     "sourceTitle": "Professional Restoration of a Rare Vintage Pinball Machine | Bally Bullfight Pinball Table",
     "channel": "Masters Of Craft",
     "publishedAt": "2024-10-12T13:00:36Z",
     "viewsLabel": "632,420 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Professional Restoration of a Rare Vintage Pinball Machine | Bally Bullfight Pinball Table\" by Masters Of Craft. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Professional Restoration of a Rare Vintage Pinball Machine | Bally Bullfight Pinball Table.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "drkZQzth6f8",
     "slug": "lets-assemble-some-gears-victorian-radial-drilling-machine-what-viewers-",
     "category": "restoration",
-    "title": "Lets Assemble Some Gears - Victorian Radial Drilling Machine: What Viewers Should Notice in This restoration Video",
+    "title": "Lets ASSEMBLE Some Gears! - Victorian Radial Drilling Machine... | Restoration Process Guide",
     "sourceTitle": "Lets ASSEMBLE Some Gears! - Victorian Radial Drilling Machine Restoration - PART 12",
     "channel": "Iron Jonesy",
     "publishedAt": "2025-10-21T17:17:05Z",
     "viewsLabel": "103,934 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Lets ASSEMBLE Some Gears! - Victorian Radial Drilling Machine Restoration - PART 12\" by Iron Jonesy. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Lets ASSEMBLE Some Gears! - Victorian Radial Drilling Machine Restoration - PART 12.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "zZC1TD71u8Y",
     "slug": "cat-excavator-found-in-the-mire-on-a-rainy-what-viewers-should-notice-in",
     "category": "restoration",
-    "title": "Cat Excavator Found In The Mire On A Rainy: What Viewers Should Notice in This restoration Video",
+    "title": "Cat Excavator Found In The Mire on a Rainy Day Restoration | Restoration Process Guide",
     "sourceTitle": "Cat Excavator Found In The Mire on a Rainy Day Restoration",
     "channel": "Mr Restore",
     "publishedAt": "2024-07-30T16:30:10Z",
     "viewsLabel": "2,515,960 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Cat Excavator Found In The Mire on a Rainy Day Restoration\" by Mr Restore. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Cat Excavator Found In The Mire on a Rainy Day Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "pznTIqBjeAk",
     "slug": "unusual-chaff-cutter-machine-restoration-how-old-do-you-what-viewers-sho",
     "category": "restoration",
-    "title": "Unusual Chaff Cutter Machine Restoration How Old Do You: What Viewers Should Notice in This restoration Video",
+    "title": "Unusual Chaff Cutter Machine Restoration – How Old Do You Think This... | Restoration Process Guide",
     "sourceTitle": "Unusual Chaff Cutter Machine Restoration – How Old Do You Think This Machine Is?",
     "channel": "Rusty Shades Restoration",
     "publishedAt": "2024-05-13T14:32:32Z",
     "viewsLabel": "201,427 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Unusual Chaff Cutter Machine Restoration – How Old Do You Think This Machine Is?\" by Rusty Shades Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Unusual Chaff Cutter Machine Restoration – How Old Do You Think This Machine Is?.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "0_mCBhRmGKw",
     "slug": "restoration-lathe-machine-complete-process-what-viewers-should-notice-in",
     "category": "restoration",
-    "title": "Restoration Lathe Machine - Complete Process: What Viewers Should Notice in This factory process Video",
+    "title": "Restoration Lathe Machine - Complete Process | Restoration Process Guide",
     "sourceTitle": "Restoration Lathe Machine - Complete Process",
     "channel": "MrRescue",
     "publishedAt": "2024-10-12T09:53:04Z",
     "viewsLabel": "507,639 views at review",
-    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration Lathe Machine - Complete Process\" by MrRescue. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration Lathe Machine - Complete Process.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "w6FgF4usxzU",
     "slug": "antique-business-card-letterpress-restoration-what-viewers-should-notice",
     "category": "restoration",
-    "title": "Antique Business Card Letterpress Restoration: What Viewers Should Notice in This restoration Video",
+    "title": "Antique Business Card Letterpress [Restoration] | Restoration Process Guide",
     "sourceTitle": "Antique Business Card Letterpress [Restoration]",
     "channel": "Hand Tool Rescue",
     "publishedAt": "2025-04-03T13:58:21Z",
     "viewsLabel": "322,971 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Antique Business Card Letterpress [Restoration]\" by Hand Tool Rescue. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Antique Business Card Letterpress [Restoration].",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "AvaiJL72HTU",
     "slug": "100-year-old-sewing-machine-vs-brand-new-singer-what-viewers-should-noti",
     "category": "restoration",
-    "title": "100 Year Old Sewing Machine Vs Brand New Singer: What Viewers Should Notice in This restoration Video",
+    "title": "100 year old sewing machine VS Brand new Singer Heavy Duty | Restoration Process Guide",
     "sourceTitle": "100 year old sewing machine VS Brand new Singer Heavy Duty",
     "channel": "Hefesto Design",
     "publishedAt": "2024-01-05T15:53:04Z",
     "viewsLabel": "107,920 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"100 year old sewing machine VS Brand new Singer Heavy Duty\" by Hefesto Design. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of 100 year old sewing machine VS Brand new Singer Heavy Duty.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "E-E8Pz9AlQ8",
     "slug": "how-to-make-an-old-3-jaw-chuck-accurate-what-viewers-should-notice-in-th",
     "category": "restoration",
-    "title": "How To Make An Old 3 Jaw Chuck Accurate: What Viewers Should Notice in This restoration Video",
+    "title": "How To Make An Old 3 Jaw Chuck Accurate Again - Basic Machine Shop... | Restoration Process Guide",
     "sourceTitle": "How To Make An Old 3 Jaw Chuck Accurate Again - Basic Machine Shop Maintenance",
     "channel": "Topper Machine LLC",
     "publishedAt": "2025-01-18T12:00:16Z",
     "viewsLabel": "562,985 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"How To Make An Old 3 Jaw Chuck Accurate Again - Basic Machine Shop Maintenance\" by Topper Machine LLC. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of How To Make An Old 3 Jaw Chuck Accurate Again - Basic Machine Shop Maintenance.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "yATIhjCuJaQ",
     "slug": "busted-redwing-1907-never-looked-better-restoration-shoerepair-what-view",
     "category": "restoration",
-    "title": "Busted Redwing 1907 Never Looked Better Restoration Shoerepair: What Viewers Should Notice in This restoration Video",
+    "title": "Busted redwing 1907 never looked better | Restoration Process Guide",
     "sourceTitle": "BUSTED REDWING 1907 NEVER LOOKED BETTER #restoration #shoerepair",
     "channel": "Cobbler G",
     "publishedAt": "2025-03-28T18:55:16Z",
     "viewsLabel": "321,812 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Busted redwing 1907 never looked better\" by Cobbler G. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Busted redwing 1907 never looked better.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "GlJLHvShfDs",
     "slug": "watch-this-old-alternator-come-back-to-life-satisfying-what-viewers-shou",
     "category": "restoration",
-    "title": "Watch This Old Alternator Come Back To Life Satisfying: What Viewers Should Notice in This factory process Video",
+    "title": "Watch This Old Alternator Come Back to Life! | Satisfying Restoration... | Restoration Process Guide",
     "sourceTitle": "Watch This Old Alternator Come Back to Life! | Satisfying Restoration Process",
     "channel": "ai. beauty with me",
     "publishedAt": "2026-07-18T14:37:12Z",
     "viewsLabel": "53,485 views at review",
-    "summary": "This factory process video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Watch This Old Alternator Come Back to Life! | Satisfying Restoration Process\" by ai. beauty with me. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Watch This Old Alternator Come Back to Life! | Satisfying Restoration Process.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "DUCogbe8PSM",
     "slug": "cordless-impact-wrench-restoration-dewalt-dcf-809-what-viewers-should-no",
     "category": "restoration",
-    "title": "Cordless Impact Wrench Restoration Dewalt Dcf 809: What Viewers Should Notice in This restoration Video",
+    "title": "Cordless Impact Wrench Restoration DeWALT DCF 809 | Restoration Process Guide",
     "sourceTitle": "Cordless Impact Wrench Restoration DeWALT DCF 809",
     "channel": "KJ",
     "publishedAt": "2024-08-08T17:20:53Z",
     "viewsLabel": "820,871 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Cordless Impact Wrench Restoration DeWALT DCF 809\" by KJ. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Cordless Impact Wrench Restoration DeWALT DCF 809.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "xHJXGkFntuo",
     "slug": "restoration-1950-american-looping-track-game-what-viewers-should-notice-",
     "category": "restoration",
-    "title": "Restoration 1950 American Looping Track Game: What Viewers Should Notice in This restoration Video",
+    "title": "Restoration – 1950 American Looping Track Game | Restoration Process Guide",
     "sourceTitle": "Restoration – 1950 American Looping Track Game",
     "channel": "MW Restoration",
     "publishedAt": "2025-11-08T15:01:30Z",
     "viewsLabel": "1,261,850 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoration – 1950 American Looping Track Game\" by MW Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration – 1950 American Looping Track Game.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "hfD0Cc_PsYY",
     "slug": "this-rusty-tool-was-illegal-to-use-can-you-what-viewers-should-notice-in",
     "category": "restoration",
-    "title": "This Rusty Tool Was Illegal To Use Can You: What Viewers Should Notice in This restoration Video",
+    "title": "This Rusty Tool Was Illegal to Use… Can You Guess Why? | Restoration Process Guide",
     "sourceTitle": "This Rusty Tool Was Illegal to Use… 😳Can You Guess Why? ",
     "channel": "Easy Restoration",
     "publishedAt": "2026-02-18T13:01:22Z",
     "viewsLabel": "105,745 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"This Rusty Tool Was Illegal to Use… Can You Guess Why?\" by Easy Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of This Rusty Tool Was Illegal to Use… Can You Guess Why?.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "-zOLAOYkUUo",
     "slug": "restoring-a-20-year-old-abandoned-ursus-c-360-tractor-what-viewers-shoul",
     "category": "restoration",
-    "title": "Restoring A 20-year-old Abandoned Ursus C-360 Tractor: What Viewers Should Notice in This restoration Video",
+    "title": "Restoring a 20-Year-Old Abandoned Ursus C-360 Tractor! | Restoration Process Guide",
     "sourceTitle": "Restoring a 20-Year-Old Abandoned Ursus C-360 Tractor! 🚜✨",
     "channel": "Classic Car ",
     "publishedAt": "2026-06-02T14:00:25Z",
     "viewsLabel": "66,779 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Restoring a 20-Year-Old Abandoned Ursus C-360 Tractor!\" by Classic Car. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoring a 20-Year-Old Abandoned Ursus C-360 Tractor!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "yqp5kEF0cj4",
     "slug": "1930-peugeot-coffee-grinder-restoration-restoration-restorationvideo-vin",
     "category": "restoration",
-    "title": "1930 Peugeot Coffee Grinder Restoration Restoration Restorationvideo Vintage Coffeegrinder: What Viewers Should Notice in This restoration Video",
+    "title": "1930 Peugeot Coffee Grinder Restoration | Restoration Process Guide",
     "sourceTitle": "1930 Peugeot Coffee Grinder Restoration ☕️ #restoration #restorationvideo #vintage #coffeegrinder",
     "channel": "Fixing History",
     "publishedAt": "2026-06-09T12:08:34Z",
     "viewsLabel": "3,417,976 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"1930 Peugeot Coffee Grinder Restoration\" by Fixing History. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of 1930 Peugeot Coffee Grinder Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   },
   {
     "id": "z5RfMtWYwGc",
     "slug": "vintage-sheep-wool-trimmer-restoration-restoration-trimmer-vintage-antiq",
     "category": "restoration",
-    "title": "Vintage Sheep Wool Trimmer Restoration Restoration Trimmer Vintage Antique: What Viewers Should Notice in This restoration Video",
+    "title": "Vintage Sheep Wool Trimmer Restoration | Restoration Process Guide",
     "sourceTitle": "Vintage Sheep Wool Trimmer Restoration #restoration #trimmer #vintage #antique #tools #old #tool",
     "channel": "Fixing History",
     "publishedAt": "2026-07-23T16:39:19Z",
     "viewsLabel": "100,943 views at review",
-    "summary": "This restoration video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.",
+    "summary": "This viewing guide accompanies \"Vintage Sheep Wool Trimmer Restoration\" by Fixing History. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
     "takeaways": [
-      "The topic fits a focused Old Machine Restoration search intent.",
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Vintage Sheep Wool Trimmer Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
     ],
-    "timestamps": [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "old machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
-    "keyword": "old machine restoration"
+    "editorialMode": "metadata-assisted"
   }
 ];

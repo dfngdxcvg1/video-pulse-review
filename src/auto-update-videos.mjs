@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs";
 import { readFile, writeFile } from "node:fs/promises";
+import { buildEditorial } from "./editorial.mjs";
 
 const candidatesPath = "work/youtube-candidates.json";
 const reviewedPath = "work/reviewed-videos.json";
@@ -23,41 +24,7 @@ function durationSeconds(value = "") {
   return (Number(match[1]) || 0) * 3600 + (Number(match[2]) || 0) * 60 + (Number(match[3]) || 0);
 }
 
-function titleCaseWords(text) {
-  return text
-    .replace(/[^\w\s-]/g, " ")
-    .split(/\s+/)
-    .filter(Boolean)
-    .slice(0, 9)
-    .map((word) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-    .join(" ");
-}
-
-function buildEditorial(item) {
-  const subject = titleCaseWords(item.keyword || item.query || item.sourceTitle);
-  const source = item.sourceTitle.replace(/\s+/g, " ").trim();
-  const isFactory = /factory|manufacturing|process|crayon/i.test(source + " " + item.query);
-  const isEngineering = /engineer|engineering|invention|build/i.test(source + " " + item.query);
-  const categoryLabel = isFactory ? "factory process" : isEngineering ? "engineering" : "restoration";
-  return {
-    ...item,
-    reviewStatus: "approved",
-    proposedTitle: `${titleCaseWords(source)}: What Viewers Should Notice in This ${categoryLabel} Video`,
-    summary: `This ${categoryLabel} video was selected as a conservative update candidate because it is visual, specific, and easier to explain with original editorial context. The page should help readers understand what happens in the clip, why the process is interesting, and what details are worth watching closely. Before final publication, watch the full video and tighten this draft with exact object names, process steps, and timestamps.`,
-    takeaways: [
-      `The topic fits a focused ${subject || categoryLabel} search intent.`,
-      "The page adds original context instead of only embedding the YouTube player.",
-      "The source remains clearly attributed and the video stays hosted by YouTube."
-    ],
-    timestamps: [
-      "00:00 Opening condition or setup",
-      "03:00 Main process begins",
-      "08:00 Final result or key comparison"
-    ]
-  };
-}
-
-const selected = candidates
+const eligible = candidates
   .filter((item) => !existingIds.has(item.videoId))
   .filter((item) => {
     if (selectedIds.has(item.videoId)) return false;
@@ -69,9 +36,24 @@ const selected = candidates
   .filter((item) => item.viewCount >= 50000)
   .filter((item) => preferred.test(`${item.sourceTitle} ${item.query}`))
   .filter((item) => !titleRisk.test(item.sourceTitle))
-  .sort((a, b) => b.viewCount - a.viewCount)
-  .slice(0, limit)
-  .map(buildEditorial);
+  .sort((a, b) => b.viewCount - a.viewCount);
+
+const balanced = [];
+for (const category of ["restoration", "inventions"]) {
+  const match = eligible.find((item) => item.category === category && !balanced.includes(item));
+  if (match && balanced.length < limit) balanced.push(match);
+}
+for (const item of eligible) {
+  if (balanced.length >= limit) break;
+  if (!balanced.includes(item)) balanced.push(item);
+}
+
+const selected = balanced
+  .map((item) => ({
+    ...item,
+    ...buildEditorial(item),
+    reviewStatus: "approved"
+  }));
 
 const merged = [...reviewed, ...selected];
 await writeFile(reviewedPath, JSON.stringify(merged, null, 2));

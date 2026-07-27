@@ -1,16 +1,12 @@
 export const site = {
   name: "Video Pulse Review",
   origin: "https://pingdou123.uk",
-  description: "Curated English notes on remarkable public YouTube videos, with context, timestamps, and source links."
+  description: "Independent viewing guides for restoration, factory process, and practical engineering videos."
 };
 
 export const categories = [
-  { slug: "restoration", name: "Restoration", intro: "Machines, tools, vehicles, and forgotten objects brought back through careful repair." },
-  { slug: "animals", name: "Animals", intro: "Rescue stories, clever behavior, wildlife moments, and animal-human trust." },
-  { slug: "inventions", name: "Inventions", intro: "Useful builds, factory processes, engineering experiments, and practical design ideas." },
-  { slug: "nature", name: "Nature", intro: "Extreme weather, natural wonders, field footage, and explainable science moments." },
-  { slug: "true-stories", name: "True Stories", intro: "Human moments with a clear story, emotional stakes, and useful background." },
-  { slug: "funny", name: "Funny", intro: "Light, ad-safe clips with visual humor, surprising timing, and broad appeal." }
+  { slug: "restoration", name: "Restoration", intro: "Tools, machines, vehicles, and forgotten objects assessed from initial condition through repair and final function." },
+  { slug: "inventions", name: "Engineering & Manufacturing", intro: "Factory processes, mechanical systems, practical builds, and the design choices that make them work." }
 ];
 
 export const videos = [

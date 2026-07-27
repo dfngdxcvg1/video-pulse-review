@@ -7,15 +7,16 @@ const region = process.env.YOUTUBE_REGION || "US";
 const maxPerRequest = Math.min(Number(process.env.YOUTUBE_MAX_RESULTS || 25), 50);
 const targetCandidates = Number(process.env.YOUTUBE_TARGET_CANDIDATES || maxPerRequest * 8);
 const queries = [
-  ["restoration", "old machine restoration"],
-  ["restoration", "abandoned car restoration"],
-  ["restoration", "tool restoration"],
-  ["inventions", "homemade inventions"],
-  ["inventions", "amazing engineering build"],
+  ["restoration", "antique tool restoration"],
+  ["restoration", "vintage machine restoration"],
+  ["restoration", "workshop equipment repair"],
+  ["restoration", "typewriter or sewing machine restoration"],
   ["inventions", "factory manufacturing process"],
-  ["nature", "extreme weather footage"],
-  ["animals", "animal rescue story"]
+  ["inventions", "how products are made factory"],
+  ["inventions", "mechanical engineering explained"],
+  ["inventions", "practical engineering build"]
 ];
+const perQueryTarget = Math.max(1, Math.ceil(targetCandidates / queries.length));
 
 const api = "https://www.googleapis.com/youtube/v3";
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -30,7 +31,8 @@ async function request(path, params) {
 const searchResults = [];
 for (const [category, q] of queries) {
   let pageToken = "";
-  while (searchResults.length < targetCandidates) {
+  let queryCount = 0;
+  while (queryCount < perQueryTarget) {
     const data = await request("search", {
       part: "snippet",
       q,
@@ -41,12 +43,13 @@ for (const [category, q] of queries) {
       relevanceLanguage: "en",
       regionCode: region,
       order: "relevance",
-      publishedAfter: "2024-01-01T00:00:00Z",
-      maxResults: String(maxPerRequest),
+      publishedAfter: new Date(Date.now() - 730 * 24 * 60 * 60 * 1000).toISOString(),
+      maxResults: String(Math.min(maxPerRequest, perQueryTarget - queryCount)),
       ...(pageToken ? { pageToken } : {})
     });
     for (const item of data.items || []) {
       searchResults.push({ category, query: q, videoId: item.id.videoId, snippet: item.snippet });
+      queryCount += 1;
     }
     pageToken = data.nextPageToken || "";
     if (!pageToken) break;
