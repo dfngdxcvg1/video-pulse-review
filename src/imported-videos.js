@@ -2861,5 +2861,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "XQwvpn7L3ps",
+    "slug": "ingenious-tools-for-your-an-auto-repair-shop-restoration-process-guide",
+    "category": "restoration",
+    "title": "Ingenious Tools For Your An Auto Repair Shop | Restoration Process Guide",
+    "sourceTitle": "Ingenious Tools For Your An Auto Repair Shop",
+    "channel": "EDWIN",
+    "publishedAt": "2025-09-17T15:01:02Z",
+    "viewsLabel": "368,440 views at review",
+    "summary": "This viewing guide accompanies \"Ingenious Tools For Your An Auto Repair Shop\" by EDWIN. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Ingenious Tools For Your An Auto Repair Shop.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "workshop equipment repair",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "BQ5t7zgoQRM",
+    "slug": "inside-samsung-s-futuristic-factory-where-robots-build-millions-of-facto",
+    "category": "inventions",
+    "title": "Inside Samsung's Futuristic Factory Where Robots Build Millions of... | Factory Process Guide",
+    "sourceTitle": "Inside Samsung's Futuristic Factory Where Robots Build Millions of Smartphones",
+    "channel": "FRAME",
+    "publishedAt": "2024-09-13T19:30:02Z",
+    "viewsLabel": "28,979,620 views at review",
+    "summary": "This guide accompanies \"Inside Samsung's Futuristic Factory Where Robots Build Millions of Smartphones\" by FRAME and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside Samsung's Futuristic Factory Where Robots Build Millions of Smartphones.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how products are made factory",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
