@@ -3131,5 +3131,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "WacNtrXcXBE",
+    "slug": "how-coca-cola-is-made-in-factory-factory-process-guide",
+    "category": "inventions",
+    "title": "How Coca-Cola Is Made In Factory | Factory Process Guide",
+    "sourceTitle": "How Coca-Cola Is Made In Factory",
+    "channel": "Made Vision",
+    "publishedAt": "2024-08-27T11:02:27Z",
+    "viewsLabel": "3,873,870 views at review",
+    "summary": "This guide accompanies \"How Coca-Cola Is Made In Factory\" by Made Vision and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in How Coca-Cola Is Made In Factory.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "nGa1244hK9Y",
+    "slug": "what-s-the-deal-with-base-plates-engineering-breakdown",
+    "category": "inventions",
+    "title": "What’s the Deal with Base Plates? | Engineering Breakdown",
+    "sourceTitle": "What’s the Deal with Base Plates?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2024-12-03T14:00:49Z",
+    "viewsLabel": "3,823,193 views at review",
+    "summary": "This viewing guide accompanies \"What’s the Deal with Base Plates?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind What’s the Deal with Base Plates? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
