@@ -3239,5 +3239,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "jV_OOTdGtFk",
+    "slug": "old-swedish-chisel-restoration-what-happened-next-was-unexpected-restora",
+    "category": "restoration",
+    "title": "Old Swedish Chisel Restoration — What Happened Next Was Unexpected! | Restoration Process Guide",
+    "sourceTitle": "Old Swedish Chisel Restoration — What Happened Next Was Unexpected!",
+    "channel": "ReXtorer",
+    "publishedAt": "2025-05-04T15:01:09Z",
+    "viewsLabel": "161,190 views at review",
+    "summary": "This viewing guide accompanies \"Old Swedish Chisel Restoration — What Happened Next Was Unexpected!\" by ReXtorer. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Old Swedish Chisel Restoration — What Happened Next Was Unexpected!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "qQCB3N8Vaxk",
+    "slug": "why-are-the-dutch-so-good-at-waterworks-engineering-breakdown",
+    "category": "inventions",
+    "title": "Why are the Dutch So Good at Waterworks? | Engineering Breakdown",
+    "sourceTitle": "Why are the Dutch So Good at Waterworks?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-01-21T14:01:04Z",
+    "viewsLabel": "3,305,818 views at review",
+    "summary": "This viewing guide accompanies \"Why are the Dutch So Good at Waterworks?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Why are the Dutch So Good at Waterworks? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
