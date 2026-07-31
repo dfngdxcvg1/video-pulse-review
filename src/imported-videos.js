@@ -3347,5 +3347,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "Nfue7IYqWI4",
+    "slug": "restoring-grandpa-s-old-pocket-knife-antique-restoration-asmr-restoratio",
+    "category": "restoration",
+    "title": "Restoring Grandpa's Old Pocket Knife | Antique Restoration ASMR | Restoration Process Guide",
+    "sourceTitle": "Restoring Grandpa's Old Pocket Knife | Antique Restoration ASMR",
+    "channel": "ReXtorer",
+    "publishedAt": "2026-06-14T15:00:16Z",
+    "viewsLabel": "93,676 views at review",
+    "summary": "This viewing guide accompanies \"Restoring Grandpa's Old Pocket Knife | Antique Restoration ASMR\" by ReXtorer. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoring Grandpa's Old Pocket Knife | Antique Restoration ASMR.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "8sz-7-pv92E",
+    "slug": "how-millions-of-old-cars-are-recycled-into-new-steel-massive-car-factory",
+    "category": "inventions",
+    "title": "How Millions Of Old Cars Are Recycled Into New Steel | Massive Car... | Factory Process Guide",
+    "sourceTitle": "How Millions Of Old Cars Are Recycled Into New Steel | Massive Car Recycling Line",
+    "channel": "The Factoran",
+    "publishedAt": "2025-09-22T14:24:54Z",
+    "viewsLabel": "3,094,680 views at review",
+    "summary": "This guide accompanies \"How Millions Of Old Cars Are Recycled Into New Steel | Massive Car Recycling Line\" by The Factoran and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in How Millions Of Old Cars Are Recycled Into New Steel | Massive Car Recycling Line.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
