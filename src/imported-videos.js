@@ -3401,5 +3401,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "tmbZVmXyOXM",
+    "slug": "why-are-cooling-towers-shaped-like-that-engineering-breakdown",
+    "category": "inventions",
+    "title": "Why Are Cooling Towers Shaped Like That? | Engineering Breakdown",
+    "sourceTitle": "Why Are Cooling Towers Shaped Like That?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2024-11-05T14:00:59Z",
+    "viewsLabel": "9,138,960 views at review",
+    "summary": "This viewing guide accompanies \"Why Are Cooling Towers Shaped Like That?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Why Are Cooling Towers Shaped Like That? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "-16RFXr44fY",
+    "slug": "why-are-texas-interchanges-so-tall-engineering-breakdown",
+    "category": "inventions",
+    "title": "Why Are Texas Interchanges So Tall? | Engineering Breakdown",
+    "sourceTitle": "Why Are Texas Interchanges So Tall?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2024-08-20T13:15:00Z",
+    "viewsLabel": "2,543,258 views at review",
+    "summary": "This viewing guide accompanies \"Why Are Texas Interchanges So Tall?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Why Are Texas Interchanges So Tall? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
