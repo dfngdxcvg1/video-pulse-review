@@ -3509,5 +3509,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "hporCspYd0c",
+    "slug": "how-instant-coffee-is-made-in-factory-factory-process-guide",
+    "category": "inventions",
+    "title": "How Instant Coffee Is Made In Factory | Factory Process Guide",
+    "sourceTitle": "How Instant Coffee Is Made In Factory",
+    "channel": "Made Vision",
+    "publishedAt": "2024-12-20T19:53:04Z",
+    "viewsLabel": "6,040,716 views at review",
+    "summary": "This guide accompanies \"How Instant Coffee Is Made In Factory\" by Made Vision and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in How Instant Coffee Is Made In Factory.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how products are made factory",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "LBmvay5_x0E",
+    "slug": "annual-production-of-500-million-pencils-how-are-colour-pencils-made-in-",
+    "category": "inventions",
+    "title": "Annual Production of 500 Million Pencils, How Are Colour Pencils Made In... | Factory Process Guide",
+    "sourceTitle": "Annual Production of 500 Million Pencils, How Are Colour Pencils Made In The Chinese Factory ?",
+    "channel": "Miracle Process",
+    "publishedAt": "2024-10-16T03:07:32Z",
+    "viewsLabel": "3,974,244 views at review",
+    "summary": "This guide accompanies \"Annual Production of 500 Million Pencils, How Are Colour Pencils Made In The Chinese Factory ?\" by Miracle Process and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Annual Production of 500 Million Pencils, How Are Colour Pencils Made In The Chinese Factory ?.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how products are made factory",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
