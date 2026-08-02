@@ -3671,5 +3671,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "1ztGpGjO60o",
+    "slug": "what-s-inside-a-manhole-engineering-breakdown",
+    "category": "inventions",
+    "title": "What’s Inside a Manhole? | Engineering Breakdown",
+    "sourceTitle": "What’s Inside a Manhole?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-02-04T14:00:02Z",
+    "viewsLabel": "2,227,824 views at review",
+    "summary": "This viewing guide accompanies \"What’s Inside a Manhole?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind What’s Inside a Manhole? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "pL5NCUuOkTM",
+    "slug": "this-bridge-s-bizarre-design-nearly-caused-it-to-collapse-engineering-br",
+    "category": "inventions",
+    "title": "This Bridge’s Bizarre Design Nearly Caused It To Collapse | Engineering Breakdown",
+    "sourceTitle": "This Bridge’s Bizarre Design Nearly Caused It To Collapse",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-03-18T13:01:15Z",
+    "viewsLabel": "1,646,332 views at review",
+    "summary": "This viewing guide accompanies \"This Bridge’s Bizarre Design Nearly Caused It To Collapse\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind This Bridge’s Bizarre Design Nearly Caused It To Collapse before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
