@@ -3725,5 +3725,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "qZqTddKd9Hc",
+    "slug": "how-daily-life-things-are-actually-made-in-factories-fact-minded-factory",
+    "category": "inventions",
+    "title": "How Daily Life Things Are Actually Made In Factories? | Fact Minded | Factory Process Guide",
+    "sourceTitle": "How Daily Life Things Are Actually Made In Factories? | Fact Minded",
+    "channel": "Fact Minded",
+    "publishedAt": "2024-10-21T13:05:00Z",
+    "viewsLabel": "1,791,596 views at review",
+    "summary": "This guide accompanies \"How Daily Life Things Are Actually Made In Factories? | Fact Minded\" by Fact Minded and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in How Daily Life Things Are Actually Made In Factories? | Fact Minded.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how products are made factory",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "jndbactAQPk",
+    "slug": "inside-the-lay-s-factory-how-millions-of-potato-chips-are-made-factory-p",
+    "category": "inventions",
+    "title": "Inside the Lay’s Factory – How Millions of Potato Chips Are Made | Factory Process Guide",
+    "sourceTitle": "Inside the Lay’s Factory – How Millions of Potato Chips Are Made",
+    "channel": "Farming2Factory",
+    "publishedAt": "2025-08-14T11:07:49Z",
+    "viewsLabel": "1,611,111 views at review",
+    "summary": "This guide accompanies \"Inside the Lay’s Factory – How Millions of Potato Chips Are Made\" by Farming2Factory and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside the Lay’s Factory – How Millions of Potato Chips Are Made.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how products are made factory",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
