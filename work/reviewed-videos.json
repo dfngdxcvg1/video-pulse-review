@@ -3782,5 +3782,67 @@
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "restoration",
+    "query": "antique tool restoration",
+    "videoId": "MXIL-VXRDlM",
+    "sourceTitle": "Luxury Pencil Sharpener Restoration",
+    "channel": "LADB Restoration",
+    "publishedAt": "2026-05-14T14:54:05Z",
+    "viewCount": 129408,
+    "likeCount": 5695,
+    "duration": "PT16M29S",
+    "keyword": "antique tool restoration",
+    "proposedTitle": "Luxury Pencil Sharpener Restoration | Restoration Process Guide",
+    "summary": "This viewing guide accompanies \"Luxury Pencil Sharpener Restoration\" by LADB Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Luxury Pencil Sharpener Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "durationSeconds": 989,
+    "timestampsVerified": false,
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "how products are made factory",
+    "videoId": "QABiEb9xvFc",
+    "sourceTitle": "How Sugar Is Made – Unbelievable Billion Tons of Sugar Processing In Factory",
+    "channel": "Q Process",
+    "publishedAt": "2025-04-22T09:30:01Z",
+    "viewCount": 2994222,
+    "likeCount": 14128,
+    "duration": "PT21M24S",
+    "keyword": "how products are made factory",
+    "proposedTitle": "How Sugar Is Made – Unbelievable Billion Tons of Sugar Processing In... | Factory Process Guide",
+    "summary": "This guide accompanies \"How Sugar Is Made – Unbelievable Billion Tons of Sugar Processing In Factory\" by Q Process and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in How Sugar Is Made – Unbelievable Billion Tons of Sugar Processing In Factory.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1284,
+    "timestampsVerified": false,
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]
