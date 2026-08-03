@@ -3833,5 +3833,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "2bViVuwe2NA",
+    "slug": "how-millions-of-tons-of-glass-are-made-from-sand-in-mega-factory-factory",
+    "category": "inventions",
+    "title": "How Millions Of Tons Of Glass Are Made From Sand In Mega Factory | Factory Process Guide",
+    "sourceTitle": "How Millions Of Tons Of Glass Are Made From Sand In Mega Factory",
+    "channel": "The Factoran",
+    "publishedAt": "2025-08-02T15:30:07Z",
+    "viewsLabel": "1,338,670 views at review",
+    "summary": "This guide accompanies \"How Millions Of Tons Of Glass Are Made From Sand In Mega Factory\" by The Factoran and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in How Millions Of Tons Of Glass Are Made From Sand In Mega Factory.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how products are made factory",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "fudWbvE8ZKw",
+    "slug": "how-liquid-dampers-in-skyscrapers-work-engineering-breakdown",
+    "category": "inventions",
+    "title": "How Liquid Dampers in Skyscrapers Work | Engineering Breakdown",
+    "sourceTitle": "How Liquid Dampers in Skyscrapers Work",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-07-01T13:01:24Z",
+    "viewsLabel": "1,335,449 views at review",
+    "summary": "This viewing guide accompanies \"How Liquid Dampers in Skyscrapers Work\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind How Liquid Dampers in Skyscrapers Work before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
