@@ -3941,5 +3941,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "rbWSnVz1WEg",
+    "slug": "engineering-casually-explained-nuclear-engineer-reacts-engineering-break",
+    "category": "inventions",
+    "title": "Engineering Casually Explained - Nuclear Engineer Reacts | Engineering Breakdown",
+    "sourceTitle": "Engineering Casually Explained - Nuclear Engineer Reacts",
+    "channel": "T. Folse Nuclear",
+    "publishedAt": "2025-06-08T17:00:59Z",
+    "viewsLabel": "976,579 views at review",
+    "summary": "This viewing guide accompanies \"Engineering Casually Explained - Nuclear Engineer Reacts\" by T. Folse Nuclear. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Engineering Casually Explained - Nuclear Engineer Reacts before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "dKr1T1RzkUo",
+    "slug": "how-lego-bricks-are-made-in-factory-factory-process-guide",
+    "category": "inventions",
+    "title": "How LEGO Bricks are made in Factory! | Factory Process Guide",
+    "sourceTitle": "How LEGO Bricks are made in Factory!",
+    "channel": "ManuFactory",
+    "publishedAt": "2025-01-28T19:01:07Z",
+    "viewsLabel": "903,378 views at review",
+    "summary": "This guide accompanies \"How LEGO Bricks are made in Factory!\" by ManuFactory and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in How LEGO Bricks are made in Factory!.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how products are made factory",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
