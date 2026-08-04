@@ -4030,5 +4030,67 @@
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "practical engineering build",
+    "videoId": "nol0_4qxzb0",
+    "sourceTitle": "The Hidden Engineering of Floating Bridges",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-07-15T13:01:34Z",
+    "viewCount": 862176,
+    "likeCount": 30845,
+    "duration": "PT17M36S",
+    "keyword": "practical engineering build",
+    "proposedTitle": "The Hidden Engineering of Floating Bridges | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"The Hidden Engineering of Floating Bridges\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind The Hidden Engineering of Floating Bridges before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1056,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "practical engineering build",
+    "videoId": "Ssw5bdx1HKw",
+    "sourceTitle": "So You Want to Build a Tunnel...",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-02-17T14:00:50Z",
+    "viewCount": 829524,
+    "likeCount": 34714,
+    "duration": "PT20M42S",
+    "keyword": "practical engineering build",
+    "proposedTitle": "So You Want to Build a Tunnel... | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"So You Want to Build a Tunnel...\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind So You Want to Build a Tunnel... before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1242,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]

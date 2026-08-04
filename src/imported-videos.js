@@ -3995,5 +3995,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "nol0_4qxzb0",
+    "slug": "the-hidden-engineering-of-floating-bridges-engineering-breakdown",
+    "category": "inventions",
+    "title": "The Hidden Engineering of Floating Bridges | Engineering Breakdown",
+    "sourceTitle": "The Hidden Engineering of Floating Bridges",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-07-15T13:01:34Z",
+    "viewsLabel": "862,176 views at review",
+    "summary": "This viewing guide accompanies \"The Hidden Engineering of Floating Bridges\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind The Hidden Engineering of Floating Bridges before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "Ssw5bdx1HKw",
+    "slug": "so-you-want-to-build-a-tunnel-engineering-breakdown",
+    "category": "inventions",
+    "title": "So You Want to Build a Tunnel... | Engineering Breakdown",
+    "sourceTitle": "So You Want to Build a Tunnel...",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-02-17T14:00:50Z",
+    "viewsLabel": "829,524 views at review",
+    "summary": "This viewing guide accompanies \"So You Want to Build a Tunnel...\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind So You Want to Build a Tunnel... before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
