@@ -4049,5 +4049,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "2nX7Y8ZwShg",
+    "slug": "the-weirdest-tool-in-underwater-construction-engineering-breakdown",
+    "category": "inventions",
+    "title": "The Weirdest Tool in Underwater Construction | Engineering Breakdown",
+    "sourceTitle": "The Weirdest Tool in Underwater Construction",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-09-02T13:00:09Z",
+    "viewsLabel": "998,833 views at review",
+    "summary": "This viewing guide accompanies \"The Weirdest Tool in Underwater Construction\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind The Weirdest Tool in Underwater Construction before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "BbjijDJObAc",
+    "slug": "how-things-are-made-in-factory-factory-process-guide",
+    "category": "inventions",
+    "title": "How Things Are Made In Factory | Factory Process Guide",
+    "sourceTitle": "How Things Are Made In Factory ",
+    "channel": "Haider Tv",
+    "publishedAt": "2025-08-31T13:12:41Z",
+    "viewsLabel": "901,985 views at review",
+    "summary": "This guide accompanies \"How Things Are Made In Factory\" by Haider Tv and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in How Things Are Made In Factory.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how products are made factory",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
