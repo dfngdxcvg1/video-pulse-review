@@ -4154,5 +4154,67 @@
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "mechanical engineering explained",
+    "videoId": "vzM_-Rr5mtw",
+    "sourceTitle": "Mechanisms EVERY Mechanical Engineer Should Know",
+    "channel": "Engineering Gone Wild",
+    "publishedAt": "2025-11-30T15:01:45Z",
+    "viewCount": 639879,
+    "likeCount": 25718,
+    "duration": "PT13M26S",
+    "keyword": "mechanical engineering explained",
+    "proposedTitle": "Mechanisms EVERY Mechanical Engineer Should Know | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"Mechanisms EVERY Mechanical Engineer Should Know\" by Engineering Gone Wild. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Mechanisms EVERY Mechanical Engineer Should Know before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 806,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "practical engineering build",
+    "videoId": "qt2j2gn0yWc",
+    "sourceTitle": "How Earthquake Bearings Work",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-03-03T14:01:26Z",
+    "viewCount": 634764,
+    "likeCount": 29216,
+    "duration": "PT18M4S",
+    "keyword": "practical engineering build",
+    "proposedTitle": "How Earthquake Bearings Work | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"How Earthquake Bearings Work\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind How Earthquake Bearings Work before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1084,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]
