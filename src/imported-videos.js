@@ -4265,5 +4265,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "vrhXkX4L39s",
+    "slug": "complete-broken-tractor-axle-repair-full-workshop-rebuild-process-restor",
+    "category": "restoration",
+    "title": "Complete Broken Tractor Axle Repair | Full Workshop Rebuild Process | Restoration Process Guide",
+    "sourceTitle": "Complete Broken Tractor Axle Repair | Full Workshop Rebuild Process",
+    "channel": "PK Restoration Skills",
+    "publishedAt": "2026-02-17T12:02:51Z",
+    "viewsLabel": "405,139 views at review",
+    "summary": "This viewing guide accompanies \"Complete Broken Tractor Axle Repair | Full Workshop Rebuild Process\" by PK Restoration Skills. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Complete Broken Tractor Axle Repair | Full Workshop Rebuild Process.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "workshop equipment repair",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "3eC5FFoCq4s",
+    "slug": "it-turns-out-hybrids-are-really-hard-on-engines-engineering-breakdown",
+    "category": "inventions",
+    "title": "It Turns Out, Hybrids Are Really Hard On Engines | Engineering Breakdown",
+    "sourceTitle": "It Turns Out, Hybrids Are Really Hard On Engines",
+    "channel": "Engineering Explained",
+    "publishedAt": "2024-10-18T14:00:04Z",
+    "viewsLabel": "2,624,654 views at review",
+    "summary": "This viewing guide accompanies \"It Turns Out, Hybrids Are Really Hard On Engines\" by Engineering Explained. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind It Turns Out, Hybrids Are Really Hard On Engines before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
