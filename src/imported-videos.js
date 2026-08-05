@@ -4211,5 +4211,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "Iclf_JnPkKw",
+    "slug": "what-s-under-your-feet-in-new-york-city-engineering-breakdown",
+    "category": "inventions",
+    "title": "What's Under Your Feet in New York City? | Engineering Breakdown",
+    "sourceTitle": "What's Under Your Feet in New York City?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-07-21T13:02:12Z",
+    "viewsLabel": "612,466 views at review",
+    "summary": "This viewing guide accompanies \"What's Under Your Feet in New York City?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind What's Under Your Feet in New York City? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "7oi4yMr8Rjk",
+    "slug": "bridge-demolition-is-complicated-engineering-breakdown",
+    "category": "inventions",
+    "title": "Bridge Demolition is Complicated | Engineering Breakdown",
+    "sourceTitle": "Bridge Demolition is Complicated",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-06-16T11:37:54Z",
+    "viewsLabel": "501,863 views at review",
+    "summary": "This viewing guide accompanies \"Bridge Demolition is Complicated\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Bridge Demolition is Complicated before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
