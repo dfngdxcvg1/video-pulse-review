@@ -4157,5 +4157,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "ZJqY1WLX4zA",
+    "slug": "the-hidden-engineering-of-runways-engineering-breakdown",
+    "category": "inventions",
+    "title": "The Hidden Engineering of Runways | Engineering Breakdown",
+    "sourceTitle": "The Hidden Engineering of Runways",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-01-20T14:01:03Z",
+    "viewsLabel": "1,843,965 views at review",
+    "summary": "This viewing guide accompanies \"The Hidden Engineering of Runways\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind The Hidden Engineering of Runways before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "KIIh7XRDmuQ",
+    "slug": "engineering-degrees-ranked-by-difficulty-tier-list-engineering-breakdown",
+    "category": "inventions",
+    "title": "Engineering Degrees Ranked by Difficulty (Tier List) | Engineering Breakdown",
+    "sourceTitle": "Engineering Degrees Ranked by Difficulty (Tier List)",
+    "channel": "Ali the Dazzling",
+    "publishedAt": "2025-05-04T21:21:53Z",
+    "viewsLabel": "757,769 views at review",
+    "summary": "This viewing guide accompanies \"Engineering Degrees Ranked by Difficulty (Tier List)\" by Ali the Dazzling. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Engineering Degrees Ranked by Difficulty (Tier List) before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
