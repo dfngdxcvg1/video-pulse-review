@@ -4427,5 +4427,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "ryJcdUspBqw",
+    "slug": "150-years-underground-rusty-antique-pliers-restoration-restoration-proce",
+    "category": "restoration",
+    "title": "150 Years Underground! Rusty Antique Pliers Restoration | Restoration Process Guide",
+    "sourceTitle": "150 Years Underground! Rusty Antique Pliers Restoration",
+    "channel": "Antique Restorations",
+    "publishedAt": "2024-11-23T15:14:26Z",
+    "viewsLabel": "2,137,770 views at review",
+    "summary": "This viewing guide accompanies \"150 Years Underground! Rusty Antique Pliers Restoration\" by Antique Restorations. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of 150 Years Underground! Rusty Antique Pliers Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "ccP63kfiEvs",
+    "slug": "every-level-of-engineering-in-15-minutes-engineering-breakdown",
+    "category": "inventions",
+    "title": "Every Level of Engineering in 15 Minutes | Engineering Breakdown",
+    "sourceTitle": "Every Level of Engineering in 15 Minutes",
+    "channel": "Engineering Insiders",
+    "publishedAt": "2025-09-04T13:01:13Z",
+    "viewsLabel": "332,977 views at review",
+    "summary": "This viewing guide accompanies \"Every Level of Engineering in 15 Minutes\" by Engineering Insiders. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Every Level of Engineering in 15 Minutes before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
