@@ -4650,5 +4650,67 @@
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "practical engineering build",
+    "videoId": "f2uad6LT9fo",
+    "sourceTitle": "Concrete's Greatest Weakness is Time",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-11-04T14:01:13Z",
+    "viewCount": 798795,
+    "likeCount": 30652,
+    "duration": "PT17M4S",
+    "keyword": "practical engineering build",
+    "proposedTitle": "Concrete's Greatest Weakness is Time | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"Concrete's Greatest Weakness is Time\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Concrete's Greatest Weakness is Time before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1024,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "mechanical engineering explained",
+    "videoId": "uaWfZTLNPmA",
+    "sourceTitle": "Understanding Pressure Vessels",
+    "channel": "The Efficient Engineer",
+    "publishedAt": "2025-07-08T14:01:34Z",
+    "viewCount": 245139,
+    "likeCount": 10753,
+    "duration": "PT11M15S",
+    "keyword": "mechanical engineering explained",
+    "proposedTitle": "Understanding Pressure Vessels | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"Understanding Pressure Vessels\" by The Efficient Engineer. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Understanding Pressure Vessels before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 675,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]
