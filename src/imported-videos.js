@@ -4481,5 +4481,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "RYIy0hX-nsc",
+    "slug": "most-amazing-factory-manufacturing-process-with-modern-machinery-factory",
+    "category": "inventions",
+    "title": "Most Amazing Factory Manufacturing Process with Modern Machinery | Factory Process Guide",
+    "sourceTitle": "Most Amazing Factory Manufacturing Process with Modern Machinery",
+    "channel": "EDWIN",
+    "publishedAt": "2026-04-04T15:00:04Z",
+    "viewsLabel": "270,882 views at review",
+    "summary": "This guide accompanies \"Most Amazing Factory Manufacturing Process with Modern Machinery\" by EDWIN and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Most Amazing Factory Manufacturing Process with Modern Machinery.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "Q_XsrEeEfx4",
+    "slug": "which-engineering-degrees-actually-pay-off-rating-each-field-engineering",
+    "category": "inventions",
+    "title": "Which Engineering Degrees ACTUALLY Pay Off? | Rating Each Field | Engineering Breakdown",
+    "sourceTitle": "Which Engineering Degrees ACTUALLY Pay Off? | Rating Each Field",
+    "channel": "Engineering Insiders",
+    "publishedAt": "2026-01-24T14:00:48Z",
+    "viewsLabel": "225,116 views at review",
+    "summary": "This viewing guide accompanies \"Which Engineering Degrees ACTUALLY Pay Off? | Rating Each Field\" by Engineering Insiders. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Which Engineering Degrees ACTUALLY Pay Off? | Rating Each Field before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
