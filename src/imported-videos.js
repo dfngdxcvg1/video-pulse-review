@@ -4697,5 +4697,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "F3kHDntHCJQ",
+    "slug": "how-millions-of-pounds-of-sheep-wool-are-made-into-clothes-inside-mass-f",
+    "category": "inventions",
+    "title": "How Millions of Pounds of Sheep Wool Are Made Into Clothes Inside Mass... | Factory Process Guide",
+    "sourceTitle": "How Millions of Pounds of Sheep Wool Are Made Into Clothes Inside Mass Production Lines",
+    "channel": "The Factoran",
+    "publishedAt": "2025-10-24T15:09:21Z",
+    "viewsLabel": "626,021 views at review",
+    "summary": "This guide accompanies \"How Millions of Pounds of Sheep Wool Are Made Into Clothes Inside Mass Production Lines\" by The Factoran and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in How Millions of Pounds of Sheep Wool Are Made Into Clothes Inside Mass Production Lines.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "VWS6CNJtldU",
+    "slug": "you-don-t-really-understand-mechanical-engineering-engineering-breakdown",
+    "category": "inventions",
+    "title": "You Don't Really Understand Mechanical Engineering | Engineering Breakdown",
+    "sourceTitle": "You Don't Really Understand Mechanical Engineering",
+    "channel": "Engineering Gone Wild",
+    "publishedAt": "2025-06-29T14:00:44Z",
+    "viewsLabel": "238,815 views at review",
+    "summary": "This viewing guide accompanies \"You Don't Really Understand Mechanical Engineering\" by Engineering Gone Wild. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind You Don't Really Understand Mechanical Engineering before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
