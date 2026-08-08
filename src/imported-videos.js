@@ -4643,5 +4643,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "Rj1_TZAnaBA",
+    "slug": "inside-the-shampoo-factory-how-cow-hooves-become-your-hair-product-facto",
+    "category": "inventions",
+    "title": "Inside the Shampoo Factory: How COW HOOVES Become Your Hair Product... | Factory Process Guide",
+    "sourceTitle": "Inside the Shampoo Factory: How COW HOOVES Become Your Hair Product (Full Process)",
+    "channel": "GenX Manufacturing",
+    "publishedAt": "2026-01-05T13:28:07Z",
+    "viewsLabel": "196,569 views at review",
+    "summary": "This guide accompanies \"Inside the Shampoo Factory: How COW HOOVES Become Your Hair Product (Full Process)\" by GenX Manufacturing and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside the Shampoo Factory: How COW HOOVES Become Your Hair Product (Full Process).",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how products are made factory",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "lQzFxV2vPy8",
+    "slug": "career-paths-for-mechanical-engineers-engineering-breakdown",
+    "category": "inventions",
+    "title": "Career Paths for Mechanical Engineers | Engineering Breakdown",
+    "sourceTitle": "Career Paths for Mechanical Engineers",
+    "channel": "Engineering Gone Wild",
+    "publishedAt": "2024-10-20T14:00:40Z",
+    "viewsLabel": "106,225 views at review",
+    "summary": "This viewing guide accompanies \"Career Paths for Mechanical Engineers\" by Engineering Gone Wild. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Career Paths for Mechanical Engineers before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
