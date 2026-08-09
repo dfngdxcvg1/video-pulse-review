@@ -4778,5 +4778,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "xPksDeGoh4E",
+    "slug": "do-retention-ponds-actually-work-engineering-breakdown",
+    "category": "inventions",
+    "title": "Do Retention Ponds Actually Work? | Engineering Breakdown",
+    "sourceTitle": "Do Retention Ponds Actually Work?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-02-03T14:01:36Z",
+    "viewsLabel": "2,352,197 views at review",
+    "summary": "This viewing guide accompanies \"Do Retention Ponds Actually Work?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Do Retention Ponds Actually Work? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "U7x5k4R7BhU",
+    "slug": "pfizer-building-structural-column-failures-engineering-breakdown",
+    "category": "inventions",
+    "title": "Pfizer Building Structural Column Failures | Engineering Breakdown",
+    "sourceTitle": "Pfizer Building Structural Column Failures",
+    "channel": "Casey Jones - Professional Engineer",
+    "publishedAt": "2026-07-08T15:20:52Z",
+    "viewsLabel": "305,902 views at review",
+    "summary": "This viewing guide accompanies \"Pfizer Building Structural Column Failures\" by Casey Jones - Professional Engineer. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Pfizer Building Structural Column Failures before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
