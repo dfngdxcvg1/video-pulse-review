@@ -5115,5 +5115,36 @@
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "factory manufacturing process",
+    "videoId": "MUxZAfYi_oY",
+    "sourceTitle": "Inside an Ice Cream Stick Factory | Full Manufacturing Process",
+    "channel": "Abhishek Ashra",
+    "publishedAt": "2026-08-08T05:30:12Z",
+    "viewCount": 58336,
+    "likeCount": 65,
+    "duration": "PT4M31S",
+    "keyword": "factory manufacturing process",
+    "proposedTitle": "Inside an Ice Cream Stick Factory | Full Manufacturing Process | Factory Process Guide",
+    "summary": "This guide accompanies \"Inside an Ice Cream Stick Factory | Full Manufacturing Process\" by Abhishek Ashra and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside an Ice Cream Stick Factory | Full Manufacturing Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "durationSeconds": 271,
+    "timestampsVerified": false,
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]
