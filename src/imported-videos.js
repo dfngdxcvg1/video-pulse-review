@@ -4967,5 +4967,32 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "17gMGLfcDBA",
+    "slug": "how-wooden-shoes-are-made-amazing-wooden-shoes-manufacturing-process-fac",
+    "category": "inventions",
+    "title": "How Wooden Shoes Are Made | Amazing Wooden Shoes Manufacturing Process... | Factory Process Guide",
+    "sourceTitle": "How Wooden Shoes Are Made | Amazing Wooden Shoes Manufacturing Process in Factory",
+    "channel": "LS Skills",
+    "publishedAt": "2026-08-09T11:07:32Z",
+    "viewsLabel": "50,174 views at review",
+    "summary": "This guide accompanies \"How Wooden Shoes Are Made | Amazing Wooden Shoes Manufacturing Process in Factory\" by LS Skills and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in How Wooden Shoes Are Made | Amazing Wooden Shoes Manufacturing Process in Factory.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
