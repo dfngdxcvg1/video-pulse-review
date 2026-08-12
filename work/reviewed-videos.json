@@ -5301,5 +5301,67 @@
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "practical engineering build",
+    "videoId": "QOnQORqkHcM",
+    "sourceTitle": "California’s Tallest Bridge Has Nothing Underneath",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-08-19T13:00:45Z",
+    "viewCount": 1756420,
+    "likeCount": 44183,
+    "duration": "PT17M7S",
+    "keyword": "practical engineering build",
+    "proposedTitle": "California’s Tallest Bridge Has Nothing Underneath | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"California’s Tallest Bridge Has Nothing Underneath\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind California’s Tallest Bridge Has Nothing Underneath before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1027,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "practical engineering build",
+    "videoId": "3FfMzWa6LKg",
+    "sourceTitle": "An Engineer's Perspective on the Texas Floods",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-09-16T13:00:10Z",
+    "viewCount": 701421,
+    "likeCount": 39743,
+    "duration": "PT23M14S",
+    "keyword": "practical engineering build",
+    "proposedTitle": "An Engineer's Perspective on the Texas Floods | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"An Engineer's Perspective on the Texas Floods\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind An Engineer's Perspective on the Texas Floods before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1394,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]
