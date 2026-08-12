@@ -4994,5 +4994,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "rf0rmAgQgF4",
+    "slug": "every-tool-you-need-to-work-on-cars-and-what-not-to-buy-restoration-proc",
+    "category": "restoration",
+    "title": "Every Tool You Need To Work On Cars! (And What NOT To Buy) | Restoration Process Guide",
+    "sourceTitle": "Every Tool You Need To Work On Cars! (And What NOT To Buy)",
+    "channel": "Budget Mechanic",
+    "publishedAt": "2026-08-02T10:30:18Z",
+    "viewsLabel": "131,654 views at review",
+    "summary": "This viewing guide accompanies \"Every Tool You Need To Work On Cars! (And What NOT To Buy)\" by Budget Mechanic. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Every Tool You Need To Work On Cars! (And What NOT To Buy).",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "workshop equipment repair",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "PhW2BjFQCZM",
+    "slug": "the-los-angeles-aqueduct-is-wild-engineering-breakdown",
+    "category": "inventions",
+    "title": "The Los Angeles Aqueduct is Wild | Engineering Breakdown",
+    "sourceTitle": "The Los Angeles Aqueduct is Wild",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-03-17T13:00:44Z",
+    "viewsLabel": "4,806,116 views at review",
+    "summary": "This viewing guide accompanies \"The Los Angeles Aqueduct is Wild\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind The Los Angeles Aqueduct is Wild before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
