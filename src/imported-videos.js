@@ -5156,5 +5156,32 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "tl9-Ub_9tFM",
+    "slug": "the-complete-tin-can-manufacturing-process-factory-process-guide",
+    "category": "inventions",
+    "title": "The Complete Tin Can Manufacturing Process | Factory Process Guide",
+    "sourceTitle": "The Complete Tin Can Manufacturing Process",
+    "channel": "Abhishek Ashra",
+    "publishedAt": "2026-08-07T05:30:37Z",
+    "viewsLabel": "255,834 views at review",
+    "summary": "This guide accompanies \"The Complete Tin Can Manufacturing Process\" by Abhishek Ashra and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in The Complete Tin Can Manufacturing Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
