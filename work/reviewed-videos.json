@@ -5394,5 +5394,36 @@
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "mechanical engineering explained",
+    "videoId": "Z9cFzt1RnBQ",
+    "sourceTitle": "I Bought The Wrong Truck – Ford Maverick EcoBoost vs Hybrid",
+    "channel": "Engineering Explained",
+    "publishedAt": "2026-02-13T15:00:00Z",
+    "viewCount": 741990,
+    "likeCount": 21525,
+    "duration": "PT19M41S",
+    "keyword": "mechanical engineering explained",
+    "proposedTitle": "I Bought The Wrong Truck – Ford Maverick EcoBoost vs Hybrid | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"I Bought The Wrong Truck – Ford Maverick EcoBoost vs Hybrid\" by Engineering Explained. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind I Bought The Wrong Truck – Ford Maverick EcoBoost vs Hybrid before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1181,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]
