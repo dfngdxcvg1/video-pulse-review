@@ -5264,5 +5264,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "a2lY9IbDSbM",
+    "slug": "99-of-mechanical-engineering-comes-down-to-5-ideas-engineering-breakdown",
+    "category": "inventions",
+    "title": "99% of Mechanical Engineering Comes Down to 5 Ideas | Engineering Breakdown",
+    "sourceTitle": "99% of Mechanical Engineering Comes Down to 5 Ideas",
+    "channel": "Engineering Gone Wild",
+    "publishedAt": "2025-12-21T15:00:00Z",
+    "viewsLabel": "107,968 views at review",
+    "summary": "This viewing guide accompanies \"99% of Mechanical Engineering Comes Down to 5 Ideas\" by Engineering Gone Wild. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind 99% of Mechanical Engineering Comes Down to 5 Ideas before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "mQgVzj_cbRI",
+    "slug": "your-life-as-every-mechanical-engineer-rank-engineering-breakdown",
+    "category": "inventions",
+    "title": "Your Life as Every Mechanical Engineer Rank | Engineering Breakdown",
+    "sourceTitle": "Your Life as Every Mechanical Engineer Rank",
+    "channel": "Chill Pov Guy",
+    "publishedAt": "2026-04-26T17:00:57Z",
+    "viewsLabel": "92,297 views at review",
+    "summary": "This viewing guide accompanies \"Your Life as Every Mechanical Engineer Rank\" by Chill Pov Guy. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Your Life as Every Mechanical Engineer Rank before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
