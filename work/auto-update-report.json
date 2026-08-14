@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 193,
+  "added": 2,
+  "totalReviewed": 195,
   "addedVideos": [
     {
-      "videoId": "Z9cFzt1RnBQ",
-      "title": "I Bought The Wrong Truck – Ford Maverick EcoBoost vs Hybrid",
+      "videoId": "GeyhW0GCHqs",
+      "title": "Restoring a Rare 1950s French Toy Oven \"JOUETS TMF \"",
+      "category": "restoration",
+      "viewCount": 170593
+    },
+    {
+      "videoId": "_R0xPffklXQ",
+      "title": "Why Are There No Short Arch Dams?",
       "category": "inventions",
-      "viewCount": 741990
+      "viewCount": 1088185
     }
   ]
 }

@@ -5210,5 +5210,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "GeyhW0GCHqs",
+    "slug": "restoring-a-rare-1950s-french-toy-oven-jouets-tmf-restoration-process-gu",
+    "category": "restoration",
+    "title": "Restoring a Rare 1950s French Toy Oven \"JOUETS TMF \" | Restoration Process Guide",
+    "sourceTitle": "Restoring a Rare 1950s French Toy Oven \"JOUETS TMF \"",
+    "channel": "Cool Again Restoration",
+    "publishedAt": "2026-08-11T08:56:15Z",
+    "viewsLabel": "170,593 views at review",
+    "summary": "This viewing guide accompanies \"Restoring a Rare 1950s French Toy Oven \"JOUETS TMF \"\" by Cool Again Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoring a Rare 1950s French Toy Oven \"JOUETS TMF \".",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "_R0xPffklXQ",
+    "slug": "why-are-there-no-short-arch-dams-engineering-breakdown",
+    "category": "inventions",
+    "title": "Why Are There No Short Arch Dams? | Engineering Breakdown",
+    "sourceTitle": "Why Are There No Short Arch Dams?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-08-05T13:01:04Z",
+    "viewsLabel": "1,088,185 views at review",
+    "summary": "This viewing guide accompanies \"Why Are There No Short Arch Dams?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Why Are There No Short Arch Dams? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
