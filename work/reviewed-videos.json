@@ -5580,5 +5580,36 @@
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "how products are made factory",
+    "videoId": "gH602iQ3wXg",
+    "sourceTitle": "How Money Is Made - Inside U.S. Money Printing Factory",
+    "channel": "Beyond Facts",
+    "publishedAt": "2026-03-06T16:01:06Z",
+    "viewCount": 1004675,
+    "likeCount": 8365,
+    "duration": "PT19M21S",
+    "keyword": "how products are made factory",
+    "proposedTitle": "How Money Is Made - Inside U.S. Money Printing Factory | Factory Process Guide",
+    "summary": "This guide accompanies \"How Money Is Made - Inside U.S. Money Printing Factory\" by Beyond Facts and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in How Money Is Made - Inside U.S. Money Printing Factory.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1161,
+    "timestampsVerified": false,
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]
