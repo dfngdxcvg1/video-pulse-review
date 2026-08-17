@@ -5426,5 +5426,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "KogYWY4Ycw4",
+    "slug": "4k-led-tv-manufacturing-in-china-factory-led-tv-making-idea-tv-factory-p",
+    "category": "inventions",
+    "title": "4K led tv manufacturing in China Factory | Led tv making idea | tv... | Factory Process Guide",
+    "sourceTitle": "4K led tv manufacturing in China Factory | Led tv making idea | tv manufacturing process steps ",
+    "channel": "Green Modern Making ",
+    "publishedAt": "2026-07-21T20:16:31Z",
+    "viewsLabel": "231,306 views at review",
+    "summary": "This guide accompanies \"4K led tv manufacturing in China Factory | Led tv making idea | tv manufacturing process steps\" by Green Modern Making and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in 4K led tv manufacturing in China Factory | Led tv making idea | tv manufacturing process steps.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
