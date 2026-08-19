@@ -5507,5 +5507,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "2LwAcorIqRk",
+    "slug": "9-things-antique-tool-collectors-don-t-want-you-to-know-about-hydrogen-r",
+    "category": "restoration",
+    "title": "9 Things Antique Tool Collectors Don’t Want You to Know About Hydrogen... | Restoration Process Guide",
+    "sourceTitle": "9 Things Antique Tool Collectors Don’t Want You to Know About Hydrogen Peroxide (#4 Is Worth $500)",
+    "channel": "Walter's Tool Talk",
+    "publishedAt": "2026-08-13T20:00:34Z",
+    "viewsLabel": "51,047 views at review",
+    "summary": "This viewing guide accompanies \"9 Things Antique Tool Collectors Don’t Want You to Know About Hydrogen Peroxide ( Is Worth $500)\" by Walter's Tool Talk. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of 9 Things Antique Tool Collectors Don’t Want You to Know About Hydrogen Peroxide ( Is Worth $500).",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "r1wwtGgnzg4",
+    "slug": "are-beavers-actually-good-at-dams-engineering-breakdown",
+    "category": "inventions",
+    "title": "Are Beavers Actually Good at Dams? | Engineering Breakdown",
+    "sourceTitle": "Are Beavers Actually Good at Dams?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-08-18T13:00:21Z",
+    "viewsLabel": "192,310 views at review",
+    "summary": "This viewing guide accompanies \"Are Beavers Actually Good at Dams?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Are Beavers Actually Good at Dams? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
