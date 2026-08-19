@@ -5588,5 +5588,32 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "nuKOlFMYGMk",
+    "slug": "amazing-restoration-of-an-old-rusty-stanley-hand-plane-stanley-no-130-re",
+    "category": "restoration",
+    "title": "Amazing Restoration of an Old Rusty Stanley Hand Plane. Stanley No. 130 | Restoration Process Guide",
+    "sourceTitle": "Amazing Restoration of an Old Rusty Stanley Hand Plane. Stanley No. 130",
+    "channel": "ReXtorer",
+    "publishedAt": "2025-09-07T15:01:21Z",
+    "viewsLabel": "60,794 views at review",
+    "summary": "This viewing guide accompanies \"Amazing Restoration of an Old Rusty Stanley Hand Plane. Stanley No. 130\" by ReXtorer. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Amazing Restoration of an Old Rusty Stanley Hand Plane. Stanley No. 130.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
