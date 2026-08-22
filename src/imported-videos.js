@@ -5615,5 +5615,59 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "cEhgP6REiV0",
+    "slug": "restoring-a-mysterious-old-tool-can-you-guess-what-it-is-restoration-pro",
+    "category": "restoration",
+    "title": "Restoring a Mysterious Old Tool - Can You Guess What It Is? | Restoration Process Guide",
+    "sourceTitle": "Restoring a Mysterious Old Tool - Can You Guess What It Is?",
+    "channel": "Relax Restoration",
+    "publishedAt": "2026-04-06T15:30:20Z",
+    "viewsLabel": "75,767 views at review",
+    "summary": "This viewing guide accompanies \"Restoring a Mysterious Old Tool - Can You Guess What It Is?\" by Relax Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoring a Mysterious Old Tool - Can You Guess What It Is?.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "FoHbTR1pus0",
+    "slug": "heavy-equipment-repair-inside-the-drive-gear-rebuilding-process-dozer-re",
+    "category": "restoration",
+    "title": "Heavy Equipment Repair: Inside the Drive Gear Rebuilding Process (Dozer) | Restoration Process Guide",
+    "sourceTitle": "Heavy Equipment Repair: Inside the Drive Gear Rebuilding Process (Dozer)",
+    "channel": "Low Budget Skills",
+    "publishedAt": "2026-08-21T12:00:20Z",
+    "viewsLabel": "62,349 views at review",
+    "summary": "This viewing guide accompanies \"Heavy Equipment Repair: Inside the Drive Gear Rebuilding Process (Dozer)\" by Low Budget Skills. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Heavy Equipment Repair: Inside the Drive Gear Rebuilding Process (Dozer).",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "workshop equipment repair",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
