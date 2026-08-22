@@ -1,18 +1,12 @@
 {
-  "added": 2,
-  "totalReviewed": 210,
+  "added": 1,
+  "totalReviewed": 211,
   "addedVideos": [
     {
-      "videoId": "cEhgP6REiV0",
-      "title": "Restoring a Mysterious Old Tool - Can You Guess What It Is?",
+      "videoId": "BZmoJh-iyZE",
+      "title": "Everyone Used This...Then It Disappeared",
       "category": "restoration",
-      "viewCount": 75767
-    },
-    {
-      "videoId": "FoHbTR1pus0",
-      "title": "Heavy Equipment Repair: Inside the Drive Gear Rebuilding Process (Dozer)",
-      "category": "restoration",
-      "viewCount": 62349
+      "viewCount": 517458
     }
   ]
 }
