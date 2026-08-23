@@ -5983,5 +5983,67 @@
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "practical engineering build",
+    "videoId": "zRM2AnwNY20",
+    "sourceTitle": "The Wild Story of the Taum Sauk Dam Failure",
+    "channel": "Practical Engineering",
+    "publishedAt": "2024-10-15T13:01:13Z",
+    "viewCount": 11164281,
+    "likeCount": 131108,
+    "duration": "PT20M10S",
+    "keyword": "practical engineering build",
+    "proposedTitle": "The Wild Story of the Taum Sauk Dam Failure | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"The Wild Story of the Taum Sauk Dam Failure\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind The Wild Story of the Taum Sauk Dam Failure before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1210,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "factory manufacturing process",
+    "videoId": "_Dm3jEr2gbY",
+    "sourceTitle": "Inside the Bull Horn & Leather Factory | How Luxury Bags & Accessories Are Made",
+    "channel": "      The Factory Vision",
+    "publishedAt": "2026-08-21T23:37:49Z",
+    "viewCount": 61241,
+    "likeCount": 155,
+    "duration": "PT8M44S",
+    "keyword": "factory manufacturing process",
+    "proposedTitle": "Inside the Bull Horn & Leather Factory | How Luxury Bags & Accessories... | Factory Process Guide",
+    "summary": "This guide accompanies \"Inside the Bull Horn & Leather Factory | How Luxury Bags & Accessories Are Made\" by The Factory Vision and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside the Bull Horn & Leather Factory | How Luxury Bags & Accessories Are Made.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "durationSeconds": 524,
+    "timestampsVerified": false,
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]

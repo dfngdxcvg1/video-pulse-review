@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 211,
+  "added": 2,
+  "totalReviewed": 213,
   "addedVideos": [
     {
-      "videoId": "BZmoJh-iyZE",
-      "title": "Everyone Used This...Then It Disappeared",
-      "category": "restoration",
-      "viewCount": 517458
+      "videoId": "zRM2AnwNY20",
+      "title": "The Wild Story of the Taum Sauk Dam Failure",
+      "category": "inventions",
+      "viewCount": 11164281
+    },
+    {
+      "videoId": "_Dm3jEr2gbY",
+      "title": "Inside the Bull Horn & Leather Factory | How Luxury Bags & Accessories Are Made",
+      "category": "inventions",
+      "viewCount": 61241
     }
   ]
 }
