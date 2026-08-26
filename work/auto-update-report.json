@@ -1,18 +1,12 @@
 {
-  "added": 2,
-  "totalReviewed": 213,
+  "added": 1,
+  "totalReviewed": 214,
   "addedVideos": [
     {
-      "videoId": "zRM2AnwNY20",
-      "title": "The Wild Story of the Taum Sauk Dam Failure",
+      "videoId": "7mdvEtmo1pM",
+      "title": "The Hidden Engineering of Niagara Falls",
       "category": "inventions",
-      "viewCount": 11164281
-    },
-    {
-      "videoId": "_Dm3jEr2gbY",
-      "title": "Inside the Bull Horn & Leather Factory | How Luxury Bags & Accessories Are Made",
-      "category": "inventions",
-      "viewCount": 61241
+      "viewCount": 1985471
     }
   ]
 }
