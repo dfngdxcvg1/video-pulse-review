@@ -5777,5 +5777,32 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "sq6ZOVbKQhY",
+    "slug": "the-hidden-engineering-behind-the-falkirk-wheel-engineering-breakdown",
+    "category": "inventions",
+    "title": "The Hidden Engineering Behind the Falkirk Wheel | Engineering Breakdown",
+    "sourceTitle": "The Hidden Engineering Behind the Falkirk Wheel",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-11-15T21:39:56Z",
+    "viewsLabel": "734,526 views at review",
+    "summary": "This viewing guide accompanies \"The Hidden Engineering Behind the Falkirk Wheel\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind The Hidden Engineering Behind the Falkirk Wheel before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
