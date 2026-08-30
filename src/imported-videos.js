@@ -5858,5 +5858,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "UF63eFJmbrQ",
+    "slug": "this-spillway-failed-on-purpose-engineering-breakdown",
+    "category": "inventions",
+    "title": "This Spillway Failed On Purpose | Engineering Breakdown",
+    "sourceTitle": "This Spillway Failed On Purpose",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-04-07T13:01:01Z",
+    "viewsLabel": "757,869 views at review",
+    "summary": "This viewing guide accompanies \"This Spillway Failed On Purpose\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind This Spillway Failed On Purpose before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "3CvKe1P30jA",
+    "slug": "top-mechanical-engineering-interview-questions-answers-engineering-break",
+    "category": "inventions",
+    "title": "Top Mechanical Engineering Interview Questions & Answers | Engineering Breakdown",
+    "sourceTitle": "Top Mechanical Engineering Interview Questions & Answers",
+    "channel": "Engineering Gone Wild",
+    "publishedAt": "2025-02-02T15:00:03Z",
+    "viewsLabel": "82,808 views at review",
+    "summary": "This viewing guide accompanies \"Top Mechanical Engineering Interview Questions & Answers\" by Engineering Gone Wild. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Top Mechanical Engineering Interview Questions & Answers before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
