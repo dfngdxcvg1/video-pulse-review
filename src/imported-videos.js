@@ -5912,5 +5912,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "IWKoqm1jVo4",
+    "slug": "everyone-guessed-wrong-restoring-a-150-year-old-rusty-mystery-tool-resto",
+    "category": "restoration",
+    "title": "Everyone Guessed Wrong Restoring a 150+ Year-Old Rusty Mystery Tool | Restoration Process Guide",
+    "sourceTitle": "Everyone Guessed Wrong 😳 Restoring a 150+ Year-Old Rusty Mystery Tool",
+    "channel": "Super Restoration",
+    "publishedAt": "2025-12-23T13:00:38Z",
+    "viewsLabel": "111,628 views at review",
+    "summary": "This viewing guide accompanies \"Everyone Guessed Wrong Restoring a 150+ Year-Old Rusty Mystery Tool\" by Super Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Everyone Guessed Wrong Restoring a 150+ Year-Old Rusty Mystery Tool.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "pzlgsQjMN_E",
+    "slug": "inside-the-giant-ajinomoto-factory-the-technology-for-producing-msg-fact",
+    "category": "inventions",
+    "title": "Inside the Giant Ajinomoto Factory: The Technology for Producing MSG... | Factory Process Guide",
+    "sourceTitle": "Inside the Giant Ajinomoto Factory: The Technology for Producing MSG from Cassava (Full Process)",
+    "channel": "Swift Process",
+    "publishedAt": "2026-03-06T08:10:40Z",
+    "viewsLabel": "8,655,770 views at review",
+    "summary": "This guide accompanies \"Inside the Giant Ajinomoto Factory: The Technology for Producing MSG from Cassava (Full Process)\" by Swift Process and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside the Giant Ajinomoto Factory: The Technology for Producing MSG from Cassava (Full Process).",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
