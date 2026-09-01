@@ -5966,5 +5966,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "BhPd6Y09O4o",
+    "slug": "extremely-rusty-guillotine-restoration-restoration-process-guide",
+    "category": "restoration",
+    "title": "Extremely Rusty Guillotine Restoration | Restoration Process Guide",
+    "sourceTitle": "Extremely Rusty Guillotine Restoration",
+    "channel": "TysyTube Restoration",
+    "publishedAt": "2026-08-26T14:09:53Z",
+    "viewsLabel": "1,297,162 views at review",
+    "summary": "This viewing guide accompanies \"Extremely Rusty Guillotine Restoration\" by TysyTube Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Extremely Rusty Guillotine Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "-17mPnFxi30",
+    "slug": "stopping-the-unstoppable-engineering-breakdown",
+    "category": "inventions",
+    "title": "Stopping the Unstoppable | Engineering Breakdown",
+    "sourceTitle": "Stopping the Unstoppable",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-09-01T13:00:00Z",
+    "viewsLabel": "133,499 views at review",
+    "summary": "This viewing guide accompanies \"Stopping the Unstoppable\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Stopping the Unstoppable before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
