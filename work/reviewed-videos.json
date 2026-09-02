@@ -6355,5 +6355,36 @@
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "restoration",
+    "query": "antique tool restoration",
+    "videoId": "mkfLLttN1mU",
+    "sourceTitle": "Ep.169 STRIPPING Years of UGLY PAINT from this ANTIQUE DRESSER",
+    "channel": "Mad City Modern",
+    "publishedAt": "2026-08-30T23:13:36Z",
+    "viewCount": 144354,
+    "likeCount": 6565,
+    "duration": "PT19M15S",
+    "keyword": "antique tool restoration",
+    "proposedTitle": "Ep.169 STRIPPING Years of UGLY PAINT from this ANTIQUE DRESSER | Restoration Process Guide",
+    "summary": "This viewing guide accompanies \"Ep.169 STRIPPING Years of UGLY PAINT from this ANTIQUE DRESSER\" by Mad City Modern. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Ep.169 STRIPPING Years of UGLY PAINT from this ANTIQUE DRESSER.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1155,
+    "timestampsVerified": false,
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]
