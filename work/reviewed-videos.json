@@ -6417,5 +6417,36 @@
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "practical engineering build",
+    "videoId": "tv7LBLj71KA",
+    "sourceTitle": "3 Minutes of Smart Worker Skills | 30..👷 #workers #construction #work #smart #adamrose",
+    "channel": "Super Build Engineer",
+    "publishedAt": "2026-07-23T14:00:31Z",
+    "viewCount": 702856,
+    "likeCount": 10644,
+    "duration": "PT2M56S",
+    "keyword": "practical engineering build",
+    "proposedTitle": "3 Minutes of Smart Worker Skills | 30.. | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"3 Minutes of Smart Worker Skills | 30..\" by Super Build Engineer. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind 3 Minutes of Smart Worker Skills | 30.. before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 176,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]

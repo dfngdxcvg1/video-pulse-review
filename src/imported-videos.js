@@ -6074,5 +6074,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "tv7LBLj71KA",
+    "slug": "3-minutes-of-smart-worker-skills-30-engineering-breakdown",
+    "category": "inventions",
+    "title": "3 Minutes of Smart Worker Skills | 30.. | Engineering Breakdown",
+    "sourceTitle": "3 Minutes of Smart Worker Skills | 30..👷 #workers #construction #work #smart #adamrose",
+    "channel": "Super Build Engineer",
+    "publishedAt": "2026-07-23T14:00:31Z",
+    "viewsLabel": "702,856 views at review",
+    "summary": "This viewing guide accompanies \"3 Minutes of Smart Worker Skills | 30..\" by Super Build Engineer. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind 3 Minutes of Smart Worker Skills | 30.. before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
