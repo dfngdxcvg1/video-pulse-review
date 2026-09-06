@@ -6128,5 +6128,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "HuQ7gnIpcDI",
+    "slug": "inside-a-dove-soap-factory-how-dove-soap-is-made-step-by-step-factory-pr",
+    "category": "inventions",
+    "title": "Inside a Dove Soap Factory | How Dove Soap Is Made Step by Step | Factory Process Guide",
+    "sourceTitle": "Inside a Dove Soap Factory | How Dove Soap Is Made Step by Step",
+    "channel": "The Manufacturing Room",
+    "publishedAt": "2025-12-29T13:45:02Z",
+    "viewsLabel": "623,657 views at review",
+    "summary": "This guide accompanies \"Inside a Dove Soap Factory | How Dove Soap Is Made Step by Step\" by The Manufacturing Room and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside a Dove Soap Factory | How Dove Soap Is Made Step by Step.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how products are made factory",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "XlFCQarGIOc",
+    "slug": "inside-a-modern-lipstick-factory-how-lipstick-is-made-animal-bone-factor",
+    "category": "inventions",
+    "title": "Inside a Modern Lipstick Factory | How Lipstick Is Made - Animal Bone... | Factory Process Guide",
+    "sourceTitle": "Inside a Modern Lipstick Factory | How Lipstick Is Made - Animal Bone Calcium | Full Process",
+    "channel": "Process Factory X",
+    "publishedAt": "2026-04-15T20:36:23Z",
+    "viewsLabel": "82,363 views at review",
+    "summary": "This guide accompanies \"Inside a Modern Lipstick Factory | How Lipstick Is Made - Animal Bone Calcium | Full Process\" by Process Factory X and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside a Modern Lipstick Factory | How Lipstick Is Made - Animal Bone Calcium | Full Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how products are made factory",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];

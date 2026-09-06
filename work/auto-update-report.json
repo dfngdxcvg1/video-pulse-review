@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 227,
+  "added": 2,
+  "totalReviewed": 229,
   "addedVideos": [
     {
-      "videoId": "RnYdt4T76mk",
-      "title": "Why are Smokestacks So Tall?",
+      "videoId": "HuQ7gnIpcDI",
+      "title": "Inside a Dove Soap Factory | How Dove Soap Is Made Step by Step",
       "category": "inventions",
-      "viewCount": 1172298
+      "viewCount": 623657
+    },
+    {
+      "videoId": "XlFCQarGIOc",
+      "title": "Inside a Modern Lipstick Factory | How Lipstick Is Made - Animal Bone Calcium | Full Process",
+      "category": "inventions",
+      "viewCount": 82363
     }
   ]
 }
