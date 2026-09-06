@@ -6101,5 +6101,32 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "RnYdt4T76mk",
+    "slug": "why-are-smokestacks-so-tall-engineering-breakdown",
+    "category": "inventions",
+    "title": "Why are Smokestacks So Tall? | Engineering Breakdown",
+    "sourceTitle": "Why are Smokestacks So Tall?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-06-03T14:41:52Z",
+    "viewsLabel": "1,172,298 views at review",
+    "summary": "This viewing guide accompanies \"Why are Smokestacks So Tall?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Why are Smokestacks So Tall? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
