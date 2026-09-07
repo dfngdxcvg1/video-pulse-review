@@ -6182,5 +6182,32 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "eMx4gC05VzE",
+    "slug": "the-truth-about-being-a-mechanical-engineer-and-how-i-really-feel-engine",
+    "category": "inventions",
+    "title": "The Truth About Being a Mechanical Engineer — And How I Really Feel | Engineering Breakdown",
+    "sourceTitle": "The Truth About Being a Mechanical Engineer — And How I Really Feel",
+    "channel": "Jennie Siri",
+    "publishedAt": "2025-05-12T04:13:29Z",
+    "viewsLabel": "82,903 views at review",
+    "summary": "This viewing guide accompanies \"The Truth About Being a Mechanical Engineer — And How I Really Feel\" by Jennie Siri. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind The Truth About Being a Mechanical Engineer — And How I Really Feel before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
