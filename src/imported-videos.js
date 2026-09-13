@@ -6398,5 +6398,32 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "2TC6Mxvlu4s",
+    "slug": "inside-the-factory-forging-quality-steel-takes-more-than-fire-factory-pr",
+    "category": "inventions",
+    "title": "Inside the factory Forging Quality Steel Takes More Than Fire | Factory Process Guide",
+    "sourceTitle": "Inside the factory Forging Quality Steel Takes More Than Fire #process #machine #forging #factory",
+    "channel": "Inside the factory",
+    "publishedAt": "2025-07-30T13:00:08Z",
+    "viewsLabel": "651,231,181 views at review",
+    "summary": "This guide accompanies \"Inside the factory Forging Quality Steel Takes More Than Fire\" by Inside the factory and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside the factory Forging Quality Steel Takes More Than Fire.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];

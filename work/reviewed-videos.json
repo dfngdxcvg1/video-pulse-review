@@ -6789,5 +6789,36 @@
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "factory manufacturing process",
+    "videoId": "2TC6Mxvlu4s",
+    "sourceTitle": "Inside the factory Forging Quality Steel Takes More Than Fire #process #machine #forging #factory",
+    "channel": "Inside the factory",
+    "publishedAt": "2025-07-30T13:00:08Z",
+    "viewCount": 651231181,
+    "likeCount": 5920595,
+    "duration": "PT2M54S",
+    "keyword": "factory manufacturing process",
+    "proposedTitle": "Inside the factory Forging Quality Steel Takes More Than Fire | Factory Process Guide",
+    "summary": "This guide accompanies \"Inside the factory Forging Quality Steel Takes More Than Fire\" by Inside the factory and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside the factory Forging Quality Steel Takes More Than Fire.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "durationSeconds": 174,
+    "timestampsVerified": false,
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]
