@@ -6727,5 +6727,67 @@
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "restoration",
+    "query": "antique tool restoration",
+    "videoId": "BF6skheRznc",
+    "sourceTitle": "Vintage Craftsman Toolbox and Tools Restoration",
+    "channel": "Restoration Station",
+    "publishedAt": "2026-09-11T20:00:05Z",
+    "viewCount": 76180,
+    "likeCount": 2016,
+    "duration": "PT28M57S",
+    "keyword": "antique tool restoration",
+    "proposedTitle": "Vintage Craftsman Toolbox and Tools Restoration | Restoration Process Guide",
+    "summary": "This viewing guide accompanies \"Vintage Craftsman Toolbox and Tools Restoration\" by Restoration Station. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Vintage Craftsman Toolbox and Tools Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1737,
+    "timestampsVerified": false,
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "factory manufacturing process",
+    "videoId": "1rQNP-bbpCo",
+    "sourceTitle": "How Lipstick Is Made in Modern Factories | Complete Manufacturing Process (4K)",
+    "channel": "Next Gen AI Factory",
+    "publishedAt": "2026-02-17T14:00:06Z",
+    "viewCount": 2393773,
+    "likeCount": 3161,
+    "duration": "PT8M7S",
+    "keyword": "factory manufacturing process",
+    "proposedTitle": "How Lipstick Is Made in Modern Factories | Complete Manufacturing... | Factory Process Guide",
+    "summary": "This guide accompanies \"How Lipstick Is Made in Modern Factories | Complete Manufacturing Process (4K)\" by Next Gen AI Factory and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in How Lipstick Is Made in Modern Factories | Complete Manufacturing Process (4K).",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "durationSeconds": 487,
+    "timestampsVerified": false,
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]

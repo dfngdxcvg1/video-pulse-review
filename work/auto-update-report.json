@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 235,
+  "added": 2,
+  "totalReviewed": 237,
   "addedVideos": [
     {
-      "videoId": "AT-ElP8uSTE",
-      "title": "How Feastables Chocolate is Made",
+      "videoId": "BF6skheRznc",
+      "title": "Vintage Craftsman Toolbox and Tools Restoration",
+      "category": "restoration",
+      "viewCount": 76180
+    },
+    {
+      "videoId": "1rQNP-bbpCo",
+      "title": "How Lipstick Is Made in Modern Factories | Complete Manufacturing Process (4K)",
       "category": "inventions",
-      "viewCount": 55854051
+      "viewCount": 2393773
     }
   ]
 }
