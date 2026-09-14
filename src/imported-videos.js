@@ -6425,5 +6425,32 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "p_K6QnYZdIw",
+    "slug": "the-hidden-ingredient-in-red-lipstick-inside-a-modern-factory-factory-pr",
+    "category": "inventions",
+    "title": "The Hidden Ingredient in Red Lipstick | Inside a Modern Factory | Factory Process Guide",
+    "sourceTitle": "The Hidden Ingredient in Red Lipstick | Inside a Modern Factory #lipstickconfidence",
+    "channel": "World of Factories",
+    "publishedAt": "2026-08-20T06:39:56Z",
+    "viewsLabel": "4,786,403 views at review",
+    "summary": "This guide accompanies \"The Hidden Ingredient in Red Lipstick | Inside a Modern Factory\" by World of Factories and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in The Hidden Ingredient in Red Lipstick | Inside a Modern Factory.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
