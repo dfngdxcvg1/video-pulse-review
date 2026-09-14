@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 239,
+  "added": 2,
+  "totalReviewed": 241,
   "addedVideos": [
     {
-      "videoId": "p_K6QnYZdIw",
-      "title": "The Hidden Ingredient in Red Lipstick | Inside a Modern Factory #lipstickconfidence",
+      "videoId": "IA0WNomK0v8",
+      "title": "FAW Trucks Manufacturing Process! Amazing Heavy Trucks Factory!",
       "category": "inventions",
-      "viewCount": 4786403
+      "viewCount": 1166543
+    },
+    {
+      "videoId": "OQ9iitRMPjU",
+      "title": "SAMSUNG TV Production Process: Inside the World’s Biggest Samsung TV Factory (Full Process)",
+      "category": "inventions",
+      "viewCount": 528417
     }
   ]
 }

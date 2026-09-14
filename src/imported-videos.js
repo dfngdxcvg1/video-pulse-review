@@ -6452,5 +6452,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "IA0WNomK0v8",
+    "slug": "faw-trucks-manufacturing-process-amazing-heavy-trucks-factory-factory-pr",
+    "category": "inventions",
+    "title": "FAW Trucks Manufacturing Process! Amazing Heavy Trucks Factory! | Factory Process Guide",
+    "sourceTitle": "FAW Trucks Manufacturing Process! Amazing Heavy Trucks Factory!",
+    "channel": "Satisfying Tech",
+    "publishedAt": "2026-07-02T05:08:10Z",
+    "viewsLabel": "1,166,543 views at review",
+    "summary": "This guide accompanies \"FAW Trucks Manufacturing Process! Amazing Heavy Trucks Factory!\" by Satisfying Tech and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in FAW Trucks Manufacturing Process! Amazing Heavy Trucks Factory!.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "OQ9iitRMPjU",
+    "slug": "samsung-tv-production-process-inside-the-world-s-biggest-samsung-tv-fact",
+    "category": "inventions",
+    "title": "SAMSUNG TV Production Process: Inside the World’s Biggest Samsung TV... | Factory Process Guide",
+    "sourceTitle": "SAMSUNG TV Production Process: Inside the World’s Biggest Samsung TV Factory (Full Process)",
+    "channel": "Global Factory Process",
+    "publishedAt": "2026-01-25T11:00:42Z",
+    "viewsLabel": "528,417 views at review",
+    "summary": "This guide accompanies \"SAMSUNG TV Production Process: Inside the World’s Biggest Samsung TV Factory (Full Process)\" by Global Factory Process and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in SAMSUNG TV Production Process: Inside the World’s Biggest Samsung TV Factory (Full Process).",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
