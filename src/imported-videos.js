@@ -6506,5 +6506,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "VON1epIPHNI",
+    "slug": "nobody-thought-this-100-year-old-tool-would-work-again-restoration-proce",
+    "category": "restoration",
+    "title": "Nobody Thought This 100-Year-Old Tool Would Work Again! | Restoration Process Guide",
+    "sourceTitle": "Nobody Thought This 100-Year-Old Tool Would Work Again! 😱",
+    "channel": "Skills Restoration ",
+    "publishedAt": "2026-09-02T13:00:24Z",
+    "viewsLabel": "55,197 views at review",
+    "summary": "This viewing guide accompanies \"Nobody Thought This 100-Year-Old Tool Would Work Again!\" by Skills Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Nobody Thought This 100-Year-Old Tool Would Work Again!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "k0NMnH-5Q9s",
+    "slug": "inside-a-playing-card-factory-complete-manufacturing-process-factory-pro",
+    "category": "inventions",
+    "title": "Inside a Playing Card Factory | Complete Manufacturing Process | Factory Process Guide",
+    "sourceTitle": "Inside a Playing Card Factory | Complete Manufacturing Process",
+    "channel": "Process Core",
+    "publishedAt": "2026-06-21T12:07:38Z",
+    "viewsLabel": "253,493 views at review",
+    "summary": "This guide accompanies \"Inside a Playing Card Factory | Complete Manufacturing Process\" by Process Core and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside a Playing Card Factory | Complete Manufacturing Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
