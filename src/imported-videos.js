@@ -6722,5 +6722,32 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "0-a0d7RUNHw",
+    "slug": "ford-coyote-loud-ticking-and-tapping-bad-rocker-fix-on-a-5-0-2018-f-150-",
+    "category": "restoration",
+    "title": "Ford Coyote LOUD Ticking and Tapping. Bad Rocker fix on a 5.0 2018 F-150... | Restoration Process Guide",
+    "sourceTitle": "Ford Coyote LOUD Ticking and Tapping. Bad Rocker fix on a 5.0 2018 F-150 and Mustang V8",
+    "channel": "SpankRanch Garage",
+    "publishedAt": "2024-12-19T22:00:00Z",
+    "viewsLabel": "92,884 views at review",
+    "summary": "This viewing guide accompanies \"Ford Coyote LOUD Ticking and Tapping. Bad Rocker fix on a 5.0 2018 F-150 and Mustang V8\" by SpankRanch Garage. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Ford Coyote LOUD Ticking and Tapping. Bad Rocker fix on a 5.0 2018 F-150 and Mustang V8.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "typewriter or sewing machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
