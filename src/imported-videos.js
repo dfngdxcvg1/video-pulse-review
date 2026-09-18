@@ -6668,5 +6668,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "8L9R_YDjgR4",
+    "slug": "old-battery-as-new-in-1-minutes-quick-way-to-restore-your-battery-restor",
+    "category": "restoration",
+    "title": "Old Battery as New in 1 minutes! Quick Way to Restore your Battery! | Restoration Process Guide",
+    "sourceTitle": "Old Battery as New in 1 minutes! Quick Way to Restore your Battery!",
+    "channel": "Creation Holic",
+    "publishedAt": "2025-05-31T13:00:13Z",
+    "viewsLabel": "14,237,706 views at review",
+    "summary": "This viewing guide accompanies \"Old Battery as New in 1 minutes! Quick Way to Restore your Battery!\" by Creation Holic. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Old Battery as New in 1 minutes! Quick Way to Restore your Battery!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "vintage machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "YN8Lbr2BOwM",
+    "slug": "inside-local-factories-2-amazing-manufacturing-processes-you-won-t-facto",
+    "category": "inventions",
+    "title": "Inside Local Factories: 2 Amazing Manufacturing Processes You Won’t... | Factory Process Guide",
+    "sourceTitle": "Inside Local Factories: 2 Amazing Manufacturing Processes You Won’t Believe!",
+    "channel": "How To Make Things",
+    "publishedAt": "2026-09-13T10:08:56Z",
+    "viewsLabel": "53,812 views at review",
+    "summary": "This guide accompanies \"Inside Local Factories: 2 Amazing Manufacturing Processes You Won’t Believe!\" by How To Make Things and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside Local Factories: 2 Amazing Manufacturing Processes You Won’t Believe!.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
