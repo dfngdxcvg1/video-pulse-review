@@ -6803,5 +6803,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "rjqcgm-wOT4",
+    "slug": "they-don-t-make-fans-like-this-anymore-restoration-process-guide",
+    "category": "restoration",
+    "title": "They Don't Make Fans Like This Anymore | Restoration Process Guide",
+    "sourceTitle": "They Don't Make Fans Like This Anymore",
+    "channel": "Cool Again Restoration",
+    "publishedAt": "2025-08-28T11:22:42Z",
+    "viewsLabel": "2,070,253 views at review",
+    "summary": "This viewing guide accompanies \"They Don't Make Fans Like This Anymore\" by Cool Again Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of They Don't Make Fans Like This Anymore.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "vintage machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "F9yVzcg2vhQ",
+    "slug": "pencil-manufacturing-process-factory-process-guide",
+    "category": "inventions",
+    "title": "Pencil Manufacturing Process | Factory Process Guide",
+    "sourceTitle": "Pencil Manufacturing Process",
+    "channel": "Process Core",
+    "publishedAt": "2026-04-24T11:29:11Z",
+    "viewsLabel": "9,094,545 views at review",
+    "summary": "This guide accompanies \"Pencil Manufacturing Process\" by Process Core and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Pencil Manufacturing Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];

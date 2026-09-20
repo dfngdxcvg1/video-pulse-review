@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 252,
+  "added": 2,
+  "totalReviewed": 254,
   "addedVideos": [
     {
-      "videoId": "YSQhtlyfPtU",
-      "title": "A Love Letter to Cable-Stayed Bridges",
+      "videoId": "rjqcgm-wOT4",
+      "title": "They Don't Make Fans Like This Anymore",
+      "category": "restoration",
+      "viewCount": 2070253
+    },
+    {
+      "videoId": "F9yVzcg2vhQ",
+      "title": "Pencil Manufacturing Process",
       "category": "inventions",
-      "viewCount": 468408
+      "viewCount": 9094545
     }
   ]
 }
