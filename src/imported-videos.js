@@ -6884,5 +6884,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "8xV92r_8yls",
+    "slug": "i-saved-this-mouldy-beauty-and-restored-it-for-my-new-home-restoration-p",
+    "category": "restoration",
+    "title": "I saved this mouldy beauty and restored it for my new home | Restoration Process Guide",
+    "sourceTitle": "I saved this mouldy beauty and restored it for my new home",
+    "channel": "Flippingdrawers",
+    "publishedAt": "2026-09-18T18:00:06Z",
+    "viewsLabel": "111,839 views at review",
+    "summary": "This viewing guide accompanies \"I saved this mouldy beauty and restored it for my new home\" by Flippingdrawers. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of I saved this mouldy beauty and restored it for my new home.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
