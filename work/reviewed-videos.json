@@ -7378,5 +7378,36 @@
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "restoration",
+    "query": "antique tool restoration",
+    "videoId": "FN2lQevnPRY",
+    "sourceTitle": "$15 Mystery Tool Restoration... You Won’t Believe the Result!",
+    "channel": "Beta Restoration ",
+    "publishedAt": "2026-09-07T13:01:16Z",
+    "viewCount": 50186,
+    "likeCount": 297,
+    "duration": "PT19M5S",
+    "keyword": "antique tool restoration",
+    "proposedTitle": "$15 Mystery Tool Restoration... You Won’t Believe the Result! | Restoration Process Guide",
+    "summary": "This viewing guide accompanies \"$15 Mystery Tool Restoration... You Won’t Believe the Result!\" by Beta Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of $15 Mystery Tool Restoration... You Won’t Believe the Result!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1145,
+    "timestampsVerified": false,
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]
