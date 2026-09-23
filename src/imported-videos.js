@@ -7046,5 +7046,32 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "d3b3rWCF_c0",
+    "slug": "mechanical-engineering-explained-like-you-are-5-years-old-engineering-br",
+    "category": "inventions",
+    "title": "Mechanical Engineering Explained Like You Are 5 Years Old | Engineering Breakdown",
+    "sourceTitle": "Mechanical Engineering Explained Like You Are 5 Years Old",
+    "channel": "No Fluff Academy",
+    "publishedAt": "2026-08-02T12:00:30Z",
+    "viewsLabel": "50,056 views at review",
+    "summary": "This viewing guide accompanies \"Mechanical Engineering Explained Like You Are 5 Years Old\" by No Fluff Academy. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Mechanical Engineering Explained Like You Are 5 Years Old before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
