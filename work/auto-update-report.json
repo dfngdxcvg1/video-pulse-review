@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 259,
+  "added": 2,
+  "totalReviewed": 261,
   "addedVideos": [
     {
-      "videoId": "M33wqofzr3g",
-      "title": "The most ingenious restoration techniques! Very Old Bowie Knife Restoration",
-      "category": "restoration",
-      "viewCount": 56158
+      "videoId": "ohzbJht-o9o",
+      "title": "Immersed Tube Tunnels | Genius Engineering Under the Waves",
+      "category": "inventions",
+      "viewCount": 1183590
+    },
+    {
+      "videoId": "nN08zsn7_vc",
+      "title": "How Millions of Glass Beads Are Manufactured | Full Factory Process",
+      "category": "inventions",
+      "viewCount": 817868
     }
   ]
 }
