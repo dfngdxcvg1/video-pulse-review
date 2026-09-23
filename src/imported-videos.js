@@ -6965,5 +6965,32 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "M33wqofzr3g",
+    "slug": "the-most-ingenious-restoration-techniques-very-old-bowie-knife-restorati",
+    "category": "restoration",
+    "title": "The most ingenious restoration techniques! Very Old Bowie Knife... | Restoration Process Guide",
+    "sourceTitle": "The most ingenious restoration techniques! Very Old Bowie Knife Restoration",
+    "channel": "Sart Restoration",
+    "publishedAt": "2026-09-18T19:45:55Z",
+    "viewsLabel": "56,158 views at review",
+    "summary": "This viewing guide accompanies \"The most ingenious restoration techniques! Very Old Bowie Knife Restoration\" by Sart Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of The most ingenious restoration techniques! Very Old Bowie Knife Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
