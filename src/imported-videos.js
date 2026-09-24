@@ -7073,5 +7073,32 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "hY_rnc-Kg-s",
+    "slug": "150-year-old-german-sewing-machine-full-restoration-from-rust-to-restora",
+    "category": "restoration",
+    "title": "150-year-old german sewing machine — full restoration from rust to... | Restoration Process Guide",
+    "sourceTitle": "150-YEAR-OLD GERMAN SEWING MACHINE — FULL RESTORATION FROM RUST TO GLORY!",
+    "channel": "KJ",
+    "publishedAt": "2026-09-19T16:43:11Z",
+    "viewsLabel": "229,710 views at review",
+    "summary": "This viewing guide accompanies \"150-year-old german sewing machine — full restoration from rust to glory!\" by KJ. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of 150-year-old german sewing machine — full restoration from rust to glory!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "vintage machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
