@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 265,
+  "added": 2,
+  "totalReviewed": 267,
   "addedVideos": [
     {
-      "videoId": "ZZ4EP3FBZnI",
-      "title": "Is Mechanical Engineering Dead? The Harsh Reality Explained",
+      "videoId": "WhCNpX3s-D8",
+      "title": "How Water Recycling Works",
       "category": "inventions",
-      "viewCount": 52469
+      "viewCount": 947276
+    },
+    {
+      "videoId": "t8TL8v6XpcY",
+      "title": "Amazing Factory! How This Machine Produces Millions of Bolts Every Week | Manufacturing Process",
+      "category": "inventions",
+      "viewCount": 178284
     }
   ]
 }

@@ -7154,5 +7154,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "WhCNpX3s-D8",
+    "slug": "how-water-recycling-works-engineering-breakdown",
+    "category": "inventions",
+    "title": "How Water Recycling Works | Engineering Breakdown",
+    "sourceTitle": "How Water Recycling Works",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-06-17T13:01:04Z",
+    "viewsLabel": "947,276 views at review",
+    "summary": "This viewing guide accompanies \"How Water Recycling Works\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind How Water Recycling Works before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "t8TL8v6XpcY",
+    "slug": "amazing-factory-how-this-machine-produces-millions-of-bolts-every-week-f",
+    "category": "inventions",
+    "title": "Amazing Factory! How This Machine Produces Millions of Bolts Every Week... | Factory Process Guide",
+    "sourceTitle": "Amazing Factory! How This Machine Produces Millions of Bolts Every Week | Manufacturing Process",
+    "channel": "Amazing Skill",
+    "publishedAt": "2026-06-28T12:00:07Z",
+    "viewsLabel": "178,284 views at review",
+    "summary": "This guide accompanies \"Amazing Factory! How This Machine Produces Millions of Bolts Every Week | Manufacturing Process\" by Amazing Skill and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Amazing Factory! How This Machine Produces Millions of Bolts Every Week | Manufacturing Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
