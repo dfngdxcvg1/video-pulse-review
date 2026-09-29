@@ -1,18 +1,12 @@
 {
-  "added": 2,
-  "totalReviewed": 267,
+  "added": 1,
+  "totalReviewed": 268,
   "addedVideos": [
     {
-      "videoId": "WhCNpX3s-D8",
-      "title": "How Water Recycling Works",
-      "category": "inventions",
-      "viewCount": 947276
-    },
-    {
-      "videoId": "t8TL8v6XpcY",
-      "title": "Amazing Factory! How This Machine Produces Millions of Bolts Every Week | Manufacturing Process",
-      "category": "inventions",
-      "viewCount": 178284
+      "videoId": "mv3djz9bFF4",
+      "title": "I Couldn't Leave This Old Chevy Like This | Full Pickup Restoration",
+      "category": "restoration",
+      "viewCount": 309792
     }
   ]
 }

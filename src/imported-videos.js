@@ -7208,5 +7208,32 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "mv3djz9bFF4",
+    "slug": "i-couldn-t-leave-this-old-chevy-like-this-full-pickup-restoration-restor",
+    "category": "restoration",
+    "title": "I Couldn't Leave This Old Chevy Like This | Full Pickup Restoration | Restoration Process Guide",
+    "sourceTitle": "I Couldn't Leave This Old Chevy Like This | Full Pickup Restoration",
+    "channel": "Diy Genius A1",
+    "publishedAt": "2026-09-26T18:00:23Z",
+    "viewsLabel": "309,792 views at review",
+    "summary": "This viewing guide accompanies \"I Couldn't Leave This Old Chevy Like This | Full Pickup Restoration\" by Diy Genius A1. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of I Couldn't Leave This Old Chevy Like This | Full Pickup Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "vintage machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
