@@ -7262,5 +7262,59 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "4UxpdtEpOfU",
+    "slug": "restoring-a-stanley-hand-plane-restoration-process-guide",
+    "category": "restoration",
+    "title": "Restoring a Stanley Hand Plane | Restoration Process Guide",
+    "sourceTitle": "Restoring a Stanley #4 Hand Plane #woodworking #handtools #stanleyplane #handplane #restoration",
+    "channel": "Eoin Reardon",
+    "publishedAt": "2026-01-22T21:49:04Z",
+    "viewsLabel": "2,504,337 views at review",
+    "summary": "This viewing guide accompanies \"Restoring a Stanley Hand Plane\" by Eoin Reardon. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoring a Stanley Hand Plane.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "Gk7VWyXyVtE",
+    "slug": "how-bad-rust-gets-off-cast-iron-restoration-process-guide",
+    "category": "restoration",
+    "title": "How Bad Rust Gets Off Cast Iron | Restoration Process Guide",
+    "sourceTitle": "How Bad Rust Gets Off Cast Iron #cleaning #castironiron",
+    "channel": "Cowboy Kent Rollins",
+    "publishedAt": "2026-05-30T20:00:01Z",
+    "viewsLabel": "750,786 views at review",
+    "summary": "This viewing guide accompanies \"How Bad Rust Gets Off Cast Iron\" by Cowboy Kent Rollins. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of How Bad Rust Gets Off Cast Iron.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];

@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 269,
+  "added": 2,
+  "totalReviewed": 271,
   "addedVideos": [
     {
-      "videoId": "tNAhq-qmK8M",
-      "title": "$15 Mystery Tool Restoration... Was It Worth Restoring?",
+      "videoId": "4UxpdtEpOfU",
+      "title": "Restoring a Stanley #4 Hand Plane #woodworking #handtools #stanleyplane #handplane #restoration",
       "category": "restoration",
-      "viewCount": 50645
+      "viewCount": 2504337
+    },
+    {
+      "videoId": "Gk7VWyXyVtE",
+      "title": "How Bad Rust Gets Off Cast Iron #cleaning #castironiron",
+      "category": "restoration",
+      "viewCount": 750786
     }
   ]
 }
