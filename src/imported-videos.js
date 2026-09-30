@@ -7235,5 +7235,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "tNAhq-qmK8M",
+    "slug": "15-mystery-tool-restoration-was-it-worth-restoring-restoration-process-g",
+    "category": "restoration",
+    "title": "$15 Mystery Tool Restoration... Was It Worth Restoring? | Restoration Process Guide",
+    "sourceTitle": "$15 Mystery Tool Restoration... Was It Worth Restoring?",
+    "channel": "The Antique Restoration",
+    "publishedAt": "2026-09-01T14:08:35Z",
+    "viewsLabel": "50,645 views at review",
+    "summary": "This viewing guide accompanies \"$15 Mystery Tool Restoration... Was It Worth Restoring?\" by The Antique Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of $15 Mystery Tool Restoration... Was It Worth Restoring?.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
