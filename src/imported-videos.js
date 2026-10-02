@@ -7316,5 +7316,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "bChW2-3Rdf4",
+    "slug": "4-ultrasonic-cleaner-mistakes-you-need-to-stop-now-restoration-process-g",
+    "category": "restoration",
+    "title": "4 Ultrasonic Cleaner Mistakes You Need To Stop Now! | Restoration Process Guide",
+    "sourceTitle": "4 Ultrasonic Cleaner Mistakes You Need To Stop Now!",
+    "channel": "Steve's Small Engine Saloon",
+    "publishedAt": "2025-12-12T21:00:50Z",
+    "viewsLabel": "590,212 views at review",
+    "summary": "This viewing guide accompanies \"4 Ultrasonic Cleaner Mistakes You Need To Stop Now!\" by Steve's Small Engine Saloon. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of 4 Ultrasonic Cleaner Mistakes You Need To Stop Now!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "typewriter or sewing machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
