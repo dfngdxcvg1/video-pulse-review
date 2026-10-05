@@ -7370,5 +7370,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "PCjPU7Tld0U",
+    "slug": "is-this-engineering-engineering-breakdown",
+    "category": "inventions",
+    "title": "Is this Engineering? | Engineering Breakdown",
+    "sourceTitle": "Is this Engineering?",
+    "channel": "I Like To Make Stuff",
+    "publishedAt": "2026-10-03T15:00:29Z",
+    "viewsLabel": "170,424 views at review",
+    "summary": "This viewing guide accompanies \"Is this Engineering?\" by I Like To Make Stuff. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Is this Engineering? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
