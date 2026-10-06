@@ -7397,5 +7397,32 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "wqFoxKIg8W0",
+    "slug": "how-engineers-built-the-channel-tunnel-under-the-sea-engineering-breakdo",
+    "category": "inventions",
+    "title": "How Engineers Built the Channel Tunnel Under the Sea | Engineering Breakdown",
+    "sourceTitle": "How Engineers Built the Channel Tunnel Under the Sea",
+    "channel": "Knowhow",
+    "publishedAt": "2026-08-27T11:00:30Z",
+    "viewsLabel": "2,397,449 views at review",
+    "summary": "This viewing guide accompanies \"How Engineers Built the Channel Tunnel Under the Sea\" by Knowhow. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind How Engineers Built the Channel Tunnel Under the Sea before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
