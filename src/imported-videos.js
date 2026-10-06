@@ -7424,5 +7424,32 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "5_B1Mq02wcI",
+    "slug": "the-hidden-engineering-of-pressure-regulators-engineering-breakdown",
+    "category": "inventions",
+    "title": "The Hidden Engineering of Pressure Regulators | Engineering Breakdown",
+    "sourceTitle": "The Hidden Engineering of Pressure Regulators",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-10-06T13:00:17Z",
+    "viewsLabel": "151,180 views at review",
+    "summary": "This viewing guide accompanies \"The Hidden Engineering of Pressure Regulators\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind The Hidden Engineering of Pressure Regulators before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
