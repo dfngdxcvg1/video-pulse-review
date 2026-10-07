@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 276,
+  "added": 2,
+  "totalReviewed": 278,
   "addedVideos": [
     {
-      "videoId": "5_B1Mq02wcI",
-      "title": "The Hidden Engineering of Pressure Regulators",
+      "videoId": "wOUCsAFoTDU",
+      "title": "Rare Automatic Paratrooper's Knife Restoration",
+      "category": "restoration",
+      "viewCount": 117048
+    },
+    {
+      "videoId": "WyiEWPF3YpI",
+      "title": "From Massive Animal Bones to Luxury Knife Handles | Manufacturing Process #Bones #USA",
       "category": "inventions",
-      "viewCount": 151180
+      "viewCount": 109071304
     }
   ]
 }
