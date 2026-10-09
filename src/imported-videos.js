@@ -7613,5 +7613,59 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "siHvFd1LlAo",
+    "slug": "most-mechanical-engineers-use-the-wrong-fasteners-engineering-breakdown",
+    "category": "inventions",
+    "title": "Most Mechanical Engineers Use the Wrong Fasteners | Engineering Breakdown",
+    "sourceTitle": "Most Mechanical Engineers Use the Wrong Fasteners",
+    "channel": "Engineering Gone Wild",
+    "publishedAt": "2026-04-12T14:00:17Z",
+    "viewsLabel": "236,121 views at review",
+    "summary": "This viewing guide accompanies \"Most Mechanical Engineers Use the Wrong Fasteners\" by Engineering Gone Wild. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Most Mechanical Engineers Use the Wrong Fasteners before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "xzbImSMljbc",
+    "slug": "inside-a-local-factory-how-satellite-dish-antennas-are-made-from-factory",
+    "category": "inventions",
+    "title": "Inside a Local Factory: How Satellite Dish Antennas Are Made From... | Factory Process Guide",
+    "sourceTitle": "Inside a Local Factory: How Satellite Dish Antennas Are Made From Scratch",
+    "channel": "Green Men Making",
+    "publishedAt": "2026-10-08T07:45:29Z",
+    "viewsLabel": "198,510 views at review",
+    "summary": "This guide accompanies \"Inside a Local Factory: How Satellite Dish Antennas Are Made From Scratch\" by Green Men Making and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside a Local Factory: How Satellite Dish Antennas Are Made From Scratch.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "how products are made factory",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
