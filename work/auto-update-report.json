@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 280,
+  "added": 2,
+  "totalReviewed": 282,
   "addedVideos": [
     {
-      "videoId": "fa_UB1eYLRU",
-      "title": "Few people know this hidden restoration method for Old Rusty Sword… From Trash to Treasure!",
+      "videoId": "G3yWNmggQbs",
+      "title": "1950 AEG Bullet Nose Fan Restoration #restoration #vintagefan #aegfan #beforeandafter #antique",
       "category": "restoration",
-      "viewCount": 737239
+      "viewCount": 135518
+    },
+    {
+      "videoId": "oFTRUjDO1kQ",
+      "title": "Gear Systems Every Mechanical Engineer Should Know",
+      "category": "inventions",
+      "viewCount": 73218
     }
   ]
 }

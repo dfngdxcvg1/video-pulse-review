@@ -7559,5 +7559,59 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "G3yWNmggQbs",
+    "slug": "1950-aeg-bullet-nose-fan-restoration-restoration-process-guide",
+    "category": "restoration",
+    "title": "1950 AEG Bullet Nose Fan Restoration | Restoration Process Guide",
+    "sourceTitle": "1950 AEG Bullet Nose Fan Restoration #restoration #vintagefan #aegfan #beforeandafter #antique",
+    "channel": "Fixing History",
+    "publishedAt": "2026-10-04T14:36:46Z",
+    "viewsLabel": "135,518 views at review",
+    "summary": "This viewing guide accompanies \"1950 AEG Bullet Nose Fan Restoration\" by Fixing History. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of 1950 AEG Bullet Nose Fan Restoration.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "vintage machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "oFTRUjDO1kQ",
+    "slug": "gear-systems-every-mechanical-engineer-should-know-engineering-breakdown",
+    "category": "inventions",
+    "title": "Gear Systems Every Mechanical Engineer Should Know | Engineering Breakdown",
+    "sourceTitle": "Gear Systems Every Mechanical Engineer Should Know",
+    "channel": "Engineering Gone Wild",
+    "publishedAt": "2026-07-26T14:00:11Z",
+    "viewsLabel": "73,218 views at review",
+    "summary": "This viewing guide accompanies \"Gear Systems Every Mechanical Engineer Should Know\" by Engineering Gone Wild. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Gear Systems Every Mechanical Engineer Should Know before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
