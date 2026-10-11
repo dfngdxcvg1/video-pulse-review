@@ -1,18 +1,12 @@
 {
-  "added": 2,
-  "totalReviewed": 284,
+  "added": 1,
+  "totalReviewed": 285,
   "addedVideos": [
     {
-      "videoId": "siHvFd1LlAo",
-      "title": "Most Mechanical Engineers Use the Wrong Fasteners",
-      "category": "inventions",
-      "viewCount": 236121
-    },
-    {
-      "videoId": "xzbImSMljbc",
-      "title": "Inside a Local Factory: How Satellite Dish Antennas Are Made From Scratch",
-      "category": "inventions",
-      "viewCount": 198510
+      "videoId": "8UN3Md7fE4g",
+      "title": "I Found a Mystery Tool Covered in Rust and Dirt… The Reveal!",
+      "category": "restoration",
+      "viewCount": 50826
     }
   ]
 }
