@@ -7721,5 +7721,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "qh47oc8Th3c",
+    "slug": "how-to-fix-antique-furniture-without-chemical-stripper-hours-of-restorat",
+    "category": "restoration",
+    "title": "How To Fix Antique Furniture Without Chemical Stripper & Hours Of... | Restoration Process Guide",
+    "sourceTitle": "How To Fix Antique Furniture Without Chemical Stripper & Hours Of Sanding | Vintage Drexel Makeover",
+    "channel": "Grace Holbrook | DIY + FLIPS",
+    "publishedAt": "2026-07-13T20:19:25Z",
+    "viewsLabel": "3,699,882 views at review",
+    "summary": "This viewing guide accompanies \"How To Fix Antique Furniture Without Chemical Stripper & Hours Of Sanding | Vintage Drexel Makeover\" by Grace Holbrook | DIY + FLIPS. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of How To Fix Antique Furniture Without Chemical Stripper & Hours Of Sanding | Vintage Drexel Makeover.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "WdqLOtnJCmk",
+    "slug": "this-is-what-happens-if-you-leave-it-in-the-vinegar-bath-too-long-restor",
+    "category": "restoration",
+    "title": "This is what happens if you leave it in the vinegar bath too long. | Restoration Process Guide",
+    "sourceTitle": "This is what happens if you leave it in the vinegar bath too long. #castiron #restoration #asmr",
+    "channel": "Cast Iron Resurrection",
+    "publishedAt": "2026-09-07T10:03:10Z",
+    "viewsLabel": "743,971 views at review",
+    "summary": "This viewing guide accompanies \"This is what happens if you leave it in the vinegar bath too long.\" by Cast Iron Resurrection. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of This is what happens if you leave it in the vinegar bath too long..",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
