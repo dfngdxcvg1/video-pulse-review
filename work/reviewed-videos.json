@@ -8370,5 +8370,67 @@
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "practical engineering build",
+    "videoId": "0kQXOTcEB_E",
+    "sourceTitle": "Why Are Beach Holes So Deadly?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-04-01T13:00:04Z",
+    "viewCount": 7141346,
+    "likeCount": 155885,
+    "duration": "PT16M11S",
+    "keyword": "practical engineering build",
+    "proposedTitle": "Why Are Beach Holes So Deadly? | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"Why Are Beach Holes So Deadly?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Why Are Beach Holes So Deadly? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 971,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "inventions",
+    "query": "practical engineering build",
+    "videoId": "RZg1zOKm5wk",
+    "sourceTitle": "When Abandoned Mines Collapse",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-05-06T13:00:51Z",
+    "viewCount": 2700914,
+    "likeCount": 71066,
+    "duration": "PT17M33S",
+    "keyword": "practical engineering build",
+    "proposedTitle": "When Abandoned Mines Collapse | Engineering Breakdown",
+    "summary": "This viewing guide accompanies \"When Abandoned Mines Collapse\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind When Abandoned Mines Collapse before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "durationSeconds": 1053,
+    "timestampsVerified": false,
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]

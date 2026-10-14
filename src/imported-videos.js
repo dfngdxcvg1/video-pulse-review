@@ -7775,5 +7775,59 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "0kQXOTcEB_E",
+    "slug": "why-are-beach-holes-so-deadly-engineering-breakdown",
+    "category": "inventions",
+    "title": "Why Are Beach Holes So Deadly? | Engineering Breakdown",
+    "sourceTitle": "Why Are Beach Holes So Deadly?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-04-01T13:00:04Z",
+    "viewsLabel": "7,141,346 views at review",
+    "summary": "This viewing guide accompanies \"Why Are Beach Holes So Deadly?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Why Are Beach Holes So Deadly? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "RZg1zOKm5wk",
+    "slug": "when-abandoned-mines-collapse-engineering-breakdown",
+    "category": "inventions",
+    "title": "When Abandoned Mines Collapse | Engineering Breakdown",
+    "sourceTitle": "When Abandoned Mines Collapse",
+    "channel": "Practical Engineering",
+    "publishedAt": "2025-05-06T13:00:51Z",
+    "viewsLabel": "2,700,914 views at review",
+    "summary": "This viewing guide accompanies \"When Abandoned Mines Collapse\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind When Abandoned Mines Collapse before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
