@@ -7829,5 +7829,32 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "PTAMZRQgQeI",
+    "slug": "new-machine-day-w-f-john-barnes-no-2-50-ton-screw-press-restoration-proc",
+    "category": "restoration",
+    "title": "New Machine Day! W. F. & John Barnes No. 2 - 50 Ton Screw Press | Restoration Process Guide",
+    "sourceTitle": "New Machine Day! W. F. & John Barnes No. 2 - 50 Ton Screw Press",
+    "channel": "Keith Rucker - VintageMachinery.org",
+    "publishedAt": "2026-10-12T10:00:06Z",
+    "viewsLabel": "53,688 views at review",
+    "summary": "This viewing guide accompanies \"New Machine Day! W. F. & John Barnes No. 2 - 50 Ton Screw Press\" by Keith Rucker - VintageMachinery.org. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of New Machine Day! W. F. & John Barnes No. 2 - 50 Ton Screw Press.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "vintage machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
