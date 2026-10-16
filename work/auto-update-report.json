@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 292,
+  "added": 2,
+  "totalReviewed": 294,
   "addedVideos": [
     {
-      "videoId": "RUjJccHT7Kw",
-      "title": "From Giant Steel Coil to Heavy Steel Angles | Amazing Steel Manufacturing Process",
+      "videoId": "rUiPGxPjns8",
+      "title": "Pakistani Truck Parts Repair with a Master Mechanic Amazing Restoration",
+      "category": "restoration",
+      "viewCount": 395943
+    },
+    {
+      "videoId": "22rvpUecLts",
+      "title": "The FLYING Tesla Roadster explained by the man who engineered it",
       "category": "inventions",
-      "viewCount": 3464497
+      "viewCount": 424459
     }
   ]
 }
