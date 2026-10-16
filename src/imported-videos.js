@@ -7856,5 +7856,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "RUjJccHT7Kw",
+    "slug": "from-giant-steel-coil-to-heavy-steel-angles-amazing-steel-factory-proces",
+    "category": "inventions",
+    "title": "From Giant Steel Coil to Heavy Steel Angles | Amazing Steel... | Factory Process Guide",
+    "sourceTitle": "From Giant Steel Coil to Heavy Steel Angles | Amazing Steel Manufacturing Process",
+    "channel": "Factory Future",
+    "publishedAt": "2026-08-30T12:14:04Z",
+    "viewsLabel": "3,464,497 views at review",
+    "summary": "This guide accompanies \"From Giant Steel Coil to Heavy Steel Angles | Amazing Steel Manufacturing Process\" by Factory Future and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in From Giant Steel Coil to Heavy Steel Angles | Amazing Steel Manufacturing Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
