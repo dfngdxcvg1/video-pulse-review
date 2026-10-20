@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 296,
+  "added": 2,
+  "totalReviewed": 298,
   "addedVideos": [
     {
-      "videoId": "oqkjlV2IDYc",
-      "title": "Antique Counting Machine [Restoration]",
-      "category": "restoration",
-      "viewCount": 156656
+      "videoId": "awV7FP9sAHE",
+      "title": "Whatever Happened to Fire Escapes?",
+      "category": "inventions",
+      "viewCount": 135093
+    },
+    {
+      "videoId": "WRaRFYD99sM",
+      "title": "Shop Shutter Making from Flat Steel Sheets – Insane Factory Manufacturing Process",
+      "category": "inventions",
+      "viewCount": 77801
     }
   ]
 }

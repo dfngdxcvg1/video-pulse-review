@@ -7991,5 +7991,59 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "awV7FP9sAHE",
+    "slug": "whatever-happened-to-fire-escapes-engineering-breakdown",
+    "category": "inventions",
+    "title": "Whatever Happened to Fire Escapes? | Engineering Breakdown",
+    "sourceTitle": "Whatever Happened to Fire Escapes?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-10-20T13:00:19Z",
+    "viewsLabel": "135,093 views at review",
+    "summary": "This viewing guide accompanies \"Whatever Happened to Fire Escapes?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Whatever Happened to Fire Escapes? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "WRaRFYD99sM",
+    "slug": "shop-shutter-making-from-flat-steel-sheets-insane-factory-factory-proces",
+    "category": "inventions",
+    "title": "Shop Shutter Making from Flat Steel Sheets – Insane Factory... | Factory Process Guide",
+    "sourceTitle": "Shop Shutter Making from Flat Steel Sheets – Insane Factory Manufacturing Process",
+    "channel": "Speed Fix Mechanics",
+    "publishedAt": "2026-10-20T02:00:29Z",
+    "viewsLabel": "77,801 views at review",
+    "summary": "This guide accompanies \"Shop Shutter Making from Flat Steel Sheets – Insane Factory Manufacturing Process\" by Speed Fix Mechanics and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Shop Shutter Making from Flat Steel Sheets – Insane Factory Manufacturing Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
