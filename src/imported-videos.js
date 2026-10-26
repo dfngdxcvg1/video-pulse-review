@@ -8072,5 +8072,32 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "IgMdTTR3YIA",
+    "slug": "how-i-made-this-100-year-old-piece-look-brand-new-restoration-process-gu",
+    "category": "restoration",
+    "title": "How I Made This 100-Year-Old Piece Look Brand New | Restoration Process Guide",
+    "sourceTitle": "How I Made This 100-Year-Old Piece Look Brand New #restoration #satisfying",
+    "channel": "Casa Amor Furniture - by Camila Johnson",
+    "publishedAt": "2026-10-23T02:29:05Z",
+    "viewsLabel": "79,972 views at review",
+    "summary": "This viewing guide accompanies \"How I Made This 100-Year-Old Piece Look Brand New\" by Casa Amor Furniture - by Camila Johnson. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of How I Made This 100-Year-Old Piece Look Brand New.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
