@@ -8099,5 +8099,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "d7Kc6m6zZWE",
+    "slug": "engineering-branch-wise-salary-2026-cse-ece-eee-mechanical-civil-enginee",
+    "category": "inventions",
+    "title": "Engineering Branch Wise Salary 2026 | CSE, ECE, EEE, Mechanical Civil |... | Engineering Breakdown",
+    "sourceTitle": "Engineering Branch Wise Salary 2026 | CSE, ECE, EEE, Mechanical Civil | Telugu | Swaroop Talks",
+    "channel": "Swaroop Talks",
+    "publishedAt": "2026-04-24T10:48:21Z",
+    "viewsLabel": "99,878 views at review",
+    "summary": "This viewing guide accompanies \"Engineering Branch Wise Salary 2026 | CSE, ECE, EEE, Mechanical Civil | Telugu | Swaroop Talks\" by Swaroop Talks. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Engineering Branch Wise Salary 2026 | CSE, ECE, EEE, Mechanical Civil | Telugu | Swaroop Talks before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
