@@ -8126,5 +8126,32 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "hJSbro3EBnY",
+    "slug": "i-fact-checked-every-stunt-in-the-tesla-roadster-reveal-engineering-brea",
+    "category": "inventions",
+    "title": "I Fact-Checked Every Stunt in the Tesla Roadster Reveal | Engineering Breakdown",
+    "sourceTitle": "I Fact-Checked Every Stunt in the Tesla Roadster Reveal",
+    "channel": "Engineering Explained",
+    "publishedAt": "2026-10-23T14:00:00Z",
+    "viewsLabel": "2,325,030 views at review",
+    "summary": "This viewing guide accompanies \"I Fact-Checked Every Stunt in the Tesla Roadster Reveal\" by Engineering Explained. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind I Fact-Checked Every Stunt in the Tesla Roadster Reveal before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
