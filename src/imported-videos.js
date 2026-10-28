@@ -8153,5 +8153,32 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "Ie-KCHHSUo4",
+    "slug": "f1-chief-mechanic-answers-f1-car-questions-tech-support-wired-engineerin",
+    "category": "inventions",
+    "title": "F1 Chief Mechanic Answers F1 Car Questions | Tech Support | WIRED | Engineering Breakdown",
+    "sourceTitle": "F1 Chief Mechanic Answers F1 Car Questions | Tech Support | WIRED",
+    "channel": "WIRED",
+    "publishedAt": "2026-03-05T17:00:04Z",
+    "viewsLabel": "3,203,535 views at review",
+    "summary": "This viewing guide accompanies \"F1 Chief Mechanic Answers F1 Car Questions | Tech Support | WIRED\" by WIRED. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind F1 Chief Mechanic Answers F1 Car Questions | Tech Support | WIRED before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
