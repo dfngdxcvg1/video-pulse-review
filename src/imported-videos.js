@@ -8207,5 +8207,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "jzZoCuw4N0I",
+    "slug": "watch-bamboo-transform-into-fabric-satisfying-relaxing-factory-process-g",
+    "category": "inventions",
+    "title": "Watch Bamboo Transform Into Fabric – Satisfying & Relaxing |... | Factory Process Guide",
+    "sourceTitle": "Watch Bamboo Transform Into Fabric – Satisfying & Relaxing | Manufacturing Process #bamboo #usa",
+    "channel": "KNOW THIS",
+    "publishedAt": "2026-08-25T11:00:21Z",
+    "viewsLabel": "54,770,842 views at review",
+    "summary": "This guide accompanies \"Watch Bamboo Transform Into Fabric – Satisfying & Relaxing | Manufacturing Process\" by KNOW THIS and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Watch Bamboo Transform Into Fabric – Satisfying & Relaxing | Manufacturing Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
