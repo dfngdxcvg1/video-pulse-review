@@ -8234,5 +8234,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "w5CGVRpzIjE",
+    "slug": "see-how-dragon-fruits-turn-into-luxury-soap-factory-process-factory-proc",
+    "category": "inventions",
+    "title": "See How Dragon Fruits Turn Into Luxury Soap | Factory Process | Factory Process Guide",
+    "sourceTitle": "See How Dragon Fruits Turn Into Luxury Soap | Factory Process #Soapmaking",
+    "channel": "KNOW THIS",
+    "publishedAt": "2026-10-31T07:00:22Z",
+    "viewsLabel": "290,269 views at review",
+    "summary": "This guide accompanies \"See How Dragon Fruits Turn Into Luxury Soap | Factory Process\" by KNOW THIS and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in See How Dragon Fruits Turn Into Luxury Soap | Factory Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "huY9G5Z6XuM",
+    "slug": "watch-cabbages-transformation-into-clean-soap-factory-process-factory-pr",
+    "category": "inventions",
+    "title": "Watch Cabbages Transformation Into Clean Soap | Factory Process | Factory Process Guide",
+    "sourceTitle": "Watch  Cabbages Transformation Into Clean Soap | Factory Process #Hygiene",
+    "channel": "KNOW THIS",
+    "publishedAt": "2026-10-31T10:20:10Z",
+    "viewsLabel": "103,093 views at review",
+    "summary": "This guide accompanies \"Watch Cabbages Transformation Into Clean Soap | Factory Process\" by KNOW THIS and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Watch Cabbages Transformation Into Clean Soap | Factory Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];

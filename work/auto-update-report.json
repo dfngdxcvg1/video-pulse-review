@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 305,
+  "added": 2,
+  "totalReviewed": 307,
   "addedVideos": [
     {
-      "videoId": "jzZoCuw4N0I",
-      "title": "Watch Bamboo Transform Into Fabric – Satisfying & Relaxing | Manufacturing Process #bamboo #usa",
+      "videoId": "w5CGVRpzIjE",
+      "title": "See How Dragon Fruits Turn Into Luxury Soap | Factory Process #Soapmaking",
       "category": "inventions",
-      "viewCount": 54770842
+      "viewCount": 290269
+    },
+    {
+      "videoId": "huY9G5Z6XuM",
+      "title": "Watch  Cabbages Transformation Into Clean Soap | Factory Process #Hygiene",
+      "category": "inventions",
+      "viewCount": 103093
     }
   ]
 }
