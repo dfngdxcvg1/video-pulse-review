@@ -8288,5 +8288,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "jmxDzHnbxqc",
+    "slug": "rusty-mystery-tool-bought-for-1-turns-into-treasure-restoration-process-",
+    "category": "restoration",
+    "title": "Rusty Mystery Tool Bought for $1 Turns Into Treasure | Restoration Process Guide",
+    "sourceTitle": "Rusty Mystery Tool Bought for $1 Turns Into Treasure 😱 #usa",
+    "channel": "RanVrs",
+    "publishedAt": "2026-10-27T12:31:36Z",
+    "viewsLabel": "1,380,663 views at review",
+    "summary": "This viewing guide accompanies \"Rusty Mystery Tool Bought for $1 Turns Into Treasure\" by RanVrs. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Rusty Mystery Tool Bought for $1 Turns Into Treasure.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "hcAlUoHKn0c",
+    "slug": "essential-skills-every-mechanical-engineering-fresher-must-learn-enginee",
+    "category": "inventions",
+    "title": "Essential Skills Every Mechanical Engineering Fresher Must Learn | Engineering Breakdown",
+    "sourceTitle": "Essential Skills Every Mechanical Engineering Fresher Must Learn",
+    "channel": "SourceCAD",
+    "publishedAt": "2025-08-18T02:00:29Z",
+    "viewsLabel": "139,105 views at review",
+    "summary": "This viewing guide accompanies \"Essential Skills Every Mechanical Engineering Fresher Must Learn\" by SourceCAD. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Essential Skills Every Mechanical Engineering Fresher Must Learn before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
