@@ -8450,5 +8450,32 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "fCBY1QWKn5Y",
+    "slug": "all-of-mechanical-engineering-explained-in-10-minutes-engineering-breakd",
+    "category": "inventions",
+    "title": "All Of Mechanical Engineering Explained in 10 Minutes | Engineering Breakdown",
+    "sourceTitle": "All Of Mechanical Engineering Explained in 10 Minutes",
+    "channel": "Simplex Academy",
+    "publishedAt": "2026-10-19T16:00:26Z",
+    "viewsLabel": "51,817 views at review",
+    "summary": "This viewing guide accompanies \"All Of Mechanical Engineering Explained in 10 Minutes\" by Simplex Academy. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind All Of Mechanical Engineering Explained in 10 Minutes before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
