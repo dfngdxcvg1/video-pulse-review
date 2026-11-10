@@ -8477,5 +8477,32 @@ export const importedVideos = [
       "Verify designs against reliable technical guidance before building or operating a similar device."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "n05Yu3UAI_o",
+    "slug": "my-first-mistake-as-an-engineer-engineering-breakdown",
+    "category": "inventions",
+    "title": "My First Mistake as an Engineer | Engineering Breakdown",
+    "sourceTitle": "My First Mistake as an Engineer",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-11-10T14:00:20Z",
+    "viewsLabel": "95,178 views at review",
+    "summary": "This viewing guide accompanies \"My First Mistake as an Engineer\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind My First Mistake as an Engineer before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
