@@ -8531,5 +8531,32 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "Mct4CnYqIhY",
+    "slug": "paper-notebook-production-from-wood-logs-to-finished-notebooks-factory-p",
+    "category": "inventions",
+    "title": "Paper Notebook Production | From Wood Logs to Finished Notebooks –... | Factory Process Guide",
+    "sourceTitle": "Paper Notebook Production | From Wood Logs to Finished Notebooks – Complete Manufacturing Process",
+    "channel": "How Made",
+    "publishedAt": "2026-11-05T09:15:01Z",
+    "viewsLabel": "8,427,153 views at review",
+    "summary": "This guide accompanies \"Paper Notebook Production | From Wood Logs to Finished Notebooks – Complete Manufacturing Process\" by How Made and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Paper Notebook Production | From Wood Logs to Finished Notebooks – Complete Manufacturing Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
