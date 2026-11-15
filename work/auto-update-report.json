@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 320,
+  "added": 2,
+  "totalReviewed": 322,
   "addedVideos": [
     {
-      "videoId": "vAdis9fNjU8",
-      "title": "I restored this vintage kitchen stove!",
+      "videoId": "FRl6szKhp2I",
+      "title": "Amazing Tractor Axle Repair Process",
       "category": "restoration",
-      "viewCount": 98715
+      "viewCount": 545466
+    },
+    {
+      "videoId": "6cWmFGiN6Mw",
+      "title": "Mechanical Engineering Career | Job, Salary & Top Profiles #mechanicalengineering",
+      "category": "inventions",
+      "viewCount": 72411
     }
   ]
 }
