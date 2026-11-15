@@ -1,18 +1,12 @@
 {
-  "added": 2,
-  "totalReviewed": 322,
+  "added": 1,
+  "totalReviewed": 323,
   "addedVideos": [
     {
-      "videoId": "FRl6szKhp2I",
-      "title": "Amazing Tractor Axle Repair Process",
+      "videoId": "ZIWTSkCVxjk",
+      "title": "Building a Functional LEGO Typewriter",
       "category": "restoration",
-      "viewCount": 545466
-    },
-    {
-      "videoId": "6cWmFGiN6Mw",
-      "title": "Mechanical Engineering Career | Job, Salary & Top Profiles #mechanicalengineering",
-      "category": "inventions",
-      "viewCount": 72411
+      "viewCount": 3934390
     }
   ]
 }
