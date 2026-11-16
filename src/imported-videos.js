@@ -8720,5 +8720,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "zaFOxhhuKLc",
+    "slug": "millions-of-banana-leaves-turn-into-denim-pants-shirts-manufacturing-fac",
+    "category": "inventions",
+    "title": "Millions of Banana Leaves Turn Into Denim Pants & Shirts | Manufacturing... | Factory Process Guide",
+    "sourceTitle": "Millions of Banana Leaves Turn Into Denim Pants & Shirts | Manufacturing Process #Fashion",
+    "channel": "KNOW THIS",
+    "publishedAt": "2026-10-25T07:20:19Z",
+    "viewsLabel": "18,188,049 views at review",
+    "summary": "This guide accompanies \"Millions of Banana Leaves Turn Into Denim Pants & Shirts | Manufacturing Process\" by KNOW THIS and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Millions of Banana Leaves Turn Into Denim Pants & Shirts | Manufacturing Process.",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
