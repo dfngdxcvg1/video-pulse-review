@@ -8747,5 +8747,59 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "rj-G_gmFWtE",
+    "slug": "why-are-there-so-many-different-transmission-towers-engineering-breakdow",
+    "category": "inventions",
+    "title": "Why Are There So Many Different Transmission Towers? | Engineering Breakdown",
+    "sourceTitle": "Why Are There So Many Different Transmission Towers?",
+    "channel": "Practical Engineering",
+    "publishedAt": "2026-11-17T14:00:10Z",
+    "viewsLabel": "242,935 views at review",
+    "summary": "This viewing guide accompanies \"Why Are There So Many Different Transmission Towers?\" by Practical Engineering. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Why Are There So Many Different Transmission Towers? before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "practical engineering build",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "2Qi5HlzZIYk",
+    "slug": "electrical-engineer-versus-mechanical-engineer-which-one-is-better-engin",
+    "category": "inventions",
+    "title": "Electrical engineer versus mechanical engineer, which one is better | Engineering Breakdown",
+    "sourceTitle": "Electrical engineer versus mechanical engineer, which one is better",
+    "channel": "Sci-Data",
+    "publishedAt": "2026-08-04T03:58:45Z",
+    "viewsLabel": "125,822 views at review",
+    "summary": "This viewing guide accompanies \"Electrical engineer versus mechanical engineer, which one is better\" by Sci-Data. It frames the video around the problem being solved, the mechanism or build choice involved, and the evidence that shows whether the idea works outside the initial demonstration.",
+    "takeaways": [
+      "Define the practical problem or constraint behind Electrical engineer versus mechanical engineer, which one is better before judging the finished build.",
+      "Identify the mechanism, material choice, or geometry that does most of the work.",
+      "Watch for iteration: failed attempts and design changes often explain more than the final reveal.",
+      "Judge the result by testing, repeatability, and tradeoffs rather than appearance alone."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "mechanical engineering explained",
+    "topicType": "Engineering",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Engineering demonstrations may omit calculations, load limits, guarding, electrical protection, or long-term testing.",
+      "Verify designs against reliable technical guidance before building or operating a similar device."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];

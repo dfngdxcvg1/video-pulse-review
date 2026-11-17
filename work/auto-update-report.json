@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 324,
+  "added": 2,
+  "totalReviewed": 326,
   "addedVideos": [
     {
-      "videoId": "zaFOxhhuKLc",
-      "title": "Millions of Banana Leaves Turn Into Denim Pants & Shirts | Manufacturing Process #Fashion",
+      "videoId": "rj-G_gmFWtE",
+      "title": "Why Are There So Many Different Transmission Towers?",
       "category": "inventions",
-      "viewCount": 18188049
+      "viewCount": 242935
+    },
+    {
+      "videoId": "2Qi5HlzZIYk",
+      "title": "Electrical engineer versus mechanical engineer, which one is better",
+      "category": "inventions",
+      "viewCount": 125822
     }
   ]
 }
