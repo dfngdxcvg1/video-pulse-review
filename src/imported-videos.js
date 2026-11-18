@@ -8828,5 +8828,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "45slYC99uUg",
+    "slug": "inside-tesla-s-factories-how-model-s-model-3-and-model-y-electric-factor",
+    "category": "inventions",
+    "title": "Inside Tesla’s Factories: How Model S, Model 3, and Model Y Electric... | Factory Process Guide",
+    "sourceTitle": "Inside Tesla’s Factories: How Model S, Model 3, and Model Y Electric Cars Are Made (USA & Germany)",
+    "channel": "Cars BOOM",
+    "publishedAt": "2025-01-30T03:01:01Z",
+    "viewsLabel": "365,183 views at review",
+    "summary": "This guide accompanies \"Inside Tesla’s Factories: How Model S, Model 3, and Model Y Electric Cars Are Made (USA & Germany)\" by Cars BOOM and helps viewers follow the production sequence. Look for the change from raw material to formed parts, the role of repeatable machinery, and the checks used before a finished product leaves the line.",
+    "takeaways": [
+      "Track the material or components entering the process shown in Inside Tesla’s Factories: How Model S, Model 3, and Model Y Electric Cars Are Made (USA & Germany).",
+      "Notice which steps shape, join, heat, coat, fill, or package the product.",
+      "Look for fixtures, sensors, gauges, or human checks that keep repeated work consistent.",
+      "Compare production speed with the points where quality control slows the line down."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "factory manufacturing process",
+    "topicType": "Manufacturing",
+    "difficulty": "Industrial process",
+    "safetyNotes": [
+      "Industrial equipment relies on guards, lockout procedures, ventilation, and trained operators that may not be visible on camera.",
+      "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
