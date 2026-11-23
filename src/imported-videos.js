@@ -8990,5 +8990,32 @@ export const importedVideos = [
       "Do not reproduce factory operations without the equipment documentation and workplace controls required for the process."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "JwG6djXr7j8",
+    "slug": "engineer-in-shock-0254-restoration-process-guide",
+    "category": "restoration",
+    "title": "Engineer in Shock 0254 | Restoration Process Guide",
+    "sourceTitle": "Engineer in Shock 😱 0254 #adamrose #construction #engineering #workers",
+    "channel": "Engineer Reaction Zone",
+    "publishedAt": "2026-11-19T19:41:20Z",
+    "viewsLabel": "1,968,991 views at review",
+    "summary": "This viewing guide accompanies \"Engineer in Shock 0254\" by Engineer Reaction Zone. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Engineer in Shock 0254.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "workshop equipment repair",
+    "topicType": "Restoration",
+    "difficulty": "Advanced",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
