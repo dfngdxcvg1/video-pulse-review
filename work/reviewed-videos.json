@@ -9827,5 +9827,67 @@
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "restoration",
+    "query": "antique tool restoration",
+    "videoId": "Gb3tbO_Nh1s",
+    "sourceTitle": "I Restored This Antique Japanese Katana",
+    "channel": "Restore & Shine",
+    "publishedAt": "2026-11-21T14:33:53Z",
+    "viewCount": 181434,
+    "likeCount": 2793,
+    "duration": "PT2M56S",
+    "keyword": "antique tool restoration",
+    "proposedTitle": "I Restored This Antique Japanese Katana | Restoration Process Guide",
+    "summary": "This viewing guide accompanies \"I Restored This Antique Japanese Katana\" by Restore & Shine. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of I Restored This Antique Japanese Katana.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "durationSeconds": 176,
+    "timestampsVerified": false,
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
+  },
+  {
+    "reviewStatus": "approved",
+    "category": "restoration",
+    "query": "antique tool restoration",
+    "videoId": "6aLn6ep3dx4",
+    "sourceTitle": "Restoration of a Mysterious Object. ASMR Video",
+    "channel": "ReXtorer",
+    "publishedAt": "2026-11-22T16:00:06Z",
+    "viewCount": 52432,
+    "likeCount": 1048,
+    "duration": "PT15M36S",
+    "keyword": "antique tool restoration",
+    "proposedTitle": "Restoration of a Mysterious Object. ASMR Video | Restoration Process Guide",
+    "summary": "This viewing guide accompanies \"Restoration of a Mysterious Object. ASMR Video\" by ReXtorer. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Restoration of a Mysterious Object. ASMR Video.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "durationSeconds": 936,
+    "timestampsVerified": false,
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ]

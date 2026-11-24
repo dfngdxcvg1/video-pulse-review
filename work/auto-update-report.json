@@ -1,12 +1,18 @@
 {
-  "added": 1,
-  "totalReviewed": 335,
+  "added": 2,
+  "totalReviewed": 337,
   "addedVideos": [
     {
-      "videoId": "llYkOb5rMIA",
-      "title": "Can You Guess It Before the Restoration Begins? Amazing Transformation!",
+      "videoId": "Gb3tbO_Nh1s",
+      "title": "I Restored This Antique Japanese Katana",
       "category": "restoration",
-      "viewCount": 58070
+      "viewCount": 181434
+    },
+    {
+      "videoId": "6aLn6ep3dx4",
+      "title": "Restoration of a Mysterious Object. ASMR Video",
+      "category": "restoration",
+      "viewCount": 52432
     }
   ]
 }
