@@ -9017,5 +9017,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "llYkOb5rMIA",
+    "slug": "can-you-guess-it-before-the-restoration-begins-amazing-transformation-re",
+    "category": "restoration",
+    "title": "Can You Guess It Before the Restoration Begins? Amazing Transformation! | Restoration Process Guide",
+    "sourceTitle": "Can You Guess It Before the Restoration Begins? Amazing Transformation!",
+    "channel": "Olden Restoration",
+    "publishedAt": "2025-11-16T13:14:42Z",
+    "viewsLabel": "58,070 views at review",
+    "summary": "This viewing guide accompanies \"Can You Guess It Before the Restoration Begins? Amazing Transformation!\" by Olden Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Can You Guess It Before the Restoration Begins? Amazing Transformation!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "typewriter or sewing machine restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
