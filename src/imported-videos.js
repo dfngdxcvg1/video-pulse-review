@@ -9125,5 +9125,32 @@ export const importedVideos = [
       "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
     ],
     "editorialMode": "metadata-assisted"
+  },
+  {
+    "id": "NXcbrR2pyjs",
+    "slug": "nobody-thought-this-could-work-again-restoration-process-guide",
+    "category": "restoration",
+    "title": "Nobody Thought This Could Work Again! | Restoration Process Guide",
+    "sourceTitle": "Nobody Thought This Could Work Again!",
+    "channel": "A One Restoration",
+    "publishedAt": "2026-11-21T13:00:08Z",
+    "viewsLabel": "50,986 views at review",
+    "summary": "This viewing guide accompanies \"Nobody Thought This Could Work Again!\" by A One Restoration. It focuses on how to assess the starting condition, follow the repair choices, and separate a cosmetic finish from a result that restores useful function.",
+    "takeaways": [
+      "Identify the damage, wear, corrosion, or missing parts visible at the start of Nobody Thought This Could Work Again!.",
+      "Watch how components are documented, separated, cleaned, and evaluated before replacement or refinishing.",
+      "Compare surface preparation and mechanical repair; a polished finish does not always prove the object works.",
+      "Use the final test, fit, movement, or operating check to judge the result."
+    ],
+    "timestamps": [],
+    "timestampsVerified": false,
+    "keyword": "antique tool restoration",
+    "topicType": "Restoration",
+    "difficulty": "Intermediate",
+    "safetyNotes": [
+      "Restoration videos can involve solvents, rust removal, electricity, sharp edges, heat, and pressurized parts.",
+      "Treat the video as a demonstration, not a complete safety procedure; use appropriate training and protective equipment."
+    ],
+    "editorialMode": "metadata-assisted"
   }
 ];
